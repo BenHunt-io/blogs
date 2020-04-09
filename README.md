@@ -5,7 +5,7 @@ Intuitively we are our bodies in it's entirety from head to toe. After all, I ca
 
 I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
 
-Let's take a step back for a second. Admire the mere fact that you are pondering who you are. You are the most complex thing in the Universe and you have no idea who you are.
+Let's take a step back for a second. Admire the mere fact that you are pondering who you are. You are the most complex thing in the Universe and you have no idea what makes you, you.
 
 
 
@@ -13,5 +13,5 @@ Let's take a step back for a second. Admire the mere fact that you are pondering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDU0NzU1LC0xMzYzMDY0NTg1XX0=
+eyJoaXN0b3J5IjpbLTcxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
 -->
