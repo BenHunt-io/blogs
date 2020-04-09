@@ -3,10 +3,8 @@ Are you the hometown hero? Are you a farmer in a rural village? Are you a serial
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
-I've been thinking deeply about this. 
-
-
+I've been thinking deeply about this. Unfortunately, there are so many facets in determining who you are,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzU0NDgwNSwtMTM2MzA2NDU4NV19
+eyJoaXN0b3J5IjpbLTY5MDIzNTc0LC0xMzYzMDY0NTg1XX0=
 -->
