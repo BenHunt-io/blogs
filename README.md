@@ -6,6 +6,7 @@ Intuitively we are our bodies in it's entirety from head to toe. After all, I ca
 I've been thinking deeply about this. 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMwNjQ1ODVdfQ==
+eyJoaXN0b3J5IjpbMjA5MzU0NDgwNSwtMTM2MzA2NDU4NV19
 -->
