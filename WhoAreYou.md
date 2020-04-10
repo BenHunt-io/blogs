@@ -22,8 +22,8 @@ The universe in which we exist holds a few properties that can strip away our id
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. The land of the free. I have two loving parents, an older brother and sister.
 
-
+Is this time and place, the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTM1NjA1MCwzMzQyNzU1NCwtMTE0Mj
+eyJoaXN0b3J5IjpbMjA5MDI1MTEwNCwzMzQyNzU1NCwtMTE0Mj
 MyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
 -->
