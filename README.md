@@ -11,12 +11,11 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-Y
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3Mjg3Mzk2LC0xOTExNTM1MjY1LC03MT
+eyJoaXN0b3J5IjpbMzQxNDY5NDY1LC0xOTExNTM1MjY1LC03MT
 Y3NzUxNSwtMTM2MzA2NDU4NV19
 -->
