@@ -28,10 +28,12 @@ Is this the only time and place that could have yielded me?
 
 
 
-References:
-[https://vedanta.org/what-is-vedanta/](https://vedanta.org/what-is-vedaasdas)
+###%References:
+
+[Vendanta](https://vedanta.org/what-is-vedaasda)
+It is inevitable that we will eventually, either in this or in future lives, discover that the greatest truth of our existence is our own divine nature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzND
-I3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1Nzkz
-N119
+eyJoaXN0b3J5IjpbLTE2MzMzNzI2MjMsMTgyOTIwMjY2NiwtMj
+c4MDM1Njk3LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4
+MTIsMTk5NDY1NzkzN119
 -->
