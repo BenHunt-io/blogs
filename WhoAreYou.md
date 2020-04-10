@@ -22,7 +22,7 @@ The universe in which we exist holds a few properties that can strip away our id
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
 
-Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe (13.8 billion years). A perspective that might be easier to grasp, is your unique sequential id. 
+Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe (13.8 billion years). A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0.
 
 
 
@@ -52,9 +52,9 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMTA0ODEyLC0xNjczODQ5OTM1LDQwMj
-k1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2MjksNTY3MDk0NTIw
-LDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMTg1MTIwMTIsMTgyOT
-IwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0LC0xMTQyMzI2OTIx
-LDE0NTg1MDA4MTIsMTk5NDY1NzkzN119
+eyJoaXN0b3J5IjpbMTA2ODAwNjk3OCwtMTY3Mzg0OTkzNSw0MD
+I5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgzNjI5LDU2NzA5NDUy
+MCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMzE4NTEyMDEyLDE4Mj
+kyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMTE0MjMyNjky
+MSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
 -->
