@@ -10,14 +10,13 @@ Let's take a step back for a second. Admire the mere fact that you are pondering
 Let's begin with your identity. When pondering what makes you you, you likely conjure up some defining characteristic or attribute about yourself that you can definitively say is you. This typically comes in the form of an occupation. I'm a software developer. That's who I am. But is it really? 
 
 **[identity picture]**
-a
 
-
+Y
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDcyMjc5MCwtMTkxMTUzNTI2NSwtNz
-E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
+eyJoaXN0b3J5IjpbMzM3Mjg3Mzk2LC0xOTExNTM1MjY1LC03MT
+Y3NzUxNSwtMTM2MzA2NDU4NV19
 -->
