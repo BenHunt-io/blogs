@@ -23,7 +23,15 @@ The universe in which we exist holds a few properties that can strip away our id
 **Place:** I was born in Dallas Texas, United States. The land of the free. I have two loving parents, an older brother and sister.
 
 Is this the only time and place that could have yielded me?
+
+
+
+
+
+References:
+[https://vedanta.org/what-is-vedanta/](https://vedanta.org/what-is-veda)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODAzNTY5NywzMzQyNzU1NCwtMTE0Mj
-MyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
+eyJoaXN0b3J5IjpbMTc0MjI2MzMyLC0yNzgwMzU2OTcsMzM0Mj
+c1NTQsLTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3
+XX0=
 -->
