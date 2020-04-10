@@ -31,9 +31,14 @@ Is this the only time and place that could have yielded me?
 ##### References:
 
 [Vendanta](https://vedanta.org/what-is-vedaasda)
-It is inevitable that we will eventually, either in this or in future lives, discover that the greatest truth of our existence is our own divine nature.
+
+ - It is inevitable that we will eventually, either in this or in future
+   lives, discover that the greatest truth of our existence is our own
+  - divine nature. Vedanta, God is infinite existence, infinite
+   consciousness, and infinite bliss.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODUxMjAxMiwxODI5MjAyNjY2LC0yNz
-gwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1ODUwMDgx
-MiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTEyNjA3MTk4OTAsMTMxODUxMjAxMiwxOD
+I5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5
+MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
 -->
