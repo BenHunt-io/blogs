@@ -26,6 +26,10 @@ Let's be generous and say you go on to become a centenarian, e.g. I live to see 
 
 There has been 105 billion unique environments in which people have been raised. If you were to grow up in all 105 billion environmental configurations that have so far existed for homo sapiens, would you still be a software engineer? No. You wouldn't. Occupations, like software engineering, tribe leader, and lead pyramid architect only exist in a minute subset of the configurations. They only exist a glimpse in time. These occupations seemingly define your identity, who you are, yet only exist as a product of evolutionary progress.
 
+If
+
+
+
 Who you truly are is independent of the environmental configuration in which you exist. 
 
 
@@ -54,10 +58,10 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTAyOTkyNiwxOTUzNTQwNDQxLDIwMT
-I4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQx
-ODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMD
-c3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2
-OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOT
-k0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbMjc2NDg1NTUsMTk1MzU0MDQ0MSwyMDEyOD
+IzOTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0
+LDE1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nz
+gxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3
+LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5ND
+Y1NzkzN119
 -->
