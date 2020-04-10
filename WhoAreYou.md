@@ -41,9 +41,11 @@ Is this the only time and place that could have yielded me?
 
 - All fear and all misery arise from our sense of separation from the great cosmic unity, the web of being that enfolds us.
 - The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
+[Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzg2MDgsLTIwMDc3ODE3NTAsMTMxOD
-UxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQs
-LTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTM0Mjk2MTk1LDgyMjM4NjA4LC0yMDA3Nz
+gxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3
+LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5ND
+Y1NzkzN119
 -->
