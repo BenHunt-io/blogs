@@ -12,8 +12,8 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 **[identity picture]**
 
 We need to dig deeper. After all, my occupation has only been around for less than 100 years and likely the same with yours.
-
+Defining yourself by your occupation is like defining yourself 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU2NTU5OTQsLTE5MTE1MzUyNjUsLT
+eyJoaXN0b3J5IjpbLTEzMDA2NjEzOTgsLTE5MTE1MzUyNjUsLT
 cxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
 -->
