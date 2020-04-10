@@ -34,11 +34,10 @@ Is this the only time and place that could have yielded me?
 
  - It is inevitable that we will eventually, either in this or in future
    lives, discover that the greatest truth of our existence is our own
-  - divine nature. Vedanta, God is infinite existence, infinite
-   consciousness, and infinite bliss.
+  - God is infinite existence, infinite consciousness, and infinite bliss.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA3MTk4OTAsMTMxODUxMjAxMiwxOD
-I5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5
-MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbMjEyMzIxNzgxMywxMzE4NTEyMDEyLDE4Mj
+kyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMTE0MjMyNjky
+MSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
 -->
