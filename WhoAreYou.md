@@ -37,13 +37,7 @@ Everyone has a multitude of wants.
 | Social|  |
 | Moral	|		|
 | Practical |  |
-|		| 		|
-
-
-
- but **who you are**
-
-
+| Lifestyle		| 		|
 
 Who you truly are is independent of the environmental configuration in which you exist. 
 
@@ -75,7 +69,7 @@ Is this the only time and place that could have yielded me?
 
 [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIyMDM3MTcsMTMzMDY2MjU0MSwtND
+eyJoaXN0b3J5IjpbLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtND
 Q2MTkwNDA1LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgy
 MzkxOCwtMTY3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NC
 wxNTM1NDgzNjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4
