@@ -22,7 +22,7 @@ The universe in which we exist holds a few properties that can strip away our id
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
 
-Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe. Okay, okay. I understand my time here is limited, so why should I spend it reading the rest of this article?
+Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe. Okay, okay. I understand my time here is limited, so why should I spend it reading the rest of this blog?
 
 Is this the only time and place that could have yielded me?
 
@@ -47,8 +47,8 @@ Is this the only time and place that could have yielded me?
 
 - The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc3NDUwNDAsMTUzNTQ4MzYyOSw1Nj
-cwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAx
-MiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExND
-IzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTM1MTU2NTI1NCwxNTM1NDgzNjI5LDU2Nz
+A5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMzE4NTEyMDEy
+LDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMTE0Mj
+MyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
 -->
