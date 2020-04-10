@@ -11,8 +11,8 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-We need to dig deeper. After all, my occupation has only been around for less than 100 years and likely the same with yours. How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? You aren't 20, 30, 40 years old, but 13.8 bi.l
+We need to dig deeper. Why is it that I am a software developer? After all, my occupation has only been around for less than 100 years and likely the same with yours. How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? The observable universe isn't 20, 30, 40 years old, but at-least 13.8 billion years old. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODAzMzU0MiwtMTkxMTUzNTI2NSwtNz
+eyJoaXN0b3J5IjpbMTM1MzY0ODA1OCwtMTkxMTUzNTI2NSwtNz
 E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
 -->
