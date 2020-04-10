@@ -11,11 +11,12 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-It sure is a conveinent 
+It sure is a convenient for society to pigeon hole you into a situation for the rest of your life. 
+ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE1MzIwMywtMTkxMTUzNTI2NSwtNz
+eyJoaXN0b3J5IjpbLTI3NTA2MzczMSwtMTkxMTUzNTI2NSwtNz
 E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
 -->
