@@ -7,7 +7,7 @@ I've been thinking deeply about this. Unfortunately, there are seemingly endless
 
 Let's take a step back for a second. Admire the mere fact that you are pondering who you are. You are the most complex thing in the Universe and you have no idea what makes you, you.
 
-Let's begin with your identity. When pondering what makes you you, you likely conjure up some defining characteristic or attribute about yourself that you can definitively say is you. This typically comes in the form of an occupation. I'm a software developer. That's who I am. But is it really? 
+Let's begin with your identity. When pondering what makes you you, you likely conjure up some defining characteristic or attribute about yourself that you can definitively say is you. This typically comes in the form of an occupation. I'm a software developer. That's who I am. But is it really? s
 
 
 
@@ -17,6 +17,6 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA3Njg1NjMsLTcxNjc3NTE1LC0xMz
+eyJoaXN0b3J5IjpbLTE4NDA0Mjg5NDAsLTcxNjc3NTE1LC0xMz
 YzMDY0NTg1XX0=
 -->
