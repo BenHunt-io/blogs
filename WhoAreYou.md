@@ -41,11 +41,13 @@ Is this the only time and place that could have yielded me?
 
 - All fear and all misery arise from our sense of separation from the great cosmic unity, the web of being that enfolds us.
 - The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
+
 [Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect)
-The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
+
+- The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzA5NzI5NSw4MjIzODYwOCwtMjAwNz
-c4MTc1MCwxMzE4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5
-NywzMzQyNzU1NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OT
-Q2NTc5MzddfQ==
+eyJoaXN0b3J5IjpbNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nz
+gxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3
+LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5ND
+Y1NzkzN119
 -->
