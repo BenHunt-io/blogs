@@ -36,12 +36,14 @@ Is this the only time and place that could have yielded me?
    lives, discover that the greatest truth of our existence is our own
   - God is infinite existence, infinite consciousness, and infinite bliss.
 - Vedanta asserts that the goal of life is to realize and to manifest our own divinity
-- The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
 
 [Vedanta - Oneness of existence](https://vedanta.org/what-is-vedanta/the-oneness-of-existence/)
+
+- All fear and all misery arise from our sense of separation from the great cosmic unity, the web of being that enfolds us.
+- The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzkzNTQwMiwtMjAwNzc4MTc1MCwxMz
-E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
-NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ
-==
+eyJoaXN0b3J5IjpbODIyMzg2MDgsLTIwMDc3ODE3NTAsMTMxOD
+UxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQs
+LTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
 -->
