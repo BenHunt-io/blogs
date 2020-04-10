@@ -22,6 +22,8 @@ The universe in which we exist holds a few properties that can strip away our id
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
 
+
+
 Is this the only time and place that could have yielded me?
 
 
@@ -46,8 +48,8 @@ Is this the only time and place that could have yielded me?
 
 - The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTAwNTg0NCw1NjcwOTQ1MjAsODIyMz
-g2MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2
-LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1OD
-UwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTE2NDI4ODEwMDgsNTY3MDk0NTIwLDgyMj
+M4NjA4LC0yMDA3NzgxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2
+NiwtMjc4MDM1Njk3LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NT
+g1MDA4MTIsMTk5NDY1NzkzN119
 -->
