@@ -30,6 +30,12 @@ There has been 105 billion unique environments in which people have been raised.
 
 Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration? 
 
+You might have
+|  |  |
+|--|--|
+|  |  |
+
+
 
 
  but **who you are**
@@ -63,11 +69,14 @@ Is this the only time and place that could have yielded me?
 - The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
+
+[Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDY2MjU0MSwtNDQ2MTkwNDA1LC0xNj
-A1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMTY3Mzg0
-OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgzNjI5LD
-U2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMzE4NTEy
-MDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMT
-E0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
+eyJoaXN0b3J5IjpbLTMyMjQxMzI2MCwxMzMwNjYyNTQxLC00ND
+YxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIz
+OTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LD
+E1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nzgx
+NzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LD
+MzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1
+NzkzN119
 -->
