@@ -11,11 +11,8 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-What led you to this place?  
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDc1ODg1NiwtMTkxMTUzNTI2NSwtNz
+eyJoaXN0b3J5IjpbMTAzMjk0OTgzOSwtMTkxMTUzNTI2NSwtNz
 E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
 -->
