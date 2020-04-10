@@ -11,8 +11,9 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
+We need to dig deeper. After all, my occupation has only been around for less than 100 years and likely the same with yours.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjk0OTgzOSwtMTkxMTUzNTI2NSwtNz
-E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDU2NTU5OTQsLTE5MTE1MzUyNjUsLT
+cxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
 -->
