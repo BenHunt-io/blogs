@@ -17,8 +17,8 @@ Identity is a unique characteristic. What is unique about being a software devel
 
 0 Years --------------------------------------------------------> 13.8 billion
 
-The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* These 4 dimensions largely determine who we are in the traditional sense. I was born at 13.8 billion years from the start of the universe in a very peculiar time. It had only been 
+The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* These 4 dimensions largely determine who we are in the traditional sense. I was born at 13.8 billion years from the start of the universe in a very peculiar time. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNjg5MDUyLDE0NTg1MDA4MTIsMTk5ND
+eyJoaXN0b3J5IjpbNjIyNTQ4MjYwLDE0NTg1MDA4MTIsMTk5ND
 Y1NzkzN119
 -->
