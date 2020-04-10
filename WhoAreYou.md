@@ -24,7 +24,7 @@ The universe in which we exist holds a few properties that can strip away our id
 
 Let's be generous and say you go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe or 100/13.8 billion years. A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0. The "first" human is arbitrary and depends upon what we define as a homo sapiens. The count is currently around 105 billion.
 
-There has been 105 billion unique environments in which people have been raised. Would you have been a s
+There has been 105 billion unique environments in which people have been raised. If you were to grow up in all 105 billion environmental configurations that have so far existed for homo sapiens, would you still be a software engineer?
 
 
 
@@ -54,9 +54,10 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM4ODgwOSwyMDEyODIzOTE4LC0xNj
-czODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2
-MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMT
-g1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0
-LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1NzkzN119
+eyJoaXN0b3J5IjpbLTEyMTcxNzYyNTksMjAxMjgyMzkxOCwtMT
+Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
+NjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMz
+E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
+NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ
+==
 -->
