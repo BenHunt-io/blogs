@@ -28,7 +28,7 @@ There has been 105 billion unique environments in which people have been raised.
 
 **What you do** depends upon the environmental configuration in which you exist. Whether it be now as a software developer or hunter gatherer much more long ago, the available options are dependent upon time and place. This serves a lousy framework for determining **who you are**. 
 
-Well, each one of us has wants and desires. Some want to be rich. S
+Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some
 
 
  but **who you are**
@@ -63,10 +63,10 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM1NDg4ODQsMTk1MzU0MDQ0MSwyMD
-EyODIzOTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0
-MTg0LDE1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMD
-A3NzgxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1
-Njk3LDMzNDI3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMT
-k5NDY1NzkzN119
+eyJoaXN0b3J5IjpbMTQ0MzY0MDMxMiwxOTUzNTQwNDQxLDIwMT
+I4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQx
+ODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMD
+c3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2
+OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOT
+k0NjU3OTM3XX0=
 -->
