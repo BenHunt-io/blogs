@@ -17,7 +17,7 @@ Identity is a unique characteristic. What is unique about being a software devel
 
 0 Years --------------------------------------------------------> 13.8 billion
 
-The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* These 4 dimensions largely determine who we are in the traditional sense. 
+The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* These 4 dimensions largely determine who we are in the traditional sense for most people. 
 
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
@@ -48,7 +48,7 @@ Is this the only time and place that could have yielded me?
 
 - The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTcwMjMwNywxNTM1NDgzNjI5LDU2Nz
+eyJoaXN0b3J5IjpbLTY2MjQ5NDkzMCwxNTM1NDgzNjI5LDU2Nz
 A5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMzE4NTEyMDEy
 LDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMTE0Mj
 MyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
