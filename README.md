@@ -11,12 +11,11 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-It sure is a convenient for society to pigeon hole you into a situation for the rest of your life. 
- 
+What led you to this place?  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTA2MzczMSwtMTkxMTUzNTI2NSwtNz
+eyJoaXN0b3J5IjpbMTI0MDc1ODg1NiwtMTkxMTUzNTI2NSwtNz
 E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
 -->
