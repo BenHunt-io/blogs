@@ -22,7 +22,7 @@ The universe in which we exist holds a few properties that can strip away our id
 **Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
 **Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
 
-Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe or  100/13.8 billion years. A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0. The "first" human is arbitrary and depends upon what we define as a homo sapiens. 
+Let's be generous and say I go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe or 100/13.8 billion years. A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0. The "first" human is arbitrary and depends upon what we define as a homo sapiens. 
 
 
 
@@ -52,9 +52,9 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNjg4Nzc2LDIwMTI4MjM5MTgsLTE2Nz
-M4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4MzYy
-OSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMTMxOD
-UxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQs
-LTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTU5Mzk1MzUyMiwyMDEyODIzOTE4LC0xNj
+czODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2
+MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMT
+g1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0
+LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1NzkzN119
 -->
