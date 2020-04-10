@@ -30,7 +30,7 @@ There has been 105 billion unique environments in which people have been raised.
 
 Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration? 
 
-You might have
+Everyone has a multitude of wants.
 |  |  |
 |--|--|
 |  |  |
@@ -72,7 +72,7 @@ Is this the only time and place that could have yielded me?
 
 [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjQxMzI2MCwxMzMwNjYyNTQxLC00ND
+eyJoaXN0b3J5IjpbMTcyMjcxNzI2NSwxMzMwNjYyNTQxLC00ND
 YxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIz
 OTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LD
 E1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nzgx
