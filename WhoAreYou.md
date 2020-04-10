@@ -30,14 +30,18 @@ Is this the only time and place that could have yielded me?
 
 ##### References:
 
-[Vendanta](https://vedanta.org/what-is-vedaasda)
+[What is Vedanta](https://vedanta.org/what-is-vedaasda)
 
  - It is inevitable that we will eventually, either in this or in future
    lives, discover that the greatest truth of our existence is our own
   - God is infinite existence, infinite consciousness, and infinite bliss.
 - Vedanta asserts that the goal of life is to realize and to manifest our own divinity
+- The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
+
+[Vedanta - Oneness of existence](https://vedanta.org/what-is-vedanta/the-oneness-of-existence/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxOD
-I5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5
-MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbLTU4MzkzNTQwMiwtMjAwNzc4MTc1MCwxMz
+E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
+NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ
+==
 -->
