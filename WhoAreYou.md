@@ -28,6 +28,7 @@ There has been 105 billion unique environments in which people have been raised.
 
 
 
+
 Is this the only time and place that could have yielded me?
 
 
@@ -53,9 +54,10 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODQ3NjA0MSwyMDEyODIzOTE4LC0xNj
-czODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2
-MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMT
-g1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0
-LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1NzkzN119
+eyJoaXN0b3J5IjpbLTExODM1MTEwMTMsMjAxMjgyMzkxOCwtMT
+Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
+NjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMz
+E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
+NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ
+==
 -->
