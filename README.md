@@ -7,11 +7,14 @@ I've been thinking deeply about this. Unfortunately, there are seemingly endless
 
 Let's take a step back for a second. Admire the mere fact that you are pondering who you are. You are the most complex thing in the Universe and you have no idea what makes you, you.
 
+When I ask
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
+eyJoaXN0b3J5IjpbLTIxMTc2NDI3NjMsLTcxNjc3NTE1LC0xMz
+YzMDY0NTg1XX0=
 -->
