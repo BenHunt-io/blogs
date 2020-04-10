@@ -24,7 +24,7 @@ The universe in which we exist holds a few properties that can strip away our id
 
 Let's be generous and say you go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe or 100/13.8 billion years. A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0. The "first" human is arbitrary and depends upon what we define as a homo sapiens. The count is currently around 105 billion.
 
-There has been 105 billion unique environments in which people have been raised. If you were to grow up in all 105 billion environmental configurations that have so far existed for homo sapiens, would you still be a software engineer? No. You wouldn't. Occupations, like software engineering, tribe leader, and lead pyramid architect only exist in a minute subset of the configurations. They only exist for blimps in time. These occupations seemingly define your identity, who you are, yet only exist as a product of evolutionary progress.
+There has been 105 billion unique environments in which people have been raised. If you were to grow up in all 105 billion environmental configurations that have so far existed for homo sapiens, would you still be a software engineer? No. You wouldn't. Occupations, like software engineering, tribe leader, and lead pyramid architect only exist in a minute subset of the configurations. They only exist a glimpse in time. These occupations seemingly define your identity, who you are, yet only exist as a product of evolutionary progress.
 
 
 
@@ -54,7 +54,7 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjY0NzExNSwxOTUzNTQwNDQxLDIwMT
+eyJoaXN0b3J5IjpbLTgyMDY1MDQyMywxOTUzNTQwNDQxLDIwMT
 I4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQx
 ODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMD
 c3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2
