@@ -29,9 +29,9 @@ Is this the only time and place that could have yielded me?
 
 
 References:
-[https://vedanta.org/what-is-vedanta/](https://vedanta.org/what-is-veda)
+[https://vedanta.org/what-is-vedanta/](https://vedanta.org/what-is-vedaasdasasd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjI2MzMyLC0yNzgwMzU2OTcsMzM0Mj
-c1NTQsLTExNDIzMjY5MjEsMTQ1ODUwMDgxMiwxOTk0NjU3OTM3
-XX0=
+eyJoaXN0b3J5IjpbMTk0NTk4NzA1MCwtMjc4MDM1Njk3LDMzND
+I3NTU0LC0xMTQyMzI2OTIxLDE0NTg1MDA4MTIsMTk5NDY1Nzkz
+N119
 -->
