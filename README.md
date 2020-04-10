@@ -11,9 +11,8 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-We need to dig deeper. After all, my occupation has only been around for less than 100 years and likely the same with yours.
-Defining yourself by your occupation is like defining yourself 
+We need to dig deeper. After all, my occupation has only been around for less than 100 years and likely the same with yours. How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? You aren't 20, 30, 40 years old, but 13.8 bi.l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA2NjEzOTgsLTE5MTE1MzUyNjUsLT
-cxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
+eyJoaXN0b3J5IjpbLTUxODAzMzU0MiwtMTkxMTUzNTI2NSwtNz
+E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
 -->
