@@ -17,7 +17,8 @@ Identity is a unique characteristic. What is unique about being a software devel
 
 0 Years --------------------------------------------------------> 13.8 billion
 
-The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* The 4 dimensions that defines the majority of society. if you
+The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* The 4 dimensions that defines the majority of society. Let's take a look at myself:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDY1NzkzN119
+eyJoaXN0b3J5IjpbNzY0NTA5NzY0LDE5OTQ2NTc5MzddfQ==
 -->
