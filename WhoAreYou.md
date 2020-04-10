@@ -28,8 +28,7 @@ There has been 105 billion unique environments in which people have been raised.
 
 **What you do** depends upon the environmental configuration in which you exist. Whether it be now as a software developer or hunter gatherer much more long ago, the available options are dependent upon time and place. This serves a lousy framework for determining **who you are**. 
 
-Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration?
-
+Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration? 
 
 
  but **who you are**
@@ -64,7 +63,7 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjEzOTg2MSwtMTYwNTI3MDQwMywxOT
+eyJoaXN0b3J5IjpbLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOT
 UzNTQwNDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4
 NzIzLC0zNjM5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsOD
 IyMzg2MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAy
