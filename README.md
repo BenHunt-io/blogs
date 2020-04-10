@@ -11,10 +11,11 @@ Let's begin with your identity. When pondering what makes you you, you likely co
 
 **[identity picture]**
 
-We need to dig deeper. Why is it that I am a software developer? After all, my occupation has only been around for less than 100 years and likely the same with yours. What if I was born in a different era? What if I wasn't born at all? How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? The observable universe isn't 20, 30, 40 years old, but at-least 13.8 billion years old. 
+We need to dig deeper. Why is it that I am a software developer? After all, my occupation has only been around for less than 100 years and likely the same with yours. What if I was born in a different era? What if I wasn't born at all? How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? The observable universe isn't 20, 30, 40 years old, but at-least 13.8 billion years old. Identity is 
 
+0 Years --------------------------------------------------------> 13.8 billion
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIyNTg1MDQsLTE5MTE1MzUyNjUsLT
-cxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
+eyJoaXN0b3J5IjpbOTMzNTkwMTg1LC0xOTExNTM1MjY1LC03MT
+Y3NzUxNSwtMTM2MzA2NDU4NV19
 -->
