@@ -31,6 +31,7 @@ There has been 105 billion unique environments in which people have been raised.
 Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration? 
 
 
+
  but **who you are**
 
 
@@ -63,10 +64,10 @@ Is this the only time and place that could have yielded me?
 
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOT
-UzNTQwNDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4
-NzIzLC0zNjM5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsOD
-IyMzg2MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAy
-NjY2LC0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMT
-Q1ODUwMDgxMiwxOTk0NjU3OTM3XX0=
+eyJoaXN0b3J5IjpbMTMzMDY2MjU0MSwtNDQ2MTkwNDA1LC0xNj
+A1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMTY3Mzg0
+OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgzNjI5LD
+U2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMzE4NTEy
+MDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1NCwtMT
+E0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2NTc5MzddfQ==
 -->
