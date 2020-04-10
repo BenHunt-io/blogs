@@ -17,7 +17,8 @@ Identity is a unique characteristic. What is unique about being a software devel
 
 0 Years --------------------------------------------------------> 13.8 billion
 
+The universe in which we exist holds a few properties that can play a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzQ5MzMzOSwtMTkxMTUzNTI2NSwtNz
-E2Nzc1MTUsLTEzNjMwNjQ1ODVdfQ==
+eyJoaXN0b3J5IjpbOTE4NjU3NjIyLDEyMjc0OTMzMzksLTE5MT
+E1MzUyNjUsLTcxNjc3NTE1LC0xMzYzMDY0NTg1XX0=
 -->
