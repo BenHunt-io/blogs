@@ -5,6 +5,8 @@ I'll volunteering to be the guinea pig in the following introspection. I've been
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were wanting to Travel from New York to Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. 
 
+We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core.
+
 
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
@@ -77,11 +79,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDIyNDkzMSwzMTkwMjQzNTAsMTY0Nz
-IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
-NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
-E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
-MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMT
-MxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTExODE5NDk1ODUsMzE5MDI0MzUwLDE2ND
+cyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0
+MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC
+0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0
+ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLD
+EzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3
+NTU0XX0=
 -->
