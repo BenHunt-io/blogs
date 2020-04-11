@@ -9,7 +9,8 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematically notion of the infinity of fractions, 1/2, 1/4, 1/8 -> infinity, no two people share the same view of the world from merely a physical height perspective. No two people are the same height.
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, their is an infinite number of fractions between 1 and 2 (1/2,1/4/,1/8 and so on).  No two people share the same view of the world from merely a physical height perspective. No two people are the same height.
+
 
 
 
@@ -84,7 +85,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDgxODUyNiw3NjExMDM4NTYsLTE1ND
+eyJoaXN0b3J5IjpbLTY2NzYyNTQxNSw3NjExMDM4NTYsLTE1ND
 g1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMTgxMDUw
 LDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MCwxNjQ3Mj
 AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
