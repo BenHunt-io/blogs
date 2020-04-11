@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematically notion of the 
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematically notion of the infinity of fractions, 1/2, 1/4, 1/8 -> infinity, no two people share the same view of the world from merely a physical height perspective.
 
 
 
@@ -83,11 +83,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTY0MDE5Myw3NjExMDM4NTYsLTE1ND
-g1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMTgxMDUw
-LDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MCwxNjQ3Mj
-AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
-LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMT
-Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
-NjI5XX0=
+eyJoaXN0b3J5IjpbLTE4NzA0Mjk1MTYsNzYxMTAzODU2LC0xNT
+Q4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1
+MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTAsMTY0Nz
+IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
+NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
+E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
+MzYyOV19
 -->
