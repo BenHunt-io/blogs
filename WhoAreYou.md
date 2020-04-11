@@ -1,5 +1,5 @@
 # Who are you
-Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, you?
+Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, **you?**
 
 I'll volunteering to be the guinea pig in the following introspection. 
 
@@ -73,11 +73,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzOTc1NzY5LDMxOTAyNDM1MCwxNjQ3Mj
-AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
-LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMT
-Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
-NjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMz
-E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
-NF19
+eyJoaXN0b3J5IjpbLTg4NTIxODg1NSwzMTkwMjQzNTAsMTY0Nz
+IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
+NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
+E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
+MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMT
+MxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1
+NTRdfQ==
 -->
