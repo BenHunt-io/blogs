@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, I appear to be 6'4", white, with brown eyes and brown hair. But what **is** it that you are encountering when you first meet someone.
+Well upon first encounter, I appear to be 6'4", white, with brown eyes and brown hair. But what **is** it that you are encountering when you first meet someone?
 
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
@@ -82,11 +82,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc4NjY4MjcsNTgxOTEwNDM1LC05Mz
-gyODc3MTUsMzE5MDI0MzUwLDE2NDcyMDE4NCwtMTU5MDYwNzcz
-NiwxMzMwNjYyNTQxLC00NDYxOTA0MDUsLTE2MDUyNzA0MDMsMT
-k1MzU0MDQ0MSwyMDEyODIzOTE4LC0xNjczODQ5OTM1LDQwMjk1
-ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2MjksNTY3MDk0NTIwLD
-gyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMTg1MTIwMTIsMTgyOTIw
-MjY2Nl19
+eyJoaXN0b3J5IjpbLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzOD
+I4NzcxNSwzMTkwMjQzNTAsMTY0NzIwMTg0LC0xNTkwNjA3NzM2
+LDEzMzA2NjI1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOT
+UzNTQwNDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4
+NzIzLC0zNjM5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsOD
+IyMzg2MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAy
+NjY2XX0=
 -->
