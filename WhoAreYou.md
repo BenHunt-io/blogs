@@ -1,7 +1,7 @@
 # Who are you
-Are you the hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, you?
+Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, you?
 
-I'm going to be the guinee 
+I'll volunteering to be the guinea pig in the following introspection. 
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
@@ -73,11 +73,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ2MjUzNzcsMzE5MDI0MzUwLDE2ND
-cyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0
-MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC
-0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0
-ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLD
-EzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3
-NTU0XX0=
+eyJoaXN0b3J5IjpbMzgzOTc1NzY5LDMxOTAyNDM1MCwxNjQ3Mj
+AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
+LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMT
+Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
+NjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMz
+E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
+NF19
 -->
