@@ -13,6 +13,7 @@ Well upon first encounter, my natural appearance would be 6'4", white, with brow
 
 
 
+
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
 I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
@@ -83,7 +84,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTkwODg3Niw3NjExMDM4NTYsLTE1ND
+eyJoaXN0b3J5IjpbMTgyNDgxODUyNiw3NjExMDM4NTYsLTE1ND
 g1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMTgxMDUw
 LDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MCwxNjQ3Mj
 AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
