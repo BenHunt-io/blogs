@@ -17,7 +17,7 @@ To demonstrate, borrowing from Peter Watts, let's put myself in a box. All inter
 
 ![Man in a box](https://github.com/TheAppFoundry/blogs/blob/whoAreYouBlog/BenInABox.png?raw=true)
 
-A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben respond
+A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". 
 
 
 
@@ -84,7 +84,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NzkxODEwLC0xOTgyNTI0NDcxLC0xND
+eyJoaXN0b3J5IjpbNzQzMTIwMTc3LC0xOTgyNTI0NDcxLC0xND
 A3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAs
 NTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMD
 g1LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0
