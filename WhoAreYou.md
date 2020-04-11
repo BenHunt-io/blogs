@@ -5,7 +5,7 @@ I'll volunteering to be the guinea pig in the following introspection. I've been
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details. I don't need to know where Europe is with respect to Africa to go from New York to Austin.
 
-We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. If you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. The entity that see's me is on the same exact diet, and so the choice of nutrition cannot be drawn.
+We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. If you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. The entity that see's me is on the same exact diet, and so the choice of nutrition cannot be drawn. 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
@@ -82,11 +82,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MjgwNDc4LDE2NjQxOTk3OTQsLTM2MT
-E4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTAs
-MTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0Nj
-E5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5
-MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMT
-UzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTYwOTI0NjIwMCwxNjY0MTk5Nzk0LC0zNj
+ExODEwNTAsNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MDI0MzUw
+LDE2NDcyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00ND
+YxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIz
+OTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LD
+E1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nzgx
+NzUwXX0=
 -->
