@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We 
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition.
 
 So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. To demonstrate, borrowing from Peter Watts, let's put myself in a box. All interactions with my happen through the box.
 
@@ -86,11 +86,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODk3ODc0Miw1ODkzODcxMCw1ODkzOD
-cxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3
-NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OT
-c5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMx
-OTAyNDM1MCwxNjQ3MjAxODQsLTE1OTA2MDc3MzYsMTMzMDY2Mj
-U0MSwtNDQ2MTkwNDA1LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDFd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMjUxNzg3NjYsNTg5Mzg3MTAsNTg5Mz
+g3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODks
+NzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOT
+k3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwz
+MTkwMjQzNTAsMTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMzA2Nj
+I1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQwNDQx
+XX0=
 -->
