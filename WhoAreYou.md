@@ -1,9 +1,11 @@
 # Who are you
 Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, **you?**
 
-I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. In doing, so I believe this will help you find your true identity, what truly make you, you.
+I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into to m In doing, so I believe this will help you find your true identity, what truly make you, you.
 
-Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. if 
+Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search.
+
+
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
@@ -75,7 +77,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDE1NDYyLDMxOTAyNDM1MCwxNjQ3Mj
+eyJoaXN0b3J5IjpbNjgwOTczMTQ2LDMxOTAyNDM1MCwxNjQ3Mj
 AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
 LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMT
 Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
