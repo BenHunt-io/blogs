@@ -7,7 +7,7 @@ Fortunately (because our existence would be otherwise be boring if it were unfor
 
 We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. If you were to run into me on the street, who would I *appear* to be?
 
-
+![enter image description here](https://imgur.com/U8u86DM.png)
 
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
@@ -80,11 +80,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODI4NzcxNSwzMTkwMjQzNTAsMTY0Nz
-IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
-NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
-E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
-MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMT
-MxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1
-NTRdfQ==
+eyJoaXN0b3J5IjpbNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MD
+I0MzUwLDE2NDcyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQx
+LC00NDYxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMD
+EyODIzOTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0
+MTg0LDE1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMD
+A3NzgxNzUwLDEzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1
+Njk3XX0=
 -->
