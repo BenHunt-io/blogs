@@ -11,6 +11,8 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really anything at all about a person from their raw natural appearance? The only thing you can deduce, is their DNA. 
 
+
+
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
 I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
@@ -81,11 +83,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTk4MzUwOSwxNjY0MTk5Nzk0LC0zNj
-ExODEwNTAsNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MDI0MzUw
-LDE2NDcyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00ND
-YxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIz
-OTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LD
-E1MzU0ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3Nzgx
-NzUwXX0=
+eyJoaXN0b3J5IjpbNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMT
+gxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MCwx
+NjQ3MjAxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MT
+kwNDA1LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkx
+OCwtMTY3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNT
+M1NDgzNjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1
+MF19
 -->
