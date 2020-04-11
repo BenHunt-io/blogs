@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really anything at all about a person from their raw natural appearance? The only thing you can deduce, is their DNA and what animal descendants I evolved from.
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really anything at all about a person from their raw natural appearance? The only thing you can deduce, is their DNA and what descendants I evolved from.
 
 
 
@@ -83,11 +83,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTMzNjY0LDc0MDI2MDQxLDE2NjQxOT
-k3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwz
-MTkwMjQzNTAsMTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMzA2Nj
-I1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQwNDQx
-LDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNj
-M5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDhd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2ND
+E5OTc5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1
+LDMxOTAyNDM1MCwxNjQ3MjAxODQsLTE1OTA2MDc3MzYsMTMzMD
+Y2MjU0MSwtNDQ2MTkwNDA1LC0xNjA1MjcwNDAzLDE5NTM1NDA0
+NDEsMjAxMjgyMzkxOCwtMTY3Mzg0OTkzNSw0MDI5NTg3MjMsLT
+M2MzkzNDE4NCwxNTM1NDgzNjI5LDU2NzA5NDUyMCw4MjIzODYw
+OF19
 -->
