@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition. Our sense and sight varie drastically.
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition. Our sense oh hearing and sight vary drastically.
 
 So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand.
 
@@ -88,7 +88,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc4Mzg5NCwyODcwMDUwLDU4OTM4Nz
+eyJoaXN0b3J5IjpbMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4Nz
 EwLDU4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3
 ODc2ODg5LDc2MTEwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MS
 wxNjY0MTk5Nzk0LC0zNjExODEwNTAsNTgxOTEwNDM1LC05Mzgy
