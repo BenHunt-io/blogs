@@ -3,7 +3,7 @@ Are you skinny, fat, black, white, or none of the above? Are you a hometown hero
 
 I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into too much detail about myself as we are about to unravel the fabric of my own reality, but I'm 24, a software developer in Austin Texas and am trying to figure out what I want to do / should be doing with my life. In doing, so I believe this will help you find your true identity, what truly make you, you.
 
-Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your desti Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. 
+Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details.
 
 We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core.
 
@@ -79,11 +79,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjI2OTYzMywzMTkwMjQzNTAsMTY0Nz
-IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
-NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
-E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
-MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMT
-MxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1
-NTRdfQ==
+eyJoaXN0b3J5IjpbMzgxMTc0ODA5LDMxOTAyNDM1MCwxNjQ3Mj
+AxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtNDQ2MTkwNDA1
+LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgyMzkxOCwtMT
+Y3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NCwxNTM1NDgz
+NjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4MTc1MCwxMz
+E4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5NywzMzQyNzU1
+NF19
 -->
