@@ -3,7 +3,7 @@ Are you skinny, fat, black, white, or none of the above? Are you a hometown hero
 
 I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. In doing, so I believe this will help you find your true identity, what truly make you, you.
 
-
+Fortunately (because our existence would be otherwise be boring if it ), there are many
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
@@ -75,11 +75,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjA3MDIyNywzMTkwMjQzNTAsMTY0Nz
-IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
-NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
-E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
-MzYyOSw1NjcwOTQ1MjAsODIyMzg2MDgsLTIwMDc3ODE3NTAsMT
-MxODUxMjAxMiwxODI5MjAyNjY2LC0yNzgwMzU2OTcsMzM0Mjc1
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTExMjA2MTA4NzgsMzE5MDI0MzUwLDE2ND
+cyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0
+MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC
+0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0
+ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLD
+EzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3
+NTU0XX0=
 -->
