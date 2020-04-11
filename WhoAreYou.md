@@ -69,13 +69,13 @@ Is this the only time and place that could have yielded me?
 
 [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 
-[Pain and the branin](https://www.youtube.com/watch?v=otUVzK4hToM)
+[Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMz
-A2NjI1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQw
-NDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC
-0zNjM5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2
-MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2LC
-0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1ODUw
-MDgxMl19
+eyJoaXN0b3J5IjpbMzE5MDI0MzUwLDE2NDcyMDE4NCwtMTU5MD
+YwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0MDUsLTE2MDUyNzA0
+MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC0xNjczODQ5OTM1LD
+QwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2MjksNTY3MDk0
+NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMTg1MTIwMTIsMT
+gyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0LC0xMTQyMzI2
+OTIxXX0=
 -->
