@@ -1,6 +1,8 @@
 # Who are you
 Are you the hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, you?
 
+I'm going to be the guinee 
+
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
 I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
@@ -71,11 +73,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MDI0MzUwLDE2NDcyMDE4NCwtMTU5MD
-YwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0MDUsLTE2MDUyNzA0
-MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC0xNjczODQ5OTM1LD
-QwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2MjksNTY3MDk0
-NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLDEzMTg1MTIwMTIsMT
-gyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3NTU0LC0xMTQyMzI2
-OTIxXX0=
+eyJoaXN0b3J5IjpbLTEyNjQ2MjUzNzcsMzE5MDI0MzUwLDE2ND
+cyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0
+MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC
+0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0
+ODM2MjksNTY3MDk0NTIwLDgyMjM4NjA4LC0yMDA3NzgxNzUwLD
+EzMTg1MTIwMTIsMTgyOTIwMjY2NiwtMjc4MDM1Njk3LDMzNDI3
+NTU0XX0=
 -->
