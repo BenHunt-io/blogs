@@ -9,7 +9,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce a few superficial things that aren't a reflection of the internal identity of the person, of me. 
+Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. 
 
 
 
@@ -83,11 +83,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NTUxNDIyLDc2MTEwMzg1NiwtMTU0OD
-UzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0LC0zNjExODEwNTAs
-NTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MDI0MzUwLDE2NDcyMD
-E4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQxLC00NDYxOTA0MDUs
-LTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMDEyODIzOTE4LC0xNj
-czODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0MTg0LDE1MzU0ODM2
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE1NTA0OTg0MTEsNzYxMTAzODU2LC0xNT
+Q4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1
+MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTAsMTY0Nz
+IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
+NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
+E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
+MzYyOV19
 -->
