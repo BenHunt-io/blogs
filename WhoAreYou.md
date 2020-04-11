@@ -11,7 +11,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, their is an infinite number of fractions between 1 and 2 (1/2,1/4/,1/8 and so on).  No two people share the same view of the world from merely a physical height perspective. No two people are the same height. 
 
-So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Let's put myself in a box.
+So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Borrowing from Peter watts, 
 
 
 
@@ -87,11 +87,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMTA5ODM0LC00NTUyNDAwODUsMTQ1Nz
-g3Njg4OSw3NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDEs
-MTY2NDE5OTc5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mj
-g3NzE1LDMxOTAyNDM1MCwxNjQ3MjAxODQsLTE1OTA2MDc3MzYs
-MTMzMDY2MjU0MSwtNDQ2MTkwNDA1LC0xNjA1MjcwNDAzLDE5NT
-M1NDA0NDEsMjAxMjgyMzkxOCwtMTY3Mzg0OTkzNSw0MDI5NTg3
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTMwNzMyNzQwOSwtNDU1MjQwMDg1LDE0NT
+c4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQx
+LDE2NjQxOTk3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzOD
+I4NzcxNSwzMTkwMjQzNTAsMTY0NzIwMTg0LC0xNTkwNjA3NzM2
+LDEzMzA2NjI1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOT
+UzNTQwNDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4
+NzIzXX0=
 -->
