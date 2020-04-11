@@ -11,7 +11,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 Well upon first encounter, my natural appearance would be 6'4", white, with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity from their raw natural appearance? The only things you can possibly deduce are few superficial things that aren't a reflection of the internal identity of the person, of me. You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, their is an infinite number of fractions between 1 and 2 (1/2,1/4/,1/8 and so on).  No two people share the same view of the world from merely a physical height perspective. No two people are the same height. 
 
-So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades.
+So, the entity on the sidewalk can that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades. The physical manifestation of a person is merely the person's interface into the world.
 
 
 
@@ -87,11 +87,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTYxMTIzLDE0NTc4NzY4ODksNzYxMT
-AzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQs
-LTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMj
-QzNTAsMTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEs
-LTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMT
-I4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQx
-ODRdfQ==
+eyJoaXN0b3J5IjpbMTE2MjQyMDY3MiwxNDU3ODc2ODg5LDc2MT
+EwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0
+LC0zNjExODEwNTAsNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MD
+I0MzUwLDE2NDcyMDE4NCwtMTU5MDYwNzczNiwxMzMwNjYyNTQx
+LC00NDYxOTA0MDUsLTE2MDUyNzA0MDMsMTk1MzU0MDQ0MSwyMD
+EyODIzOTE4LC0xNjczODQ5OTM1LDQwMjk1ODcyMywtMzYzOTM0
+MTg0XX0=
 -->
