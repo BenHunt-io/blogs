@@ -16,6 +16,8 @@ So, the entity on the sidewalk can that sees me can draw a conclusion about **wh
 
 
 
+
+
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
 I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
@@ -86,11 +88,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1Mj
-QwMDg1LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4
-LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1MCw1ODE5MT
-A0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTAsMTY0NzIwMTg0LC0x
-NTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQwNSwtMTYwNT
-I3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjU5OTc3MDIsNTg5Mzg3MTAsLTcyNT
+E4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODksNzYxMTAzODU2
+LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MT
+E4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTAs
+MTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0Nj
+E5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5
+MThdfQ==
 -->
