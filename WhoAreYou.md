@@ -15,7 +15,7 @@ So, the entity on the sidewalk can that sees me can draw a conclusion about **wh
 
 To demonstrate, borrowing from Peter Watts, let's put myself in a box. All interactions with me happen through the box.
 
-
+![Man in a box](https://github.com/TheAppFoundry/blogs/blob/whoAreYouBlog/BenInABox.png?raw=true)
 
 
 Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
@@ -88,10 +88,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1OD
-A5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1
-MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3NjExMDM4NT
-YsLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYx
-MTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MC
-wxNjQ3MjAxODQsLTE1OTA2MDc3MzYsMTMzMDY2MjU0MV19
+eyJoaXN0b3J5IjpbLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOT
+Q1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1
+ODkzODcxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Nj
+g4OSw3NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2
+NDE5OTc5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3Nz
+E1LDMxOTAyNDM1MCwxNjQ3MjAxODQsLTE1OTA2MDc3MzZdfQ==
+
 -->
