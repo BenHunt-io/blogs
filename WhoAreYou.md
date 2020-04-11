@@ -68,12 +68,14 @@ Is this the only time and place that could have yielded me?
 [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 
 [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
+
+[Pain and the branin](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA2MDc3MzYsMTMzMDY2MjU0MSwtND
-Q2MTkwNDA1LC0xNjA1MjcwNDAzLDE5NTM1NDA0NDEsMjAxMjgy
-MzkxOCwtMTY3Mzg0OTkzNSw0MDI5NTg3MjMsLTM2MzkzNDE4NC
-wxNTM1NDgzNjI5LDU2NzA5NDUyMCw4MjIzODYwOCwtMjAwNzc4
-MTc1MCwxMzE4NTEyMDEyLDE4MjkyMDI2NjYsLTI3ODAzNTY5Ny
-wzMzQyNzU1NCwtMTE0MjMyNjkyMSwxNDU4NTAwODEyLDE5OTQ2
-NTc5MzddfQ==
+eyJoaXN0b3J5IjpbMTY0NzIwMTg0LC0xNTkwNjA3NzM2LDEzMz
+A2NjI1NDEsLTQ0NjE5MDQwNSwtMTYwNTI3MDQwMywxOTUzNTQw
+NDQxLDIwMTI4MjM5MTgsLTE2NzM4NDk5MzUsNDAyOTU4NzIzLC
+0zNjM5MzQxODQsMTUzNTQ4MzYyOSw1NjcwOTQ1MjAsODIyMzg2
+MDgsLTIwMDc3ODE3NTAsMTMxODUxMjAxMiwxODI5MjAyNjY2LC
+0yNzgwMzU2OTcsMzM0Mjc1NTQsLTExNDIzMjY5MjEsMTQ1ODUw
+MDgxMl19
 -->
