@@ -17,7 +17,7 @@ To demonstrate, borrowing from Peter Watts, let's put myself in a box. All inter
 
 ![Man in a box](https://github.com/TheAppFoundry/blogs/blob/whoAreYouBlog/BenInABox.png?raw=true)
 
-A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". 
+A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". Birds chirping from the nearby tree send sound waves to the box, and the box says, "That's some annoying ass birds".
 
 
 
@@ -84,10 +84,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMTIwMTc3LC0xOTgyNTI0NDcxLC0xND
-A3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAs
-NTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMD
-g1LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0
-MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1MCw1ODE5MTA0Mz
-UsLTkzODI4NzcxNSwzMTkwMjQzNTAsMTY0NzIwMTg0XX0=
+eyJoaXN0b3J5IjpbLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEsLT
+E0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MDA1
+MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgzLC00NTUyND
+AwODUsMTQ1Nzg3Njg4OSw3NjExMDM4NTYsLTE1NDg1MzY3NTgs
+NzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMTgxMDUwLDU4MTkxMD
+QzNSwtOTM4Mjg3NzE1LDMxOTAyNDM1MCwxNjQ3MjAxODRdfQ==
+
 -->
