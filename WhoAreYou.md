@@ -3,7 +3,7 @@ Are you skinny, fat, black, white, or none of the above? Are you a hometown hero
 
 I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into too much detail about myself as we are about to unravel the fabric of my own reality, but I'm 24, a software developer in Austin Texas and am trying to figure out what I want to do / should be doing with my life. In doing, so I believe this will help you find your true identity, what truly make you, you.
 
-Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were wanting to Travel from New York to Austin Texas, you wouldn't start out 
+Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were wanting to Travel from New York to Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. 
 
 
 
@@ -77,7 +77,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjk1NzE2MiwzMTkwMjQzNTAsMTY0Nz
+eyJoaXN0b3J5IjpbMTEwNDI5Nzg2NCwzMTkwMjQzNTAsMTY0Nz
 IwMTg0LC0xNTkwNjA3NzM2LDEzMzA2NjI1NDEsLTQ0NjE5MDQw
 NSwtMTYwNTI3MDQwMywxOTUzNTQwNDQxLDIwMTI4MjM5MTgsLT
 E2NzM4NDk5MzUsNDAyOTU4NzIzLC0zNjM5MzQxODQsMTUzNTQ4
