@@ -18,13 +18,9 @@ To demonstrate, borrowing from Peter Watts, let's put myself in a box. All inter
 ![Man in a box](https://github.com/TheAppFoundry/blogs/blob/whoAreYouBlog/BenInABox.png?raw=true)
 
 
-Intuitively we are our bodies in it's entirety from head to toe. After all, I can move my toe with my brain and I can sure as hell feel when I stub my toe. So ha! That's who I am. Easy.
 
-I've been thinking deeply about this. Unfortunately, there are seemingly endless facets in determining who you are. To ease this, let's start from a high level approach and work our way down to the core, much like you would going from country -> street view on Google Maps. It's easier to comprehend.
 
-Let's take a step back for a second. Admire the mere fact that you are pondering who you are. You are the most complex thing in the Universe and you have no idea what makes you, you.
 
-Let's begin with your identity. When pondering what makes you you, you likely conjure up some defining characteristic or attribute about yourself that you can definitively say is you. This typically comes in the form of an occupation. I'm a software developer. That's who I am. I mean that's what I'll be doing for virtually half my life. But is it really you?
 
 **[identity picture]**
 
@@ -88,7 +84,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDI5MDE3MywtMTk4MjUyNDQ3MSwtMT
+eyJoaXN0b3J5IjpbMTE1MDYxMTAxOSwtMTk4MjUyNDQ3MSwtMT
 QwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDkyNTQ1NiwyODcwMDUw
 LDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0MD
 A4NSwxNDU3ODc2ODg5LDc2MTEwMzg1NiwtMTU0ODUzNjc1OCw3
