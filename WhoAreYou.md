@@ -30,7 +30,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 ### Consciousness
-Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness existence. No colors, no smells, no feelings, no thoughts. Not even time can be perceived in a state
+Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness existence. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state
 
 
 
@@ -112,7 +112,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzQ4MzE3OCwtMTg4MDkwMTM3MCw4NT
+eyJoaXN0b3J5IjpbMTk1ODQ0MzIzNCwtMTg4MDkwMTM3MCw4NT
 U1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2
 NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMT
 ksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3
