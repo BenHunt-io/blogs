@@ -15,9 +15,8 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
-Alright. If my physical identity isn't really the true me. Then who is it that is driving my body to complete all the tasks throughout the day? Who is it that 
+Alright. If my physical identity isn't really the true me. Then who is it that is driving my body to complete all the tasks throughout the d
 
-telling my body to go to the gym everyday and at the same time cave in to impulses like eating double dipped fudge brownie's for desert. 
 
 
 
@@ -88,11 +87,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTE4NTg5NSwxNzUwOTA2NzExLC0xMD
-Q0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0
-NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mz
-g3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODks
-NzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOT
-k3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNV19
-
+eyJoaXN0b3J5IjpbLTE0OTI2ODkyMjYsMTc1MDkwNjcxMSwtMT
+A0NDgxNzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUw
+NDY5MjEsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OT
+M4NzEwLC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5
+LDc2MTEwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MT
+k5Nzk0LC0zNjExODEwNTAsNTgxOTEwNDM1LC05MzgyODc3MTVd
+fQ==
 -->
