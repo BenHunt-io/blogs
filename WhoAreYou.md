@@ -38,7 +38,7 @@ One key component to achieving this state of awareness is the ability to create 
 
 > I think, therefore I am. (Latin for Cogito, ergo sum)
 
-But what is a thought and why does it have the unique ability to draw conclusions about awareness? Being aware of your own consciousness is tied directly to the concept of time. An entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future.
+But what is a thought and why does it have the unique ability to draw conclusions about consciousness? Being aware of your own consciousness is tied directly to the concept of time. An entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future.
 
 ### Time
 
@@ -124,7 +124,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU3NzQ1MDUsLTEzODQ4MjA5NDIsLT
+eyJoaXN0b3J5IjpbLTEyOTg2MDYwNjUsLTEzODQ4MjA5NDIsLT
 E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
 OTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0ND
 Q2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEs
