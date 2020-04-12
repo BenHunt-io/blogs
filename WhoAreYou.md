@@ -15,9 +15,9 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
-To demonstrate, borrowing from Peter Watts, let's put myself in a box. All interactions with me happen through the box.
+Alright. If my physical identity isn't really the true me, the 
 
-![Man in a box](https://github.com/TheAppFoundry/blogs/blob/whoAreYouBlog/BenInABox.png?raw=true)
+
 
 A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". Birds chirping from the nearby tree send sound waves to the box, and the box says, "That's some annoying ass birds".
 
@@ -86,11 +86,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMT
-k4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDky
-NTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxOD
-I5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MTEwMzg1Niwt
-MTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0LC0zNjExOD
-EwNTAsNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MDI0MzUwXX0=
+eyJoaXN0b3J5IjpbNDk5OTYyMTk5LDE3NTA5MDY3MTEsLTEwND
+Q4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2
+OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1ODkzOD
+cxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3
+NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OT
+c5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1XX0=
 
 -->
