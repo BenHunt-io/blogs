@@ -15,9 +15,9 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
-Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take.
+Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-
+There's a problem with this too.
 
 
 ### Wants / Desires / Tendenencies
@@ -105,11 +105,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNz
-UwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3
-OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNT
-g5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1
-LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MD
-I2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzVd
-fQ==
+eyJoaXN0b3J5IjpbMTAxMDIxOTAwMCwtMTEwMjY1NjA3NiwtOT
+AwNzY0NDQ2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1
+MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NT
+YsMjg3MDA1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgz
+LC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3NjExMDM4NTYsLTE1ND
+g1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OTc5NCwtMzYxMTgxMDUw
+XX0=
 -->
