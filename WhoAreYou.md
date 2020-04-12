@@ -42,7 +42,7 @@ Consciousness isn't something that emerges out of us from infancy to adulthood. 
  Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by **instincts**. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction can be unbearable for some. Or that universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. This boot-loader type program is created in the brain during your 9-month journey in the womb. We can look at it as a universal set of guardrails that we come pre-installed with so that we can focus on what matters in our unique environment that we exist in.
 
 ##### What we don't come pre-installed with:
-A model of the unique environment that we spawn in.
+A model of the unique environment that we spawn in. Nor do we come pre-installed with concept of our existence within that model
 
 One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
 
@@ -135,11 +135,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Njc0MzEsLTMxOTQ0MDYwMyw2MDYzNz
-QxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcs
-OTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMTM4ND
-gyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3NDQz
-MzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MDc2LC
-05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMTk4
-MjUyNDQ3MV19
+eyJoaXN0b3J5IjpbLTE1NTYwNzcyNzksLTMxOTQ0MDYwMyw2MD
+YzNzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMz
+MTcsOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMT
+M4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3
+NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MD
+c2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwt
+MTk4MjUyNDQ3MV19
 -->
