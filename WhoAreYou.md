@@ -23,10 +23,6 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 
 You have to ask, why am I in the occupation that I am?
 
-
-
-
-
 ### Wants / Desires / Tendenencies
 
 
@@ -112,7 +108,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU4NTY0MjksODU1NTAyNjIzLC0xMT
+eyJoaXN0b3J5IjpbLTExMDE4NTYxMTcsODU1NTAyNjIzLC0xMT
 AyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgx
 NzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5Mj
 EsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEw
