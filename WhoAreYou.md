@@ -44,7 +44,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 ### Time
 
-Time is the key insight into consciousness. But what is it? A simple way to think about it is, time is change.
+Time is the key insight into consciousness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state.
 
 
 
@@ -126,11 +126,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0ODcxMTQ1LDk5NzE4MTQyMSw5MzkzMj
-MwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4
-MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLD
-g1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5
-MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5OD
-IxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkz
-ODcxMF19
+eyJoaXN0b3J5IjpbLTI4MTAxOTE2NSw5OTcxODE0MjEsOTM5Mz
+IzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgx
+ODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MC
+w4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUw
+OTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OT
+gyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5
+Mzg3MTBdfQ==
 -->
