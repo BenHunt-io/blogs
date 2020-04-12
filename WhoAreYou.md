@@ -38,7 +38,7 @@ One key component to achieving this state of awareness is the ability to create 
 
 > I think, therefore I am. (Latin for Cogito, ergo sum)
 
-But what is a thought and why does it have the unique ability to draw conclusions about awareness? 
+But what is a thought and why does it have the unique ability to draw conclusions about awareness? Being aware of your own consciousness is tied directly to the concept of time.
 
 ### Time
 
@@ -124,7 +124,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MTYzMjkxLC0xMzg0ODIwOTQyLC0xNT
+eyJoaXN0b3J5IjpbNDI4ODI3ODcxLC0xMzg0ODIwOTQyLC0xNT
 gyMTgxODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkw
 MTM3MCw4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0Ni
 wxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0x
