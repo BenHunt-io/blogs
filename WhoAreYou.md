@@ -17,6 +17,8 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
+### Societal Identity
+
 Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, 
@@ -126,11 +128,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzgzNzE4LDk5NzE4MTQyMSw5MzkzMj
-MwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4
-MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLD
-g1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5
-MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5OD
-IxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkz
-ODcxMF19
+eyJoaXN0b3J5IjpbMTg2MjY4NDU5NSw5OTcxODE0MjEsOTM5Mz
+IzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgx
+ODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MC
+w4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUw
+OTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OT
+gyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5
+Mzg3MTBdfQ==
 -->
