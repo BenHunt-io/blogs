@@ -21,6 +21,7 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 
 > Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary - Steve Jobs
 
+You have to ask, why am I in the occupation that I am?
 
 
 
@@ -111,11 +112,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTAyNjIzLC0xMTAyNjU2MDc2LC05MD
-A3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMTk4MjUy
-NDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDkyNTQ1Ni
-wyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxODI5ODMs
-LTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MTEwMzg1NiwtMTU0OD
-UzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0LC0zNjExODEwNTBd
-fQ==
+eyJoaXN0b3J5IjpbLTE3NTU4NTY0MjksODU1NTAyNjIzLC0xMT
+AyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgx
+NzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5Mj
+EsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEw
+LC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MT
+EwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0
+XX0=
 -->
