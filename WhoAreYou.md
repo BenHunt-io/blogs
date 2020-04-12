@@ -38,7 +38,7 @@ Consciousness. The core. The you that is left after everything dissolves away. N
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
 
- Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. We are familiar with instincts and how powerful they can be. That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. 
+ Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for  That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. 
 
 Infants 
 Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
@@ -134,7 +134,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA4MTYxNDksNjA2Mzc0MTA0LC01Mj
+eyJoaXN0b3J5IjpbLTE2NzIzOTM0NzQsNjA2Mzc0MTA0LC01Mj
 czODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5NzE4MTQy
 MSw5MzkzMjMwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLT
 E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
