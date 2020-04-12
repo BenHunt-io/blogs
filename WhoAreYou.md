@@ -38,7 +38,7 @@ Consciousness. The core. The you that is left after everything dissolves away. N
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
 
- Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction.  That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
+ Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction.  That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. This boot-loader type program is created in the brain during your 9-month journey in the womb. 
 
 One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
 
@@ -131,7 +131,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzc1MTEyMCw2MDYzNzQxMDQsLTUyNz
+eyJoaXN0b3J5IjpbLTcxMzg3MDg4Miw2MDYzNzQxMDQsLTUyNz
 M4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcsOTk3MTgxNDIx
 LDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMTM4NDgyMDk0MiwtMT
 U4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3NDQzMzcsLTE4ODA5
