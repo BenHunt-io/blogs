@@ -19,6 +19,16 @@ Alright. If my physical identity isn't really the true me. Then, surely it's **w
 
 
 
+### Wants / Desires / Tendenencies
+
+
+
+### Conciousness
+
+
+### Quantum Physics
+
+
 
 
  Then who is it that is driving my body to complete all the tasks throughout the day? Who is it that is telling my body to get up at the butt crack of dawn and go to work?
@@ -94,11 +104,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTI5Mzg0LDE3NTA5MDY3MTEsLTEwND
-Q4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2
-OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1ODkzOD
-cxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3
-NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDEsMTY2NDE5OT
-c5NCwtMzYxMTgxMDUwLDU4MTkxMDQzNSwtOTM4Mjg3NzE1XX0=
+eyJoaXN0b3J5IjpbLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMD
+Q0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0
+NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mz
+g3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODks
+NzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOT
+k3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNV19
 
 -->
