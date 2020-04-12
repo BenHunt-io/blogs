@@ -38,7 +38,7 @@ One key component to achieving this state of awareness is the ability to create 
 
 > I think, therefore I am. (Latin for Cogito, ergo sum)
 
-But what is a thought and why does it have the unique ability to draw conclusions about consciousness? Being aware of your own consciousness is tied directly to the concept of time. An entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future.
+But what is a thought and why does it have the unique ability to draw conclusions about consciousness? Being aware of your own consciousness is tied directly to the concept of time. An entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you 
 
 Humans are incredibly good at thinking about the future and the past.
 
@@ -126,11 +126,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLT
-E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
-OTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0ND
-Q2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEs
-LTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MD
-A1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgzLC00NTUy
-NDAwODVdfQ==
+eyJoaXN0b3J5IjpbLTU5Nzg5MTIyMCwtMTYxMTE5MTU2NSwtMT
+M4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3
+NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MD
+c2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwt
+MTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MD
+kyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUx
+ODI5ODNdfQ==
 -->
