@@ -58,8 +58,6 @@ Humans are incredibly good at thinking about the future and the past.
 Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
-
-
 ### Quantum Physics
 
 ##### References:
@@ -86,11 +84,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMyMzY3MjgsMTUwODU0OTM2MCwtMz
-E5NDQwNjAzLDYwNjM3NDEwNCwtNTI3MzgwODYwLC0yMTMzNDA1
-ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOTM5MzIzMDUwLC0xNj
-ExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgxODEwLDE0OTYx
-ODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MCw4NTU1MDI2Mj
-MsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0x
-MDQ0ODE3Mjg5XX0=
+eyJoaXN0b3J5IjpbLTE5MzU5MjA1NDAsLTEwMTMyMzY3MjgsMT
+UwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3Mzgw
+ODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOT
+M5MzIzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgy
+MTgxODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMT
+M3MCw4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0Niwx
+NzUwOTA2NzExXX0=
 -->
