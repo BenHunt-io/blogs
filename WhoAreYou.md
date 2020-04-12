@@ -36,7 +36,9 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
-Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories. Stuck in the now, waiting for input from your 5 senses. Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
+Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories. Stuck in the now, waiting for input from your 5 senses. Lucky for us, on day 0, our brain does not simply
+
+Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
 
 One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
 
@@ -129,11 +131,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0MDU4NDMsLTIxMzM0MDU4NDMsMj
-MyNDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MTExOTE1
-NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMTQ5NjE4Mjg3OC
-wtODc1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUwMjYyMywtMTEw
-MjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3MTEsLTEwNDQ4MT
-cyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2OTIx
-LDE1ODA5MjU0NTZdfQ==
+eyJoaXN0b3J5IjpbMTMzNzIzNjQ1NywtMjEzMzQwNTg0MywyMz
+I0MTMzMTcsOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2
+NSwtMTM4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC
+04NzU3NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAy
+NjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNz
+I4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEs
+MTU4MDkyNTQ1Nl19
 -->
