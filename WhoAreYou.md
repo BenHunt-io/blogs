@@ -62,8 +62,6 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 ### Quantum Physics
 
-
-
 ##### References:
 
 [What is Vedanta](https://vedanta.org/what-is-vedaasda)
@@ -88,11 +86,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODI3MDU2NCwxNTA4NTQ5MzYwLC0zMT
-k0NDA2MDMsNjA2Mzc0MTA0LC01MjczODA4NjAsLTIxMzM0MDU4
-NDMsMjMyNDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MT
-ExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMTQ5NjE4
-Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUwMjYyMy
-wtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3MTEsLTEw
-NDQ4MTcyODldfQ==
+eyJoaXN0b3J5IjpbLTEwMTMyMzY3MjgsMTUwODU0OTM2MCwtMz
+E5NDQwNjAzLDYwNjM3NDEwNCwtNTI3MzgwODYwLC0yMTMzNDA1
+ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOTM5MzIzMDUwLC0xNj
+ExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgxODEwLDE0OTYx
+ODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MCw4NTU1MDI2Mj
+MsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0x
+MDQ0ODE3Mjg5XX0=
 -->
