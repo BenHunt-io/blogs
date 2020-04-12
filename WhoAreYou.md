@@ -36,7 +36,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
-Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. We'reStuck in the now, waiting for input from your 5 senses. Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation.
+Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. sStuck in the now, waiting for input from your 5 senses. Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation.
 
 
 Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
@@ -132,7 +132,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ5MzYzMzgsLTIxMzM0MDU4NDMsMj
+eyJoaXN0b3J5IjpbLTIwNzU5OTczNjksLTIxMzM0MDU4NDMsMj
 MyNDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MTExOTE1
 NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMTQ5NjE4Mjg3OC
 wtODc1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUwMjYyMywtMTEw
