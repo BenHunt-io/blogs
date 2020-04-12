@@ -17,7 +17,7 @@ Take a person that was once deaf but receives cochlear implant (a electronic dev
 
 Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-There's a problem with this too.
+Unfortunately there's a multitude of problems identifying yourself by your profession.
 
 
 ### Wants / Desires / Tendenencies
@@ -105,7 +105,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDIxOTAwMCwtMTEwMjY1NjA3NiwtOT
+eyJoaXN0b3J5IjpbMTY1Nzc4MDY1OCwtMTEwMjY1NjA3NiwtOT
 AwNzY0NDQ2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1
 MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NT
 YsMjg3MDA1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgz
