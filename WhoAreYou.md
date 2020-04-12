@@ -15,8 +15,7 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
-Alright. If my physical identity isn't really the true me, the 
-
+Alright. If my physical identity isn't really the true me. Then who is it that is telling my body to go to the gym everyday and 
 
 
 A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". Birds chirping from the nearby tree send sound waves to the box, and the box says, "That's some annoying ass birds".
@@ -86,7 +85,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5OTYyMTk5LDE3NTA5MDY3MTEsLTEwND
+eyJoaXN0b3J5IjpbMTA1MDY0NzE0LDE3NTA5MDY3MTEsLTEwND
 Q4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2
 OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1ODkzOD
 cxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3
