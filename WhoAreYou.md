@@ -30,7 +30,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 ### Consciousness
-The core. The 
+The core. The you that is left after everything dissolves away.
 
 ### Quantum Physics
 
@@ -110,11 +110,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDQxMzUyNiwtMTg4MDkwMTM3MCw4NT
-U1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2
-NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMT
-ksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3
-MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NT
-c4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQx
-XX0=
+eyJoaXN0b3J5IjpbNzkxNDM3NTAyLC0xODgwOTAxMzcwLDg1NT
+UwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3
+MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOS
+wxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcx
+MCw1ODkzODcxMCwtNzI1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nz
+g3Njg4OSw3NjExMDM4NTYsLTE1NDg1MzY3NTgsNzQwMjYwNDFd
+fQ==
 -->
