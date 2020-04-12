@@ -25,7 +25,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 
-### Wants / Desires / Tendenencies
+### Wants / Desires / Tendencies
 
 
 
@@ -110,11 +110,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjU5MDg5NSw4NTU1MDI2MjMsLTExMD
-I2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3
-Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0NjkyMS
-wxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mzg3MTAs
-LTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODksNzYxMT
-AzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTRd
-fQ==
+eyJoaXN0b3J5IjpbLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMT
+AyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgx
+NzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5Mj
+EsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEw
+LC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MT
+EwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0
+XX0=
 -->
