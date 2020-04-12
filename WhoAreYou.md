@@ -19,6 +19,7 @@ Alright. If my physical identity isn't really the true me. Then, surely it's **w
 
 
 
+
 ### Wants / Desires / Tendenencies
 
 
@@ -104,11 +105,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMD
-Q0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0
-NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mz
-g3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODks
-NzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOT
-k3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzUsLTkzODI4NzcxNV19
-
+eyJoaXN0b3J5IjpbLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNz
+UwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3
+OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNT
+g5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1
+LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MD
+I2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1MCw1ODE5MTA0MzVd
+fQ==
 -->
