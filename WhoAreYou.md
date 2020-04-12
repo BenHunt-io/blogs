@@ -24,6 +24,8 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 
 
 
+
+
 ### Wants / Desires / Tendenencies
 
 
@@ -109,11 +111,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIzMzQ5ODEsLTExMDI2NTYwNzYsLT
-kwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgy
-NTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1ND
-U2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4
-MywtNDU1MjQwMDg1LDE0NTc4NzY4ODksNzYxMTAzODU2LC0xNT
-Q4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MTA1
-MF19
+eyJoaXN0b3J5IjpbODU1NTAyNjIzLC0xMTAyNjU2MDc2LC05MD
+A3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMTk4MjUy
+NDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDkyNTQ1Ni
+wyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxODI5ODMs
+LTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MTEwMzg1NiwtMTU0OD
+UzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0LC0zNjExODEwNTBd
+fQ==
 -->
