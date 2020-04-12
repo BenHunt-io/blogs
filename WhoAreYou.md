@@ -17,7 +17,11 @@ Take a person that was once deaf but receives cochlear implant (a electronic dev
 
 Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary
+Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, 
+
+> Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary
+
+
 
 
 ### Wants / Desires / Tendenencies
@@ -105,7 +109,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0NTYzODQsLTExMDI2NTYwNzYsLT
+eyJoaXN0b3J5IjpbLTE0Mzk3NDY3NjMsLTExMDI2NTYwNzYsLT
 kwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgy
 NTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1ND
 U2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4
