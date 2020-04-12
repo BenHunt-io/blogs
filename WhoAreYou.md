@@ -15,7 +15,7 @@ So, the entity on the sidewalk that sees me can draw a conclusion about **what**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
-Alright. If my physical identity isn't really the true me. Then, surely it's what I do for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be.
+Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be.
 
 
  Then who is it that is driving my body to complete all the tasks throughout the day? Who is it that is telling my body to get up at the butt crack of dawn and go to work?
@@ -91,7 +91,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzIxODkxMSwxNzUwOTA2NzExLC0xMD
+eyJoaXN0b3J5IjpbMTQ1OTMxNjMxOSwxNzUwOTA2NzExLC0xMD
 Q0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0
 NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mz
 g3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODks
