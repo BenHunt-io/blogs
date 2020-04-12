@@ -32,7 +32,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness existence. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
-Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories. 
+Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories. Stuck in the now, waiting for input from your 5 senses.
 
 ### Time
 
@@ -118,11 +118,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtOD
-c1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1
-NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyOD
-ksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1
-ODA5MjU0NTYsMjg3MDA1MCw1ODkzODcxMCw1ODkzODcxMCwtNz
-I1MTgyOTgzLC00NTUyNDAwODUsMTQ1Nzg3Njg4OSw3NjExMDM4
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTA2NTAzNjA3NywtMTU4MjE4MTgxMCwxND
+k2MTgyODc4LC04NzU3NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAy
+NjIzLC0xMTAyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMS
+wtMTA0NDgxNzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5
+NDUwNDY5MjEsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLD
+U4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2
+ODg5XX0=
 -->
