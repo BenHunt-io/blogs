@@ -34,7 +34,9 @@ Consciousness. The core. The you that is left after everything dissolves away. N
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories. Stuck in the now, waiting for input from your 5 senses. Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
 
-One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. 
+One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
+
+> Cogito, ergo sum  
 
 ### Time
 
@@ -120,11 +122,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTU2ODQwMiwtMTM4NDgyMDk0MiwtMT
-U4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3NDQzMzcsLTE4ODA5
-MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MDc2LC05MDA3NjQ0ND
-YsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMTk4MjUyNDQ3MSwt
-MTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDkyNTQ1NiwyODcwMD
-UwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0
-MDA4NV19
+eyJoaXN0b3J5IjpbLTExNTgxOTE5MDcsLTEzODQ4MjA5NDIsLT
+E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
+OTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0ND
+Q2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEs
+LTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MD
+A1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgzLC00NTUy
+NDAwODVdfQ==
 -->
