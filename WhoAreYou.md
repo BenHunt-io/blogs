@@ -30,7 +30,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 ### Consciousness
-Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness existence. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. The
+Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness existence. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. 
 
 
 
@@ -112,11 +112,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MDg2NzcsLTE4ODA5MDEzNzAsODU1NT
-AyNjIzLC0xMTAyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcx
-MSwtMTA0NDgxNzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LD
-E5NDUwNDY5MjEsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEw
-LDU4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3OD
-c2ODg5LDc2MTEwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MV19
-
+eyJoaXN0b3J5IjpbLTEyNzc2MjEwMDQsLTE4ODA5MDEzNzAsOD
+U1NTAyNjIzLC0xMTAyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkw
+NjcxMSwtMTA0NDgxNzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4Mj
+E5LDE5NDUwNDY5MjEsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4
+NzEwLDU4OTM4NzEwLC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxND
+U3ODc2ODg5LDc2MTEwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0
+MV19
 -->
