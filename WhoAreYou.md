@@ -13,7 +13,7 @@ Well upon first encounter, my natural appearance would be a 6'4" white male with
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
 
-Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The patient is able to draw a better conclusion about 
+Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
 To demonstrate, borrowing from Peter Watts, let's put myself in a box. All interactions with me happen through the box.
 
@@ -86,11 +86,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTYzNTgwLC0xMDQ0ODE3Mjg5LC0xOT
-gyNTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1
-NDU2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mj
-k4MywtNDU1MjQwMDg1LDE0NTc4NzY4ODksNzYxMTAzODU2LC0x
-NTQ4NTM2NzU4LDc0MDI2MDQxLDE2NjQxOTk3OTQsLTM2MTE4MT
-A1MCw1ODE5MTA0MzUsLTkzODI4NzcxNSwzMTkwMjQzNTBdfQ==
+eyJoaXN0b3J5IjpbMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwtMT
+k4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5MjEsMTU4MDky
+NTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEwLC03MjUxOD
+I5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MTEwMzg1Niwt
+MTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0LC0zNjExOD
+EwNTAsNTgxOTEwNDM1LC05MzgyODc3MTUsMzE5MDI0MzUwXX0=
 
 -->
