@@ -36,7 +36,7 @@ Consciousness isn't something that emerges out of us from infancy to adulthood. 
 
 One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
 
-> Cogito, ergo sum  
+> I think, therefore I am. (Latin for Cogito, ergo sum)
 
 ### Time
 
@@ -122,7 +122,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxOTE5MDcsLTEzODQ4MjA5NDIsLT
+eyJoaXN0b3J5IjpbLTEwODI5NzM1ODcsLTEzODQ4MjA5NDIsLT
 E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
 OTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0ND
 Q2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEs
