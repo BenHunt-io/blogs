@@ -36,7 +36,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 Consciousness. The core. The you that is left after everything dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
-Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses. Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. The powerful impulsive instincts you experience throug
+Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses. Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by instincts. That universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. 
 
 Over eon's we've developed a useful boot-loader program that takes 9 months to develop in the womb.
 
@@ -131,11 +131,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODc3MTgzNCwtNTI3MzgwODYwLC0yMT
-MzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOTM5MzIzMDUw
-LC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgxODEwLD
-E0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MCw4NTU1
-MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2Nz
-ExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMTks
-MTk0NTA0NjkyMV19
+eyJoaXN0b3J5IjpbNjA2Mzc0MTA0LC01MjczODA4NjAsLTIxMz
+M0MDU4NDMsMjMyNDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAs
+LTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMT
+Q5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUw
+MjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3MT
+EsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEsLTE0MDc5ODIxOSwx
+OTQ1MDQ2OTIxXX0=
 -->
