@@ -19,7 +19,7 @@ Alright. If my physical identity isn't really the true me. Then, surely it's **w
 
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, 
 
-> Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary
+> Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary - Steve Jobs
 
 
 
@@ -109,7 +109,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk3NDY3NjMsLTExMDI2NTYwNzYsLT
+eyJoaXN0b3J5IjpbLTE5NzIzMzQ5ODEsLTExMDI2NTYwNzYsLT
 kwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgy
 NTI0NDcxLC0xNDA3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1ND
 U2LDI4NzAwNTAsNTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4
