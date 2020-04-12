@@ -32,6 +32,8 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 Consciousness. The core. The you that is left after everything dissolves away. No sensory input to cloud your existence. No colors, no smells, no feelings, no thoughts. Just pure being, pure existence.
 
+
+
 ### Quantum Physics
 
 
@@ -110,7 +112,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjU4MDE1OCwtMTg4MDkwMTM3MCw4NT
+eyJoaXN0b3J5IjpbMTk2NzYyOTAzMCwtMTg4MDkwMTM3MCw4NT
 U1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2
 NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMT
 ksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3
