@@ -38,6 +38,8 @@ One key component to achieving this state of awareness is the ability to create 
 
 > I think, therefore I am. (Latin for Cogito, ergo sum)
 
+But what is a thought and why does it have the unique ability to draw conclusions about awareness?
+
 ### Time
 
 Time can provide us valuable insight into 
@@ -122,11 +124,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI5NzM1ODcsLTEzODQ4MjA5NDIsLT
-E1ODIxODE4MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgw
-OTAxMzcwLDg1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0ND
-Q2LDE3NTA5MDY3MTEsLTEwNDQ4MTcyODksLTE5ODI1MjQ0NzEs
-LTE0MDc5ODIxOSwxOTQ1MDQ2OTIxLDE1ODA5MjU0NTYsMjg3MD
-A1MCw1ODkzODcxMCw1ODkzODcxMCwtNzI1MTgyOTgzLC00NTUy
-NDAwODVdfQ==
+eyJoaXN0b3J5IjpbOTUzNTQ3NTgxLC0xMzg0ODIwOTQyLC0xNT
+gyMTgxODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkw
+MTM3MCw4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0Ni
+wxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0x
+NDA3OTgyMTksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNT
+AsNTg5Mzg3MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQw
+MDg1XX0=
 -->
