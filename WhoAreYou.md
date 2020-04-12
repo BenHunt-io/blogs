@@ -29,8 +29,8 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 
-### Conciousness
-
+### Consciousness
+The core. The 
 
 ### Quantum Physics
 
@@ -110,11 +110,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMT
-AyNjU2MDc2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgx
-NzI4OSwtMTk4MjUyNDQ3MSwtMTQwNzk4MjE5LDE5NDUwNDY5Mj
-EsMTU4MDkyNTQ1NiwyODcwMDUwLDU4OTM4NzEwLDU4OTM4NzEw
-LC03MjUxODI5ODMsLTQ1NTI0MDA4NSwxNDU3ODc2ODg5LDc2MT
-EwMzg1NiwtMTU0ODUzNjc1OCw3NDAyNjA0MSwxNjY0MTk5Nzk0
+eyJoaXN0b3J5IjpbMjA0MDQxMzUyNiwtMTg4MDkwMTM3MCw4NT
+U1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0NiwxNzUwOTA2
+NzExLC0xMDQ0ODE3Mjg5LC0xOTgyNTI0NDcxLC0xNDA3OTgyMT
+ksMTk0NTA0NjkyMSwxNTgwOTI1NDU2LDI4NzAwNTAsNTg5Mzg3
+MTAsNTg5Mzg3MTAsLTcyNTE4Mjk4MywtNDU1MjQwMDg1LDE0NT
+c4NzY4ODksNzYxMTAzODU2LC0xNTQ4NTM2NzU4LDc0MDI2MDQx
 XX0=
 -->
