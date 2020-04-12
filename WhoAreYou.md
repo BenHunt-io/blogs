@@ -44,7 +44,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 ### Time
 
-Time is the key insight into consciousness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid.
+Time is the key insight into consciousness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
 
@@ -126,7 +126,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MjYyMDE3LDk5NzE4MTQyMSw5MzkzMj
+eyJoaXN0b3J5IjpbNzcwMTE2ODgxLDk5NzE4MTQyMSw5MzkzMj
 MwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4
 MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLD
 g1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5
