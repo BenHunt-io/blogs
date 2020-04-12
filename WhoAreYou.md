@@ -44,6 +44,7 @@ Consciousness isn't something that emerges out of us from infancy to adulthood. 
 ##### What we don't come pre-installed with:
 A model of the unique environment that we spawn in. Nor do we come pre-installed with concept of our existence within that model. We just have those instincts that are universally applicable no matter where on Earth you end up. You need food and you need to live long enough to reproduce.
 
+##### Key components to awareness
 One key component to achieving this state of awareness is the ability to create a **thought**.  When we think about being self-aware entities, we are self aware because we can think. René Descartes, puts it elegantly
 
 > I think, therefore I am. (Latin for Cogito, ergo sum)
@@ -135,11 +136,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEyNzI1NzQsLTMxOTQ0MDYwMyw2MD
-YzNzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMz
-MTcsOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMT
-M4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3
-NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MD
-c2LC05MDA3NjQ0NDYsMTc1MDkwNjcxMSwtMTA0NDgxNzI4OSwt
-MTk4MjUyNDQ3MV19
+eyJoaXN0b3J5IjpbMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNj
+M3NDEwNCwtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMx
+Nyw5OTcxODE0MjEsOTM5MzIzMDUwLC0xNjExMTkxNTY1LC0xMz
+g0ODIwOTQyLC0xNTgyMTgxODEwLDE0OTYxODI4NzgsLTg3NTc0
+NDMzNywtMTg4MDkwMTM3MCw4NTU1MDI2MjMsLTExMDI2NTYwNz
+YsLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0x
+OTgyNTI0NDcxXX0=
 -->
