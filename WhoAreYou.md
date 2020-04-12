@@ -51,8 +51,6 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 ### Quantum Physics
 
 
-
-
  Then who is it that is driving my body to complete all the tasks throughout the day? Who is it that is telling my body to get up at the butt crack of dawn and go to work?
 
 
@@ -126,7 +124,7 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMDc4NjMwLDk5NzE4MTQyMSw5MzkzMj
+eyJoaXN0b3J5IjpbMjcyODMwMTU0LDk5NzE4MTQyMSw5MzkzMj
 MwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4
 MTAsMTQ5NjE4Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLD
 g1NTUwMjYyMywtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5
