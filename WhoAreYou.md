@@ -63,54 +63,6 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 ### Quantum Physics
 
 
- Then who is it that is driving my body to complete all the tasks throughout the day? Who is it that is telling my body to get up at the butt crack of dawn and go to work?
-
-
-
-
-
-A entity, say Bob, says to the box "Hi Ben, how are you this evening?". Ben responds, "I'm doing well thank you, I just got a promotion and am feeling great". Birds chirping from the nearby tree send sound waves to the box, and the box says, "That's some annoying ass birds".
-
-
-
-
-**[identity picture]**
-
-We need to dig deeper. Why is it that I am a software developer? After all, my occupation has only been around for less than 100 years and likely the same with yours. What if I was born in a different era? What if I wasn't born at all? How can your identity possibly be defined by something that has merely been a blink of an eye in the cosmic scale of the universe? The observable universe isn't 20, 30, 40 years old, but at-least 13.8 billion years old. 
-
-Identity is a unique characteristic. What is unique about being a software developer? That is **NOT** unique.
-
-0 Years --------------------------------------------------------> 13.8 billion
-
-The universe in which we exist holds a few properties that can strip away our identity. *Time and Space.* These 4 dimensions largely determine who we are in the traditional sense for most people. 
-
-**Time:** 13.8 billion years from the start of the universe I popped into existence. It was a peculiar time to do so. It had only been 36 years since we first stepped foot on the moon and Google did not yet exist.
-**Place:** I was born in Dallas Texas, United States. "The land of the free". I have two loving parents, an older brother and sister.
-
-Let's be generous and say you go on to become a centenarian, e.g. I live to see a nice even 100 years. From a cosmic perspective, I will have lived in a time slice that is 0.00000724% of the age of the universe or 100/13.8 billion years. A perspective that might be easier to grasp, is your unique sequential id. Each human whose every been born is assigned an id starting from 0. The "first" human is arbitrary and depends upon what we define as a homo sapiens. The count is currently around 105 billion.
-
-There has been 105 billion unique environments in which people have been raised. If you were to grow up in all 105 billion environmental configurations that have so far existed for homo sapiens, would you still be a software engineer? No. You wouldn't. Occupations, like software engineering, tribe leader, and lead pyramid architect only exist in a minute subset of the configurations. They only exist a glimpse in time. These occupations seemingly define your identity, who you are, yet only exist as a product of evolutionary progress.
-
-**What you do** depends upon the environmental configuration in which you exist. Whether it be now as a software developer or hunter gatherer much more long ago, the available options are dependent upon time and place. This serves a lousy framework for determining **who you are**. 
-
-Well, each one of us has wants and desires. Some want to be rich. Some want fame. Some want to simply do good for others. Could it be that your wants and desires are molded to best-fit your environmental configuration? 
-
-Everyone has a multitude of wants.
-|Wants  |  |
-|--|--|
-| Personal|  |
-| Social|  |
-| Moral	|		|
-| Practical |  |
-| Lifestyle		| 		|
-
-Who you truly are is independent of the environmental configuration in which you exist. 
-
-
-Is this the only time and place that could have yielded me?
-
-
-
 
 ##### References:
 
@@ -136,11 +88,11 @@ Is this the only time and place that could have yielded me?
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNj
-M3NDEwNCwtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMx
-Nyw5OTcxODE0MjEsOTM5MzIzMDUwLC0xNjExMTkxNTY1LC0xMz
-g0ODIwOTQyLC0xNTgyMTgxODEwLDE0OTYxODI4NzgsLTg3NTc0
-NDMzNywtMTg4MDkwMTM3MCw4NTU1MDI2MjMsLTExMDI2NTYwNz
-YsLTkwMDc2NDQ0NiwxNzUwOTA2NzExLC0xMDQ0ODE3Mjg5LC0x
-OTgyNTI0NDcxXX0=
+eyJoaXN0b3J5IjpbMTI5ODI3MDU2NCwxNTA4NTQ5MzYwLC0zMT
+k0NDA2MDMsNjA2Mzc0MTA0LC01MjczODA4NjAsLTIxMzM0MDU4
+NDMsMjMyNDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MT
+ExOTE1NjUsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMTQ5NjE4
+Mjg3OCwtODc1NzQ0MzM3LC0xODgwOTAxMzcwLDg1NTUwMjYyMy
+wtMTEwMjY1NjA3NiwtOTAwNzY0NDQ2LDE3NTA5MDY3MTEsLTEw
+NDQ4MTcyODldfQ==
 -->
