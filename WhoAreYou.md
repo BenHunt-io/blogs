@@ -90,13 +90,14 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
  - The brain therefore **reorganizes** the information and presents it in a more easily understandable form. In the case of familiar information, very little time is needed for this process, but new information requires more processing and this extra processing tends to makes time feel elongated. This is part of the reason why a child’s summer seems to last forever, while an old person’s well-practiced routine seems to slip away faster and faster. The more familiar the task, the less new information the brain needs to process, and the more quickly time seems to pass.
 (This is because of the basal ganglia)
+- In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOT
-M1OTIwNTQwLC0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0
-MDYwMyw2MDYzNzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0My
-wyMzI0MTMzMTcsOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5
-MTU2NSwtMTM4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyOD
-c4LC04NzU3NDQzMzcsLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0x
-MTAyNjU2MDc2XX0=
+eyJoaXN0b3J5IjpbLTE5ODgxNTk4NCwtMjAyODQ1NTc0MSwyOD
+A3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMyMzY3MjgsMTUwODU0
+OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3MzgwODYwLC
+0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOTM5MzIz
+MDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgxOD
+EwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMTM3MCw4
+NTU1MDI2MjNdfQ==
 -->
