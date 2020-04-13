@@ -83,12 +83,14 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
+
+[Time management for kids](https://www.psychologytoday.com/us/blog/growing-friendships/201403/time-management-kids)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU5MjA1NDAsLTEwMTMyMzY3MjgsMT
-UwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3Mzgw
-ODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOT
-M5MzIzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgy
-MTgxODEwLDE0OTYxODI4NzgsLTg3NTc0NDMzNywtMTg4MDkwMT
-M3MCw4NTU1MDI2MjMsLTExMDI2NTYwNzYsLTkwMDc2NDQ0Niwx
-NzUwOTA2NzExXX0=
+eyJoaXN0b3J5IjpbMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMD
+EzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYzNzQx
+MDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcsOT
+k3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMTM4NDgy
+MDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04NzU3NDQzMz
+csLTE4ODA5MDEzNzAsODU1NTAyNjIzLC0xMTAyNjU2MDc2LC05
+MDA3NjQ0NDZdfQ==
 -->
