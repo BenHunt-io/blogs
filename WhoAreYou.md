@@ -39,7 +39,7 @@ The core you. The you after everything else dissolves away. No sights, smells, s
 ##### How does consciousness emerge?
 It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges. Consciousness does not equal intellect, rather intellect gives rise to the ability to conclude that you indeed exist in this universe.
 
-Take a moment to ponder your own existence. Why do you think you exist?
+Take a moment to ponder your own existence. Why do you think you exist? Is it because you woke up this morning? Is it because you've endured hardship?
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
@@ -100,11 +100,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTEzNzUyMCwxMzc5NTkyMjkzLDUxND
-M4MjMzNCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5
-ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC
-0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYz
-NzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMT
-csOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMTM4
-NDgyMDk0Ml19
+eyJoaXN0b3J5IjpbOTI3MjU2OTc5LDEzNzk1OTIyOTMsNTE0Mz
+gyMzM0LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4
+NCwtMjAyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLT
+EwMTMyMzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3
+NDEwNCwtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNy
+w5OTcxODE0MjEsOTM5MzIzMDUwLC0xNjExMTkxNTY1LC0xMzg0
+ODIwOTQyXX0=
 -->
