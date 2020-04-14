@@ -46,6 +46,7 @@ Now let me ask you this. What is hardship if you can't remember the pain you end
 You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; thoughts and memories.
 
 
+
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
@@ -105,11 +106,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NjgzNTQsMTE4NDYwMjE3NCwtMzM5MT
-gwNTQyLDE2MjgyNDYyODQsMTM3OTU5MjI5Myw1MTQzODIzMzQs
-MTM3NDY0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1OTg0LC0yMD
-I4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MCwtMTAxMzIz
-NjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2Mzc0MTA0LC
-01MjczODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5NzE4
-MTQyMV19
+eyJoaXN0b3J5IjpbMTc0NzAyMDc1MiwxMTg0NjAyMTc0LC0zMz
+kxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMz
+NCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5ODQsLT
+IwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMDEz
+MjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYzNzQxMD
+QsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcsOTk3
+MTgxNDIxXX0=
 -->
