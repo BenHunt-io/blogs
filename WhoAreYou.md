@@ -37,7 +37,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
 
 ##### How does consciousness emerge?
-It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges. Consciousness does not equal intellect, rather intellect gives rise to the ability to conclude that you indeed exist in this universe.  
+It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges. Consciousness does not equal intellect, rather intellect gives rise to the ability to conclude that you indeed exist in this universe.
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
@@ -98,7 +98,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUzMjYwNzcsMTM3OTU5MjI5Myw1MT
+eyJoaXN0b3J5IjpbLTE0MDIzOTQyMzcsMTM3OTU5MjI5Myw1MT
 QzODIzMzQsMTM3NDY0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1
 OTg0LC0yMDI4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MC
 wtMTAxMzIzNjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2
