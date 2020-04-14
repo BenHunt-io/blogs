@@ -36,6 +36,8 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
 
+##### How does conciousness emerge?
+It doesn't. Awareness of consciousness, or the ability to draw a conclusion about 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
@@ -95,11 +97,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MzgyMzM0LDEzNzQ2NDIxNjUsLTIwNz
-kxNTM5NDIsLTE5ODgxNTk4NCwtMjAyODQ1NTc0MSwyODA3OTg2
-NTUsLTE5MzU5MjA1NDAsLTEwMTMyMzY3MjgsMTUwODU0OTM2MC
-wtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3MzgwODYwLC0yMTMz
-NDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0MjEsOTM5MzIzMDUwLC
-0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0xNTgyMTgxODEwLDE0
-OTYxODI4NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3NTkxMzk3ODAsNTE0MzgyMzM0LDEzNz
+Q2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4NCwtMjAyODQ1
+NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMyMzY3Mj
+gsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3
+MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0Mj
+EsOTM5MzIzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0x
+NTgyMTgxODEwXX0=
 -->
