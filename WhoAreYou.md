@@ -41,7 +41,7 @@ It doesn't. Awareness of consciousness, or the ability to draw a conclusion abou
 
 Take a moment to ponder your own existence. Why do you think you exist? Is it because you woke up this morning? Is it because you've endured hardship? Is it because you've lived through many colorful experiences?
 
-Now let me ask you this. What is hardship if you can't remember it? What is it like to go see your favorite artist if you can't recall who played?
+Now let me ask you this. What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
 
 
@@ -104,11 +104,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUxMDk4NDcsMTM3OTU5MjI5Myw1MT
-QzODIzMzQsMTM3NDY0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1
-OTg0LC0yMDI4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MC
-wtMTAxMzIzNjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2
-Mzc0MTA0LC01MjczODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMz
-E3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MTExOTE1NjUsLTEz
-ODQ4MjA5NDJdfQ==
+eyJoaXN0b3J5IjpbMTcxOTA4Nzc3OSwxMzc5NTkyMjkzLDUxND
+M4MjMzNCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5
+ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC
+0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYz
+NzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMT
+csOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NSwtMTM4
+NDgyMDk0Ml19
 -->
