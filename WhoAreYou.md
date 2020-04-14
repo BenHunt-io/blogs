@@ -34,7 +34,9 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 ### Consciousness
-The core you. The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
+The core you. No sight, smells, sounds, physical sensation, 
+
+The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
 
@@ -93,7 +95,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjMxODgzMiwtMTk4ODE1OTg0LC0yMD
+eyJoaXN0b3J5IjpbLTg2MzA3OTkwNywtMTk4ODE1OTg0LC0yMD
 I4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MCwtMTAxMzIz
 NjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2Mzc0MTA0LC
 01MjczODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5NzE4
