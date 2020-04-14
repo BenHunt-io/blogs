@@ -31,8 +31,6 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 ### Wants / Desires / Tendencies
 
-
-
 ### Consciousness
 The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
 
@@ -112,11 +110,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzk1Mjc0NCwyNDM5NjM2MDMsLTQ2ND
-A2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOCwtNTE1NDg4NjUy
-LDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMTg0NjAyMTc0LC0zMz
-kxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMz
-NCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5ODQsLT
-IwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMDEz
-MjM2NzI4XX0=
+eyJoaXN0b3J5IjpbLTk0ODkwODQ3NiwxOTE3OTUyNzQ0LDI0Mz
+k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
+LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExOD
+Q2MDIxNzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIy
+OTMsNTE0MzgyMzM0LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLT
+E5ODgxNTk4NCwtMjAyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5
+MjA1NDBdfQ==
 -->
