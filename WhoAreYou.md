@@ -50,7 +50,7 @@ You believe to exist as you've been subconsciously building an ego, a perception
 **Thoughts** are necessary in conjunction with memories in concluding your existence. 
 
 ##### Consciousness in the animal kingdom
-
+Are animals conscious? Is my dog conscious?
 
 
 ##### Vedanta 
@@ -112,7 +112,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTgwNDY2NSw5NTE2NTA5MjgsLTUxNT
+eyJoaXN0b3J5IjpbLTkwOTQ5Mzc4Miw5NTE2NTA5MjgsLTUxNT
 Q4ODY1MiwxNTA2MzA5MjkwLC04NTcwMzc5NDEsMTE4NDYwMjE3
 NCwtMzM5MTgwNTQyLDE2MjgyNDYyODQsMTM3OTU5MjI5Myw1MT
 QzODIzMzQsMTM3NDY0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1
