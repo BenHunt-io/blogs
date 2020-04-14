@@ -45,7 +45,7 @@ Now let me ask you this. What if you don't remember that you woke this morning? 
 
 You believe to exist as you've been subconsciously building an ego, a perception of self, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
 
-Memories are essential ingredients into building an ego. 
+Memories are essential ingredients into building an ego. For a sense of self to emerge, you have to have existed for some amount of time, somehow reference the previous state you were in and con
 
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
@@ -107,11 +107,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1ODM3NDU2LDExODQ2MDIxNzQsLTMzOT
-E4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIyOTMsNTE0MzgyMzM0
-LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4NCwtMj
-AyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMy
-MzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNC
-wtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcx
-ODE0MjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYyMDI1NjYsMTE4NDYwMjE3NCwtMz
+M5MTgwNTQyLDE2MjgyNDYyODQsMTM3OTU5MjI5Myw1MTQzODIz
+MzQsMTM3NDY0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1OTg0LC
+0yMDI4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MCwtMTAx
+MzIzNjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2Mzc0MT
+A0LC01MjczODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5
+NzE4MTQyMV19
 -->
