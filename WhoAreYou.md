@@ -36,8 +36,9 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Consciousness
 The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
 
-##### How does conciousness emerge?
-It doesn't. Awareness of consciousness, or the ability to draw a conclusion about 
+##### How does consciousness emerge?
+It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges.
+
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
@@ -97,11 +98,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkxMzk3ODAsNTE0MzgyMzM0LDEzNz
-Q2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4NCwtMjAyODQ1
-NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMyMzY3Mj
-gsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNCwtNTI3
-MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcxODE0Mj
-EsOTM5MzIzMDUwLC0xNjExMTkxNTY1LC0xMzg0ODIwOTQyLC0x
-NTgyMTgxODEwXX0=
+eyJoaXN0b3J5IjpbMTM3OTU5MjI5Myw1MTQzODIzMzQsMTM3ND
+Y0MjE2NSwtMjA3OTE1Mzk0MiwtMTk4ODE1OTg0LC0yMDI4NDU1
+NzQxLDI4MDc5ODY1NSwtMTkzNTkyMDU0MCwtMTAxMzIzNjcyOC
+wxNTA4NTQ5MzYwLC0zMTk0NDA2MDMsNjA2Mzc0MTA0LC01Mjcz
+ODA4NjAsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5NzE4MTQyMS
+w5MzkzMjMwNTAsLTE2MTExOTE1NjUsLTEzODQ4MjA5NDIsLTE1
+ODIxODE4MTBdfQ==
 -->
