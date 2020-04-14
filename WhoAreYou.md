@@ -39,9 +39,9 @@ The core you. The you after everything else dissolves away. No sights, smells, s
 ##### How does consciousness emerge?
 It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges. Consciousness does not equal intellect, rather intellect gives rise to the ability to conclude that you indeed exist in this universe.
 
-Take a moment to ponder your own existence. Why do you think you exist? Is it because you woke up this morning? Is it because you've endured hardship? Is it because you saw your favorite artist a week ago and your able to talk about it today?
+Take a moment to ponder your own existence. Why do you think you exist? Is it because you woke up this morning? Is it because you've endured hardship? Is it because you saw your favorite artist a week ago?
 
-Now let me ask you this. What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
+Now let me ask you this. What if you don't remember that you woke this morning? What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
 You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; thoughts and memories.
 
@@ -107,11 +107,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MzY2MzQ4LDExODQ2MDIxNzQsLTMzOT
-E4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIyOTMsNTE0MzgyMzM0
-LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4NCwtMj
-AyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMy
-MzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNC
-wtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcx
-ODE0MjFdfQ==
+eyJoaXN0b3J5IjpbLTk5NzcyMDczMCwxMTg0NjAyMTc0LC0zMz
+kxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMz
+NCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5ODQsLT
+IwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMDEz
+MjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYzNzQxMD
+QsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcsOTk3
+MTgxNDIxXX0=
 -->
