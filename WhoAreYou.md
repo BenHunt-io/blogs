@@ -39,7 +39,7 @@ It doesn't. Awareness of consciousness, or the ability to draw a conclusion abou
 
 Take a moment to ponder your own existence. Why do you think you exist? Is it because you woke up this morning? Is it because you've endured hardship? Is it because you saw your favorite artist a week ago?
 
-Now let me ask you this. What if you don't remember that you woke this morning? What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
+Now let me ask you this. What if you didn't remember that you woke up this morning? What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
 You believe to exist as you've been subconsciously building an ego, a perception of self, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
 
@@ -110,7 +110,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODkwODQ3NiwxOTE3OTUyNzQ0LDI0Mz
+eyJoaXN0b3J5IjpbLTQzOTI2MTU0MywxOTE3OTUyNzQ0LDI0Mz
 k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
 LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExOD
 Q2MDIxNzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIy
