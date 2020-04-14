@@ -34,7 +34,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 ### Consciousness
-The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. Without these components, we are left with something that is indistinguishable from one another.
+The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. Without these components, we are left with something that is indistinguishable from one another. 
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
 
@@ -95,11 +95,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MjYwOTUyLC0yMDc5MTUzOTQyLC0xOT
-g4MTU5ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIw
-NTQwLC0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMy
-w2MDYzNzQxMDQsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0
-MTMzMTcsOTk3MTgxNDIxLDkzOTMyMzA1MCwtMTYxMTE5MTU2NS
-wtMTM4NDgyMDk0MiwtMTU4MjE4MTgxMCwxNDk2MTgyODc4LC04
-NzU3NDQzMzddfQ==
+eyJoaXN0b3J5IjpbLTEzNjgzOTIzNCwtMjA3OTE1Mzk0MiwtMT
+k4ODE1OTg0LC0yMDI4NDU1NzQxLDI4MDc5ODY1NSwtMTkzNTky
+MDU0MCwtMTAxMzIzNjcyOCwxNTA4NTQ5MzYwLC0zMTk0NDA2MD
+MsNjA2Mzc0MTA0LC01MjczODA4NjAsLTIxMzM0MDU4NDMsMjMy
+NDEzMzE3LDk5NzE4MTQyMSw5MzkzMjMwNTAsLTE2MTExOTE1Nj
+UsLTEzODQ4MjA5NDIsLTE1ODIxODE4MTAsMTQ5NjE4Mjg3OCwt
+ODc1NzQ0MzM3XX0=
 -->
