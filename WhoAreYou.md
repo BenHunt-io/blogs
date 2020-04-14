@@ -41,7 +41,7 @@ Take a moment to ponder your own existence. Why do you think you exist? Is it be
 
 Now let me ask you this. What if you didn't remember that you woke up this morning? What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
-You believe to exist by virtue of your ego, a perception of self, that you've construction an ego, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
+You believe to exist by virtue of your ego, a perception of self, that you've construction an ego, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of your perception of time and your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
 
 **Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. Some engine, must be able to analyze these memories and make these high level conclusions.
 
@@ -110,7 +110,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDI2MjQzNSwxOTE3OTUyNzQ0LDI0Mz
+eyJoaXN0b3J5IjpbMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
 k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
 LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExOD
 Q2MDIxNzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIy
