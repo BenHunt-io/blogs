@@ -43,8 +43,7 @@ Take a moment to ponder your own existence. Why do you think you exist? Is it be
 
 Now let me ask you this. What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
-You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. Programs to help you survive. 
-
+You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A fear
 
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
@@ -106,11 +105,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3OTgwMjEyLC0zMzkxODA1NDIsMTYyOD
-I0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMzNCwxMzc0NjQyMTY1
-LC0yMDc5MTUzOTQyLC0xOTg4MTU5ODQsLTIwMjg0NTU3NDEsMj
-gwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMDEzMjM2NzI4LDE1MDg1
-NDkzNjAsLTMxOTQ0MDYwMyw2MDYzNzQxMDQsLTUyNzM4MDg2MC
-wtMjEzMzQwNTg0MywyMzI0MTMzMTcsOTk3MTgxNDIxLDkzOTMy
-MzA1MF19
+eyJoaXN0b3J5IjpbLTMyMDk4MDU1MSwtMzM5MTgwNTQyLDE2Mj
+gyNDYyODQsMTM3OTU5MjI5Myw1MTQzODIzMzQsMTM3NDY0MjE2
+NSwtMjA3OTE1Mzk0MiwtMTk4ODE1OTg0LC0yMDI4NDU1NzQxLD
+I4MDc5ODY1NSwtMTkzNTkyMDU0MCwtMTAxMzIzNjcyOCwxNTA4
+NTQ5MzYwLC0zMTk0NDA2MDMsNjA2Mzc0MTA0LC01MjczODA4Nj
+AsLTIxMzM0MDU4NDMsMjMyNDEzMzE3LDk5NzE4MTQyMSw5Mzkz
+MjMwNTBdfQ==
 -->
