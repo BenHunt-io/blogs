@@ -47,7 +47,7 @@ You believe to exist as you've been subconsciously building an ego, a perception
 
 Memories are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. Some engine, must be able to analyze these memories and make these high level conclusions.
 
-The 
+The massive neural engine that is your subconscious, or the facade that is serves up thoughts
 
 Consciousness isn't something that emerges out of us from infancy to adulthood. Rather, the ability to draw a conclusion about our awareness emerges. At infancy, we start from an initial configuration, an initial state with no memories of the 21st century. Stuck in the now, waiting for input from your 5 senses.
 
@@ -106,11 +106,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjc5NzE2LDE1MDYzMDkyOTAsLTg1Nz
-AzNzk0MSwxMTg0NjAyMTc0LC0zMzkxODA1NDIsMTYyODI0NjI4
-NCwxMzc5NTkyMjkzLDUxNDM4MjMzNCwxMzc0NjQyMTY1LC0yMD
-c5MTUzOTQyLC0xOTg4MTU5ODQsLTIwMjg0NTU3NDEsMjgwNzk4
-NjU1LC0xOTM1OTIwNTQwLC0xMDEzMjM2NzI4LDE1MDg1NDkzNj
-AsLTMxOTQ0MDYwMyw2MDYzNzQxMDQsLTUyNzM4MDg2MCwtMjEz
-MzQwNTg0M119
+eyJoaXN0b3J5IjpbMTY4ODEyMDkyMywxNTA2MzA5MjkwLC04NT
+cwMzc5NDEsMTE4NDYwMjE3NCwtMzM5MTgwNTQyLDE2MjgyNDYy
+ODQsMTM3OTU5MjI5Myw1MTQzODIzMzQsMTM3NDY0MjE2NSwtMj
+A3OTE1Mzk0MiwtMTk4ODE1OTg0LC0yMDI4NDU1NzQxLDI4MDc5
+ODY1NSwtMTkzNTkyMDU0MCwtMTAxMzIzNjcyOCwxNTA4NTQ5Mz
+YwLC0zMTk0NDA2MDMsNjA2Mzc0MTA0LC01MjczODA4NjAsLTIx
+MzM0MDU4NDNdfQ==
 -->
