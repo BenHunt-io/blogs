@@ -45,7 +45,7 @@ Now let me ask you this. What if you don't remember that you woke this morning? 
 
 You believe to exist as you've been subconsciously building an ego, a perception of self, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of your perception of time and the your existence within it. When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
 
-Conscious awareness is impossible with memories.
+Memories are essential ingredients into building an ego. 
 
 
 The you that is left after everything else dissolves away. No sensory input to give consciousness a unique experience. No colors, no smells, no feelings, no thoughts, no memories. Not even time can be perceived in a state of pure being. This state of existence is indistinguishable from one another. 
@@ -107,11 +107,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTY5MjY5MCwxMTg0NjAyMTc0LC0zMz
-kxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMz
-NCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5ODQsLT
-IwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC0xMDEz
-MjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYzNzQxMD
-QsLTUyNzM4MDg2MCwtMjEzMzQwNTg0MywyMzI0MTMzMTcsOTk3
-MTgxNDIxXX0=
+eyJoaXN0b3J5IjpbMzU1ODM3NDU2LDExODQ2MDIxNzQsLTMzOT
+E4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIyOTMsNTE0MzgyMzM0
+LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgxNTk4NCwtMj
+AyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1NDAsLTEwMTMy
+MzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYwNjM3NDEwNC
+wtNTI3MzgwODYwLC0yMTMzNDA1ODQzLDIzMjQxMzMxNyw5OTcx
+ODE0MjFdfQ==
 -->
