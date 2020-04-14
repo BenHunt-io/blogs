@@ -43,7 +43,7 @@ Take a moment to ponder your own existence. Why do you think you exist? Is it be
 
 Now let me ask you this. What is hardship if you can't remember the pain you endured? What is it like to go see your favorite artist if you can't recall who played? What is love without a relationship, a high level construct built on the perception of time.
 
-You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. 
+You believe to exist as you've been subconsciously building an ego, day by day, since the moment you were born. This ego is what you likely call you. This ego is realized through the development of your perception of time and the your existence within it.
 
 
 
@@ -106,7 +106,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTE2NzQyNiwxMzc5NTkyMjkzLDUxND
+eyJoaXN0b3J5IjpbMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxND
 M4MjMzNCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5
 ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC
 0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYz
