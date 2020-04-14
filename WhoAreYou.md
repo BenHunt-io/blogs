@@ -52,6 +52,12 @@ You believe to exist as you've been subconsciously building an ego, a perception
 ##### Consciousness in the animal kingdom
 
 
+
+##### Vedanta 
+
+
+
+
 ##### What we come pre-installed with:
  Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by **instincts**. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction can be unbearable for some. Or that universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. This boot-loader type program is created in the brain during your 9-month journey in the womb. We can look at it as a universal set of guardrails that we come pre-installed with so that we can focus on what matters in our unique environment that we exist in.
 
@@ -107,11 +113,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUxNzIzMDUsOTUxNjUwOTI4LC01MT
-U0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExODQ2MDIx
-NzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIyOTMsNT
-E0MzgyMzM0LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgx
-NTk4NCwtMjAyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1ND
-AsLTEwMTMyMzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYw
-NjM3NDEwNF19
+eyJoaXN0b3J5IjpbMjI2OTA4MDg1LDk1MTY1MDkyOCwtNTE1ND
+g4NjUyLDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMTg0NjAyMTc0
+LC0zMzkxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxND
+M4MjMzNCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5
+ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC
+0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYz
+NzQxMDRdfQ==
 -->
