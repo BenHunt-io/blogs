@@ -48,7 +48,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 **Thoughts** are necessary in conjunction with memories in concluding your existence. 
 
 ##### Consciousness in the animal kingdom
-Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just not as aware of it. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory, his theory of everything. 
+Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory, his theory of everything. 
 
 
 ##### Vedanta 
@@ -110,11 +110,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
-k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
-LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExOD
-Q2MDIxNzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIy
-OTMsNTE0MzgyMzM0LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLT
-E5ODgxNTk4NCwtMjAyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5
-MjA1NDBdfQ==
+eyJoaXN0b3J5IjpbLTY3ODg0NTQyOSwxMDA2NjY0NDA0LDE5MT
+c5NTI3NDQsMjQzOTYzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4
+Miw5NTE2NTA5MjgsLTUxNTQ4ODY1MiwxNTA2MzA5MjkwLC04NT
+cwMzc5NDEsMTE4NDYwMjE3NCwtMzM5MTgwNTQyLDE2MjgyNDYy
+ODQsMTM3OTU5MjI5Myw1MTQzODIzMzQsMTM3NDY0MjE2NSwtMj
+A3OTE1Mzk0MiwtMTk4ODE1OTg0LC0yMDI4NDU1NzQxLDI4MDc5
+ODY1NV19
 -->
