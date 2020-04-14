@@ -53,6 +53,8 @@ You believe to exist as you've been subconsciously building an ego, a perception
 Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just not as aware of it.
 
 
+
+
 ##### Vedanta 
 
 
@@ -112,7 +114,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwOTYyNjc5LC00NjQwNjI1NjgsLTkwOT
+eyJoaXN0b3J5IjpbMjQzOTYzNjAzLC00NjQwNjI1NjgsLTkwOT
 Q5Mzc4Miw5NTE2NTA5MjgsLTUxNTQ4ODY1MiwxNTA2MzA5Mjkw
 LC04NTcwMzc5NDEsMTE4NDYwMjE3NCwtMzM5MTgwNTQyLDE2Mj
 gyNDYyODQsMTM3OTU5MjI5Myw1MTQzODIzMzQsMTM3NDY0MjE2
