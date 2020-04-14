@@ -49,7 +49,7 @@ You believe to exist as you've been subconsciously building an ego, a perception
 
 **Thoughts** are necessary in conjunction with memories in concluding your existence. 
 
-##### Conciousness in the animal kingdom
+##### Consciousness in the animal kingdom
 
 
 ##### What we come pre-installed with:
@@ -107,11 +107,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NDI3MDI0LDk1MTY1MDkyOCwtNTE1ND
-g4NjUyLDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMTg0NjAyMTc0
-LC0zMzkxODA1NDIsMTYyODI0NjI4NCwxMzc5NTkyMjkzLDUxND
-M4MjMzNCwxMzc0NjQyMTY1LC0yMDc5MTUzOTQyLC0xOTg4MTU5
-ODQsLTIwMjg0NTU3NDEsMjgwNzk4NjU1LC0xOTM1OTIwNTQwLC
-0xMDEzMjM2NzI4LDE1MDg1NDkzNjAsLTMxOTQ0MDYwMyw2MDYz
-NzQxMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTUxNzIzMDUsOTUxNjUwOTI4LC01MT
+U0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExODQ2MDIx
+NzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIyOTMsNT
+E0MzgyMzM0LDEzNzQ2NDIxNjUsLTIwNzkxNTM5NDIsLTE5ODgx
+NTk4NCwtMjAyODQ1NTc0MSwyODA3OTg2NTUsLTE5MzU5MjA1ND
+AsLTEwMTMyMzY3MjgsMTUwODU0OTM2MCwtMzE5NDQwNjAzLDYw
+NjM3NDEwNF19
 -->
