@@ -5,7 +5,7 @@ I'll volunteering to be the guinea pig in the following introspection. I've been
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details. I don't need to know where Europe is with respect to Africa to go from New York to Austin.
 
-We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. If you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. We are exami
+We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. If you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. Assume these to bea the same between myself and the entity. We are examining raw appearance.
 
 ### Physical Identity
 
@@ -115,7 +115,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzE0Mzc5MiwxMDU1OTYwNzcwLDk1Mz
+eyJoaXN0b3J5IjpbLTc1NzU5MjgzMCwxMDU1OTYwNzcwLDk1Mz
 E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODks
 LTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwOD
 gwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0
