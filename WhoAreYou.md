@@ -41,8 +41,6 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is entirely, 100%, dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. In contrast, the start of the human lineage containing chimpanzees and gorillas began around 6-7 million years ago while modern humans emerged around 200,000 years ago. Given the exact same DNA, I simply would not be a software developer at any other point in time. It's simply not possible. I might've been a pyramid architect in 2500 B.C., but I sure as hell wouldn't be a software developer.
 
 ##### Nuture / Environment
-
-
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
 
 
@@ -145,11 +143,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk2NjkyMjgsMjA3MDEyMzExNiwxMT
-Y1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0
-NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMT
-I2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4
-Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNT
-A4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTc0NzkxMzE2MCwyMDcwMTIzMTE2LDExNj
+U0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0
+NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMj
+YxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgz
+OTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MD
+g3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4
+Nl19
 -->
