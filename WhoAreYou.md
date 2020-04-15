@@ -41,7 +41,6 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 ##### Nuture / Environment
 
 
-
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
 
 
@@ -144,7 +143,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDEwOTcxMywxMjc4NjU1NzUyLC00Mj
+eyJoaXN0b3J5IjpbMTcxOTA4NDc3MSwxMjc4NjU1NzUyLC00Mj
 YxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAy
 MCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMD
 U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
