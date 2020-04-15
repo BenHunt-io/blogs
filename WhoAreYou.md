@@ -11,9 +11,9 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
+Well, upon first encounter, my natural appearance would resemble a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
 
-You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
+You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is the permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
 
 |Senses (feedback loops)| Composition |
 |--|--|
@@ -143,7 +143,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODcwOTkyNywxMjc4NjU1NzUyLC00Mj
+eyJoaXN0b3J5IjpbMjEzODQzODY1MCwxMjc4NjU1NzUyLC00Mj
 YxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAy
 MCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMD
 U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
