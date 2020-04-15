@@ -27,7 +27,7 @@ Below is a taste of what comprises your umvelt,
 
 Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities). This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. My fingerprint is unique and it is such a minute attribute in the totality of what comprises my umvelt. But, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
 
-So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting *with* **the computer**  *through the* **peripheral components**
+So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
 Okay. I get it. Don't judge a book by it's cover. 
 
@@ -35,7 +35,7 @@ Okay. I get it. Don't judge a book by it's cover.
 
 If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many external influences that affect what you ultimately end up doing.
+Unfortunately there's a multitude of problems identifying yourself by your profession. This might be what I do, but it is still not who I am. There are too many external influences that affect what you ultimately end up doing.
 
 ##### Time and Place
 Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is entirely, 100%, dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. In contrast, the start of the human lineage containing chimpanzees and gorillas began around 6-7 million years ago while modern humans emerged around 200,000 years ago. Given the exact same DNA, I simply would not be a software developer at any other point in time. It's simply not possible. I might've been a pyramid architect in 2500 B.C., but I sure as well wouldn't be a software developer.
@@ -145,11 +145,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDIxMTk2MiwxMjc4NjU1NzUyLC00Mj
-YxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAy
-MCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMD
-U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
-NCwtNjY0NzA2ODksLTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyND
-A4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2
-OV19
+eyJoaXN0b3J5IjpbLTEwMjk0NTM1NTEsMTI3ODY1NTc1MiwtND
+I2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYw
+MjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMT
+A1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQz
+MDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMj
+QwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2
+NjldfQ==
 -->
