@@ -57,7 +57,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 ### Wants / Desires / Tendencies
 
 ### Conscious Identity
-The core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
+Consciousness, the core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
 
 ##### How does consciousness emerge?
 It doesn't. Awareness of consciousness, or the ability to draw a conclusion about your awareness emerges. Consciousness does not equal intellect, rather intellect gives rise to the ability to conclude that you indeed exist in this universe.
@@ -145,11 +145,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTM5NDQxNSwyMDcwMTIzMTE2LDExNj
-U0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0
-NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMj
-YxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgz
-OTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MD
-g3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4
-Nl19
+eyJoaXN0b3J5IjpbLTE3ODk2NjkyMjgsMjA3MDEyMzExNiwxMT
+Y1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0
+NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMT
+I2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4
+Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNT
+A4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2
+ODZdfQ==
 -->
