@@ -61,7 +61,10 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 **Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future. Memories serve no evolutionary purpose without something to consume or learn from them.
 
 ##### Consciousness in the animal kingdom
-Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
+Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory.
+
+
+
 
 ![enter image description here](https://imgur.com/vG3d7FL.png)
  
@@ -143,11 +146,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OT
-Y2NTE2LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYs
-MTE2NTQ2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Nj
-c4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5
-LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1Mz
-E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODld
-fQ==
+eyJoaXN0b3J5IjpbLTYwODMxMjQxNywyNzQxNjA5NzUsNzE4OT
+MyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgzMjgs
+MjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNj
+EyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIw
+LDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNT
+U5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0
+XX0=
 -->
