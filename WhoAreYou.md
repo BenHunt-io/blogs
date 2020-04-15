@@ -15,9 +15,14 @@ Well upon first encounter, my natural appearance would be a 6'4" white male with
 
 You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
 
-|Senses (feedback loops)  | Attributes |
+|Senses (feedback loops)  | Composition|
 |--|--|
 |Sight  |  |
+|Hearing |  |
+|Smell |  |
+|Taste |  |
+|Touch |  |
+
 
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -122,11 +127,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNT
-U5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0
-LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MD
-g4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwxMjgxMDk2NjY5
-LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5NjM2MDMsLTQ2ND
-A2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOCwtNTE1NDg4NjUy
-XX0=
+eyJoaXN0b3J5IjpbLTE1MjczMzE4MjcsMTI2MTI3MDQzMywyMD
+YxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2
+OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMT
+k0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4
+NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyND
+M5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDky
+OF19
 -->
