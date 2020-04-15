@@ -33,7 +33,7 @@ Okay. I get it. Don't judge a book by it's cover.
 
 If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many externaldependencies that affect what you ultimately do.
+Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many external influences that affect what you ultimately do.
 
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
 
@@ -133,11 +133,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzQyMDUwOSwtNDI2MTIxNzczLDEwNT
-Y3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2
-OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NT
-MxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5
-LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MD
-g4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQw
-NF19
+eyJoaXN0b3J5IjpbNDIyNTU5NjAyLC00MjYxMjE3NzMsMTA1Nj
+c4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5
+LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1Mz
+E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODks
+LTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwOD
+gwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0
+XX0=
 -->
