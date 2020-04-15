@@ -23,9 +23,9 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-Your umvelt, or subjective reality is built upon the permutation of these senses. This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. My fingerprint is unique and it is such a minute attribute in the totality of what comprises my umvelt. But, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given to use via my DNA. 
+Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities). This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. My fingerprint is unique and it is such a minute attribute in the totality of what comprises my umvelt. But, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given to use via my DNA. 
 
-So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
+So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
 
 Take a person that was once deaf but receives cochlear implant (a electronic device that picks up sound and electrically stimulates the cochlear nerve in the ear, giving the patient the ability to hear). The person just got a new peripheral device, a new way to interact with the world. 
 
@@ -128,11 +128,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyODMzNjQwLDE2OTQxNjAyMCwxNzM5Nz
-E2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcw
-LDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0Nz
-A2ODksLTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYs
-MjQwODgwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2Nj
-Y0NDA0LDE5MTc5NTI3NDQsMjQzOTYzNjAzLC00NjQwNjI1Njhd
-fQ==
+eyJoaXN0b3J5IjpbLTE4NzU3OTkxNSwxNjk0MTYwMjAsMTczOT
+cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
+MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
+cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
+LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNj
+Y2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4
+XX0=
 -->
