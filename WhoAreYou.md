@@ -43,9 +43,9 @@ Now let me ask you this. What if you didn't remember that you woke up this morni
 
 You believe to exist by virtue of your ego, a perception of self, that you've constructed, day by day, since the moment you were born. This ego is who you likely call you. This ego is realized through the development of a perception of time and your existence within it.  When you were born, you were lucky enough to be given a bunch of starter programs, or instincts. These programs help you survive, by giving you a set of guardrails. A program for the fear of heights, a program for your digestion and sight. What you don't come into the world with, is a history of you. What happened yesterday? There was no yesterday. There was only now. You aren't born with an ego. However, you are born with the ability to develop an ego, with two important ingredients; memories and thoughts.
 
-**Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. Some engine, must be able to analyze these memories and make these high level conclusions.
+**Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. A memory without something to decode it, is just data; void of meaning. Some engine, must be able to analyze these memories and make these high level conclusions.
 
-**Thoughts** are necessary in conjunction with memories in building a sense of self. Thoughts are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. They serve a critical role in decoding and making sense of memories in order to make predictions about the future. A memory without something to decode it, is just data; void of meaning. 
+**Thoughts** are necessary in conjunction with memories in building a sense of self. Thoughts are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. They serve a critical role in decoding and making sense of memories in order to make predictions about the future. 
 
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 
@@ -111,11 +111,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY0ODAyNzgsLTUwODc0NjI3MiwtMT
-E5NDcxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5
-ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0LDE5MTc5NTI3NDQsMj
-QzOTYzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4Miw5NTE2NTA5
-MjgsLTUxNTQ4ODY1MiwxNTA2MzA5MjkwLC04NTcwMzc5NDEsMT
-E4NDYwMjE3NCwtMzM5MTgwNTQyLDE2MjgyNDYyODQsMTM3OTU5
-MjI5M119
+eyJoaXN0b3J5IjpbMjA2NjI3Njc3OCwtNTA4NzQ2MjcyLC0xMT
+k0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4
+NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyND
+M5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDky
+OCwtNTE1NDg4NjUyLDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMT
+g0NjAyMTc0LC0zMzkxODA1NDIsMTYyODI0NjI4NCwxMzc5NTky
+MjkzXX0=
 -->
