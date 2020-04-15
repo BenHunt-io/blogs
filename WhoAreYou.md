@@ -38,6 +38,8 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 ##### Time and Place
 Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is entirely, 100%, dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. In contrast, the start of the human lineage containing chimpanzees and gorillas began around 6-7 million years ago while modern humans emerged around 200,000 years ago. Given the exact same DNA, I simply would not be a software developer at any other point in time. It's simply not possible.
 
+##### Nuture / Environment
+
 
 
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
@@ -142,7 +144,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIyNDcxOTIsMTI3ODY1NTc1MiwtND
+eyJoaXN0b3J5IjpbLTE4NTY0ODA5ODIsMTI3ODY1NTc1MiwtND
 I2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYw
 MjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMT
 A1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQz
