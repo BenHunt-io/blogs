@@ -21,9 +21,10 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
 |Smell | perception of an odor, distinguishability of odors, aversion to odors, general ability |
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
-|Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance  |
+|Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-My fingerprint is unique.
+This
+My fingerprint is unique. 
 
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -129,7 +130,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NDg5Mzg4LDE3Mzk3MTY0NjksMTI2MT
+eyJoaXN0b3J5IjpbMjg2NTYyMzQ2LDE3Mzk3MTY0NjksMTI2MT
 I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
 LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4Nz
 Q2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYs
