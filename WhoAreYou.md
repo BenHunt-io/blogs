@@ -45,7 +45,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. Some engine, must be able to analyze these memories and make these high level conclusions.
 
-**Thoughts** are necessary in conjunction with memories in concluding your existence. Thoughts are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. They serve a critical role in decoding and making sense of memories in order to make predictions about the future. A memory without something to decode it, is just data. 
+**Thoughts** are necessary in conjunction with memories in building a sense of self. Thoughts are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. They serve a critical role in decoding and making sense of memories in order to make predictions about the future. A memory without something to decode it, is just data. 
 
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 
@@ -111,11 +111,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MD
-g4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQw
-NCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4LC05MD
-k0OTM3ODIsOTUxNjUwOTI4LC01MTU0ODg2NTIsMTUwNjMwOTI5
-MCwtODU3MDM3OTQxLDExODQ2MDIxNzQsLTMzOTE4MDU0MiwxNj
-I4MjQ2Mjg0LDEzNzk1OTIyOTMsNTE0MzgyMzM0LDEzNzQ2NDIx
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTkxMjQ3NjI1NywtMTE5NDcxMDU4MiwyND
+A4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2
+OSwxMDA2NjY0NDA0LDE5MTc5NTI3NDQsMjQzOTYzNjAzLC00Nj
+QwNjI1NjgsLTkwOTQ5Mzc4Miw5NTE2NTA5MjgsLTUxNTQ4ODY1
+MiwxNTA2MzA5MjkwLC04NTcwMzc5NDEsMTE4NDYwMjE3NCwtMz
+M5MTgwNTQyLDE2MjgyNDYyODQsMTM3OTU5MjI5Myw1MTQzODIz
+MzRdfQ==
 -->
