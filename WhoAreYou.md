@@ -36,7 +36,7 @@ If my physical identity isn't really the true me. Then, surely it's **what I do*
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many external influences that affect what you ultimately end up doing.
 
 ##### Time and Place
-Time and place are by in large the biggest in influencing factors. 
+Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be doing 
 
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
 
@@ -136,7 +136,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjYyNzc0MywtNDI2MTIxNzczLDEwNT
+eyJoaXN0b3J5IjpbLTEyMDI4NjE0MywtNDI2MTIxNzczLDEwNT
 Y3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2
 OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NT
 MxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5
