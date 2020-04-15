@@ -47,6 +47,8 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Thoughts** are necessary in conjunction with memories in building a sense of self. Thoughts are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. They serve a critical role in decoding and making sense of memories in order to make predictions about the future. 
 
+Memories are analgous 
+
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 
 ##### Consciousness in the animal kingdom
@@ -111,11 +113,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjI3Njc3OCwtNTA4NzQ2MjcyLC0xMT
-k0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4
-NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyND
-M5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDky
-OCwtNTE1NDg4NjUyLDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMT
-g0NjAyMTc0LC0zMzkxODA1NDIsMTYyODI0NjI4NCwxMzc5NTky
-MjkzXX0=
+eyJoaXN0b3J5IjpbMjQ3MzQ3NjgzLC01MDg3NDYyNzIsLTExOT
+Q3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1
+LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
+k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
+LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQxLDExOD
+Q2MDIxNzQsLTMzOTE4MDU0MiwxNjI4MjQ2Mjg0LDEzNzk1OTIy
+OTNdfQ==
 -->
