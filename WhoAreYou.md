@@ -13,7 +13,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
 
-You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is permutation of all the feedback loops produced from my senses.
+You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
 
 Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition. Our sense of hearing and sight vary drastically.
 
@@ -119,11 +119,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NTk2MzAyLDIwNjEyMTk4NDcsMTA1NT
-k2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQs
-LTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwOD
-gwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2Njks
-MTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MD
-YyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4LC01MTU0ODg2NTJd
-fQ==
+eyJoaXN0b3J5IjpbMTMwMzg2NjAwMiwyMDYxMjE5ODQ3LDEwNT
+U5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0
+LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MD
+g4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwxMjgxMDk2NjY5
+LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5NjM2MDMsLTQ2ND
+A2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOCwtNTE1NDg4NjUy
+XX0=
 -->
