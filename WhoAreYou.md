@@ -23,7 +23,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-Your umvelt, or subjective reality is built upon the permutation of these senses. This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. 
+Your umvelt, or subjective reality is built upon the permutation of these senses. This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness.
 
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -129,11 +129,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NDI4ODg4LDE3Mzk3MTY0NjksMTI2MT
-I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
-LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4Nz
-Q2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYs
-MTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNz
-k1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgy
-XX0=
+eyJoaXN0b3J5IjpbLTIxMjg5NjgyMTAsMTczOTcxNjQ2OSwxMj
+YxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgz
+OTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MD
+g3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4
+NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOT
+E3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3
+ODJdfQ==
 -->
