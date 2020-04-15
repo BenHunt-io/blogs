@@ -23,7 +23,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-Your umvelt, or subjective reality is built upon the permutation of these senses. This is a short list. I couldn't possibly list out every permu
+Your umvelt, or subjective reality is built upon the permutation of these senses. This is a short list. I couldn't possibly list out every permutation, there are gradients to each attribute, thousands if not more levels to sweetness.
 
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -129,11 +129,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNjM3MTczLDE3Mzk3MTY0NjksMTI2MT
-I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
-LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4Nz
-Q2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYs
-MTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNz
-k1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgy
-XX0=
+eyJoaXN0b3J5IjpbLTI1MzcyNTY3NiwxNzM5NzE2NDY5LDEyNj
+EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
+OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODksLTUwOD
+c0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2
+LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0LDE5MT
+c5NTI3NDQsMjQzOTYzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4
+Ml19
 -->
