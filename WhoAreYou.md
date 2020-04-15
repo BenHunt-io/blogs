@@ -70,10 +70,6 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future. Memories serve no evolutionary purpose without something to consume or learn from them.
 
- This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
-
- Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
-
 ##### Consciousness in the animal kingdom
 Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
 
@@ -105,6 +101,8 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 ### Quantum Physics
 
+
+### ra
 ##### References:
 
 [What is Vedanta](https://vedanta.org/what-is-vedaasda)
@@ -143,11 +141,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MD
-EyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3
-MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mz
-k3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3
-NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02Nj
-Q3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4
-Nl19
+eyJoaXN0b3J5IjpbMTc3NTc4NzM2OCwxNzg2MjY4MTc0LDg2NT
+c0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1
+MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNj
+k0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4
+NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OT
+c0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1
+ODJdfQ==
 -->
