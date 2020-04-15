@@ -63,7 +63,9 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 ##### Consciousness in the animal kingdom
 Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory.
 
+Michio defines consciousness as 
 
+> Consciousness is the process of creatin
 
 
 ![enter image description here](https://imgur.com/vG3d7FL.png)
@@ -146,7 +148,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODMxMjQxNywyNzQxNjA5NzUsNzE4OT
+eyJoaXN0b3J5IjpbMTI5MDQ4ODQ4NSwyNzQxNjA5NzUsNzE4OT
 MyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgzMjgs
 MjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNj
 EyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIw
