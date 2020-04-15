@@ -27,11 +27,11 @@ Your umvelt, or subjective reality is built upon the permutation of these senses
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
 
-Okay. I get it. Don't judge a book by it's cover. Once you get to know me, you'll learn that I'm a software developer.
+Okay. I get it. Don't judge a book by it's cover. 
 
 ### Societal Identity
 
-Alright. If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
+If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, 
 
@@ -128,11 +128,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA0NjIyNDYsMTY5NDE2MDIwLDE3Mz
-k3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3
-NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02Nj
-Q3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4
-NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMD
-Y2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2
-OF19
+eyJoaXN0b3J5IjpbLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOT
+cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
+MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
+cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
+LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNj
+Y2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4
+XX0=
 -->
