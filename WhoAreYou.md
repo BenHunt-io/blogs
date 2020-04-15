@@ -23,7 +23,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-This
+Your umvelt, or subjective reality is built upon the permutation of your senses.
 My fingerprint is unique. 
 
 
@@ -130,11 +130,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NTYyMzQ2LDE3Mzk3MTY0NjksMTI2MT
-I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
-LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4Nz
-Q2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYs
-MTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNz
-k1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgy
-XX0=
+eyJoaXN0b3J5IjpbLTIyNDg3MjIwNywxNzM5NzE2NDY5LDEyNj
+EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
+OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODksLTUwOD
+c0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2
+LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0LDE5MT
+c5NTI3NDQsMjQzOTYzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4
+Ml19
 -->
