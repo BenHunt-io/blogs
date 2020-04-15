@@ -45,7 +45,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. Some engine, must be able to analyze these memories and make these high level conclusions.
 
-**Thoughts** are necessary in conjunction with memories in concluding your existence. Thoughts are the ability to take memories and predict the future.
+**Thoughts** are necessary in conjunction with memories in concluding your existence. Thoughts are largely the ability to take memories and predict the future.
 
 ##### Consciousness in the animal kingdom
 Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory, his theory of everything. 
@@ -109,11 +109,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI5MDMzNzQsMjQwODgwNjg2LDI0MD
-g4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQw
-NCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4LC05MD
-k0OTM3ODIsOTUxNjUwOTI4LC01MTU0ODg2NTIsMTUwNjMwOTI5
-MCwtODU3MDM3OTQxLDExODQ2MDIxNzQsLTMzOTE4MDU0MiwxNj
-I4MjQ2Mjg0LDEzNzk1OTIyOTMsNTE0MzgyMzM0LDEzNzQ2NDIx
-NjVdfQ==
+eyJoaXN0b3J5IjpbOTA2MzczNzg2LDI0MDg4MDY4NiwyNDA4OD
+A2ODYsMTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQs
+MTkxNzk1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5ND
+kzNzgyLDk1MTY1MDkyOCwtNTE1NDg4NjUyLDE1MDYzMDkyOTAs
+LTg1NzAzNzk0MSwxMTg0NjAyMTc0LC0zMzkxODA1NDIsMTYyOD
+I0NjI4NCwxMzc5NTkyMjkzLDUxNDM4MjMzNCwxMzc0NjQyMTY1
+XX0=
 -->
