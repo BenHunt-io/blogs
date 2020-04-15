@@ -17,7 +17,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 
 |Senses (feedback loops)  | Composition|
 |--|--|
-|Sight  | long/short sig |
+|Sight  | long/short sighted / depth perception / lateral masking / fac
 |Hearing |  |
 |Smell |  |
 |Taste |  |
@@ -127,11 +127,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4MDIzODEsMTI2MTI3MDQzMywyMD
-YxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2
-OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMT
-k0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4
-NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyND
-M5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDky
-OF19
+eyJoaXN0b3J5IjpbLTEwMjY2NTY3MCwxMjYxMjcwNDMzLDIwNj
+EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
+OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOT
+Q3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1
+LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
+k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
+XX0=
 -->
