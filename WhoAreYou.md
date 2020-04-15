@@ -102,7 +102,10 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 ### Quantum Physics
 
 
-### ra
+##### Random 
+ This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
+
+ Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 ##### References:
 
 [What is Vedanta](https://vedanta.org/what-is-vedaasda)
@@ -141,11 +144,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc4NzM2OCwxNzg2MjY4MTc0LDg2NT
-c0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1
-MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNj
-k0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4
-NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OT
-c0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODM0ODI0ODgsMTc4NjI2ODE3NCw4Nj
+U3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3
+NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMT
+Y5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5
+ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOT
+k3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEw
+NTgyXX0=
 -->
