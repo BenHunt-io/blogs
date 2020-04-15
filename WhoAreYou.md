@@ -19,7 +19,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |--|--|
 |Sight  | long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
-|Smell |  |
+|Smell | perception of an odor, distinguishability of odors, aversion to odors, abilit |
 |Taste |  |
 |Touch |  |
 
@@ -128,11 +128,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjY0MDAxMSwxMjYxMjcwNDMzLDIwNj
-EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
-OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOT
-Q3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1
-LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
-k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
-XX0=
+eyJoaXN0b3J5IjpbMTk3MTU1MDU5LDEyNjEyNzA0MzMsMjA2MT
+IxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4
+LDk5NzQ3NDMwNCwtNjY0NzA2ODksLTUwODc0NjI3MiwtMTE5ND
+cxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5ODUs
+MTI4MTA5NjY2OSwxMDA2NjY0NDA0LDE5MTc5NTI3NDQsMjQzOT
+YzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4Miw5NTE2NTA5Mjhd
+fQ==
 -->
