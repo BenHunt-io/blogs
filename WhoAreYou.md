@@ -11,7 +11,9 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? You can deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. My person's raw natural appearance was long decided before they were born.
+Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won galactic lottery, known as being a living being.
+
+You can deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. 
 
 You can deduce a **subset** of what their DNA might be. You can deduce that the person interacts with the world in a uniquely different subjective reality than your own. Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition. Our sense of hearing and sight vary drastically.
 
@@ -117,11 +119,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjYxNzM2NywxMDU1OTYwNzcwLDk1Mz
-E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODks
-LTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwOD
-gwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0
-LDE5MTc5NTI3NDQsMjQzOTYzNjAzLC00NjQwNjI1NjgsLTkwOT
-Q5Mzc4Miw5NTE2NTA5MjgsLTUxNTQ4ODY1MiwxNTA2MzA5Mjkw
-XX0=
+eyJoaXN0b3J5IjpbLTE3Njc5NzMwMjgsMTA1NTk2MDc3MCw5NT
+MxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5
+LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MD
+g4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQw
+NCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4LC05MD
+k0OTM3ODIsOTUxNjUwOTI4LC01MTU0ODg2NTIsMTUwNjMwOTI5
+MF19
 -->
