@@ -77,8 +77,19 @@ Are animals conscious? Is my dog conscious? Yes. And he's the same amount consci
  
 ##### Vedanta 
 
+### Time
+
+Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
+### Quantum Physics
+
+
+##### Random 
+ This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
+
+ Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
+ 
 ##### What we come pre-installed with:
  Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by **instincts**. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction can be unbearable for some. Or that universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. This boot-loader type program is created in the brain during your 9-month journey in the womb. We can look at it as a universal set of guardrails that we come pre-installed with so that we can focus on what matters in our unique environment that we exist in.
 
@@ -93,19 +104,6 @@ One key component to achieving this state of awareness is the ability to create 
 But what is a thought and why does it have the unique ability to draw conclusions about consciousness? Being aware of your own consciousness is tied directly to the concept of time. An entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. 
 
 Humans are incredibly good at thinking about the future and the past.
-
-### Time
-
-Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
-
-
-### Quantum Physics
-
-
-##### Random 
- This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
-
- Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 ##### References:
 
 [What is Vedanta](https://vedanta.org/what-is-vedaasda)
@@ -144,11 +142,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM0ODI0ODgsMTc4NjI2ODE3NCw4Nj
-U3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3
-NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMT
-Y5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5
-ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOT
-k3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEw
-NTgyXX0=
+eyJoaXN0b3J5IjpbMjA4Njk2NjUxNiwxNzg2MjY4MTc0LDg2NT
+c0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1
+MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNj
+k0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4
+NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OT
+c0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1
+ODJdfQ==
 -->
