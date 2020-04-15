@@ -54,7 +54,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 ##### Consciousness in the animal kingdom
 Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
 
-
+![enter image description here](https://imgur.com/vG3d7FL.png)
  
 ##### Vedanta 
 
@@ -115,11 +115,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3ND
-c0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgy
-LDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwxMjgxMD
-k2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5NjM2MDMs
-LTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOCwtNTE1ND
-g4NjUyLDE1MDYzMDkyOTAsLTg1NzAzNzk0MSwxMTg0NjAyMTc0
+eyJoaXN0b3J5IjpbMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OT
+QxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIs
+LTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0ND
+MwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOTE3OTUyNzQ0
+LDI0Mzk2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNj
+UwOTI4LC01MTU0ODg2NTIsMTUwNjMwOTI5MCwtODU3MDM3OTQx
 XX0=
 -->
