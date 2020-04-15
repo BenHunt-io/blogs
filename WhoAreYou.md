@@ -65,7 +65,7 @@ Are animals conscious? Is my dog conscious? Yes. And he's the same amount consci
 
 Michio defines consciousness as 
 
-> Consciousness is the process of creatin
+> Consciousness is the process of creating a model of the world using multiple feedback loops in various parameters (e.g, in temperature, space, time, and in relation to others), in order to accomplish a goal (e.g., find mates, food shelter) - Michio Kaku
 
 
 ![enter image description here](https://imgur.com/vG3d7FL.png)
@@ -148,11 +148,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDQ4ODQ4NSwyNzQxNjA5NzUsNzE4OT
-MyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgzMjgs
-MjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNj
-EyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIw
-LDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNT
-U5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0
-XX0=
+eyJoaXN0b3J5IjpbLTIwNzk2ODE5MTEsMjc0MTYwOTc1LDcxOD
+kzMjAwMCwyMDg2OTY2NTE2LDE3ODYyNjgxNzQsODY1NzQ4MzI4
+LDIwNzAxMjMxMTYsMTE2NTQ2MTgxOSwxMjc4NjU1NzUyLC00Mj
+YxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAy
+MCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMD
+U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
+NF19
 -->
