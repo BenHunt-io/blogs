@@ -79,6 +79,17 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
  This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
 
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
+
+----- societal identity stuff ---
+
+It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
+
+
+What you do can be largely influenced by dogma. Steve jobs once said, 
+
+> Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary - Steve Jobs
+
+You have to ask, why am I in the occupation that I am? Let's do a root cause analysis. 
  
 ##### What we come pre-installed with:
  Lucky for us, on day 0, our brain isn't a completely empty slate. We inherit memories realized by **instincts**. We are familiar with instincts and how powerful they can be. The instinctual crave for sugary and fatty foods, or the insatiable want for lust and reproduction can be unbearable for some. Or that universal feeling of nausea when peering over a cliff, is the same instinctual feeling our ancestors experienced. It helped them survive and thus passing it down from generation to generation through DNA, genetic code. These instincts give us guardrails for the purpose of survival. This boot-loader type program is created in the brain during your 9-month journey in the womb. We can look at it as a universal set of guardrails that we come pre-installed with so that we can focus on what matters in our unique environment that we exist in.
@@ -132,11 +143,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcwMTUwOTAsMjA4Njk2NjUxNiwxNz
-g2MjY4MTc0LDg2NTc0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4
-MTksMTI3ODY1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLT
-Q1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcw
-NDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMT
-g5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYy
-NzJdfQ==
+eyJoaXN0b3J5IjpbNzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4Nj
+I2ODE3NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5
+LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NT
+U3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQz
+MywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OT
+k0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2Mjcy
+XX0=
 -->
