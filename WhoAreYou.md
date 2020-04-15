@@ -16,8 +16,8 @@ Well upon first encounter, my natural appearance would be a 6'4" white male with
 You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
 
 |Senses (feedback loops)  | Composition|
-|----------------------------|--|
-|Sight| long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
+|--|--|
+|Sight          | long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
 |Smell | perception of an odor, distinguishability of odors, aversion to odors, general ability |
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
@@ -128,7 +128,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDA3MzM5NSwxMjYxMjcwNDMzLDIwNj
+eyJoaXN0b3J5IjpbLTkzNDc3MDUxNSwxMjYxMjcwNDMzLDIwNj
 EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
 OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOT
 Q3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1
