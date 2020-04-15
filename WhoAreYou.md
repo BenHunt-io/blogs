@@ -23,6 +23,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance  |
 
+My fingerprint is unique.
 
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -128,11 +129,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNj
-EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
-OCw5OTc0NzQzMDQsLTY2NDcwNjg5LC01MDg3NDYyNzIsLTExOT
-Q3MTA1ODIsMjQwODgwNjg2LDI0MDg4MDY4NiwxNDE0NDMwOTg1
-LDEyODEwOTY2NjksMTAwNjY2NDQwNCwxOTE3OTUyNzQ0LDI0Mz
-k2MzYwMywtNDY0MDYyNTY4LC05MDk0OTM3ODIsOTUxNjUwOTI4
+eyJoaXN0b3J5IjpbOTA5NDg5Mzg4LDE3Mzk3MTY0NjksMTI2MT
+I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
+LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4Nz
+Q2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYs
+MTQxNDQzMDk4NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNz
+k1Mjc0NCwyNDM5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgy
 XX0=
 -->
