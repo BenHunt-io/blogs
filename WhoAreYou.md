@@ -11,8 +11,7 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature. You might be able to deduce a few things about my 
-
+Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
 
 You can deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. 
 
@@ -120,7 +119,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjUxMjUwMiwxMDU1OTYwNzcwLDk1Mz
+eyJoaXN0b3J5IjpbMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1Mz
 E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODks
 LTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwOD
 gwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0
