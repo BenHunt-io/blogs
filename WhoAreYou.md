@@ -52,7 +52,7 @@ You have to ask, why am I in the occupation that I am? Let's do a root cause ana
 
 
 
-### Wants / Desires / Tendencies
+### Compulsive Identity (Wants / Desires / Tendencies)
 
 ### Conscious Identity
 Consciousness, the core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
@@ -143,11 +143,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
-Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
-OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5LDEyNj
-EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
-OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODksLTUwOD
-c0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2
+eyJoaXN0b3J5IjpbMTU5ODI1MTk4LDg2NTc0ODMyOCwyMDcwMT
+IzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzcz
+LDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOT
+cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
+MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
+cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
 XX0=
 -->
