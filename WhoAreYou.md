@@ -33,7 +33,10 @@ Okay. I get it. Don't judge a book by it's cover.
 
 If my physical identity isn't really the true me. Then, surely it's **what I do** for hours on end, week after week right? I mean after all, whenever people ask who I am, they say I'm a software developer. I call this your **Societal Identity**. It is who society perceives you to be, by the actions you take. 
 
-Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. What you do can be largely influenced by dogma. Steve jobs once said, 
+Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. L
+
+
+What you do can be largely influenced by dogma. Steve jobs once said, 
 
 > Your time is limited so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. And don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your own heart and intuition. They somehow already know what you truly want to become. Everything else is secondary - Steve Jobs
 
@@ -128,11 +131,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOT
-cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
-MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
-cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
-LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNj
-Y2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4
-XX0=
+eyJoaXN0b3J5IjpbMTU4NTk4NzgzLC00NTU3MDUzODcsMTY5ND
+E2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3
+LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3ND
+c0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgy
+LDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwxMjgxMD
+k2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5NjM2MDNd
+fQ==
 -->
