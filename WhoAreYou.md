@@ -13,10 +13,8 @@ We'll be examining my identity in a similar fashion, slowly unraveling layer by 
 
 Well upon first encounter, my natural appearance would be a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
 
+You can deduce  a **subset** of what my DNA might be that had produced my n. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people have the same hearing capabilities.
 
-You can deduce are a few superficial things that aren't a reflection of the internal identity of the person, of me. 
-
-You can deduce a **subset** of what my DNA might be. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. No two people stand the same height. No two people have the vision. No two people ha
 Just from the mathematical notion of infinity, no two people are the same height, their is an infinite number of fractions between 1 and 2 (1/2", 1/4", 1/8" and so on).  No two people share the same view of the world from merely a physical height perspective. This can be done for any of our senses. We have a different number of taste buds, the taste-buds themselves are different in composition. Our sense of hearing and sight vary drastically.
 
 So, the entity on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades and illusions. The physical manifestation of a person is merely the person's interface into the world. Fingers for a keyboard and eyes for a webcam. The keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. **You are interacting** *with* **the computer**  *through the* **peripheral components**
@@ -121,7 +119,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyNzI0MDgsMjA2MTIxOTg0NywxMD
+eyJoaXN0b3J5IjpbLTEwMDc0NTk1OTEsMjA2MTIxOTg0NywxMD
 U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
 NCwtNjY0NzA2ODksLTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyND
 A4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2
