@@ -75,7 +75,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 
 ##### Consciousness in the animal kingdom
-Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
+Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
 
 ![enter image description here](https://imgur.com/vG3d7FL.png)
  
@@ -143,11 +143,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODI1MTk4LDg2NTc0ODMyOCwyMDcwMT
-IzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzcz
-LDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOT
-cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
-MCw5NTMxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
-cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
-XX0=
+eyJoaXN0b3J5IjpbMTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MD
+EyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3
+MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mz
+k3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3
+NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgsOTk3NDc0MzA0LC02Nj
+Q3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0NzEwNTgyLDI0MDg4MDY4
+Nl19
 -->
