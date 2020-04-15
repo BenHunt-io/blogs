@@ -17,7 +17,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 
 |Senses (feedback loops)  | Composition|
 |--|--|
-|Sight  	| long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
+|Sight  		s| long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
 |Smell | perception of an odor, distinguishability of odors, aversion to odors, general ability |
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
@@ -128,11 +128,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODkzMzMsMTI2MTI3MDQzMywyMDYxMj
-E5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgs
-OTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0Nz
-EwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwx
-MjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5Nj
-M2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOF19
-
+eyJoaXN0b3J5IjpbOTUyODcwNDIwLDEyNjEyNzA0MzMsMjA2MT
+IxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4
+LDk5NzQ3NDMwNCwtNjY0NzA2ODksLTUwODc0NjI3MiwtMTE5ND
+cxMDU4MiwyNDA4ODA2ODYsMjQwODgwNjg2LDE0MTQ0MzA5ODUs
+MTI4MTA5NjY2OSwxMDA2NjY0NDA0LDE5MTc5NTI3NDQsMjQzOT
+YzNjAzLC00NjQwNjI1NjgsLTkwOTQ5Mzc4Miw5NTE2NTA5Mjhd
+fQ==
 -->
