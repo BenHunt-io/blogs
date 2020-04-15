@@ -47,17 +47,12 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future. Memories serve no evolutionary purpose without something to consume or learn from them.
 
-
-They are necessary as they represent a way to take what has happened in the past and make educated guesses or predictions about the future. 
-
- Memories over time, through experience build up an enormous data set of the world representing all of your most important experiences up until this point. The engine of thoughts at every step of the way decode your memories into meaning 
-
  This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
 
  Thoughts are largely the ability to take memories and predict the future. Take stress. Stress arises from thoughts. Thoughts that predict a future w
 
 ##### Consciousness in the animal kingdom
-Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory, his theory of everything. 
+Are animals conscious? Is my dog conscious? Well. Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory. 
  
 ##### Vedanta 
 
@@ -118,7 +113,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTE3NTk1OSw5OTc0NzQzMDQsLTY2ND
+eyJoaXN0b3J5IjpbMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2ND
 cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
 LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNj
 Y2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4
