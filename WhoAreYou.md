@@ -45,7 +45,7 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Memories**, created within the memory center of the brain, the hippocampus, are essential ingredients into building an ego. For a sense of self to emerge,  an entity, be it you, has to exist over some amount of time and then at a future time reference the previous state you were in. Being able to reference a previous state you were in, you can can then project into the future that you will exist then too. Note, the previous state MUST be different otherwise it would be indistinguishable from the now. This is how an **Ego** develops. I existed then, I exist now, and therefore I exist in the future. Every time you think back to your own existence, you conclude that you are aware because you **remember** what you have done in the past. Memories alone aren't suffice for conscious awareness. A memory without something to decode it, is just data; void of meaning. Some engine, must be able to analyze these memories and make these high level conclusions.
 
-**Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future.
+**Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future. Memories serve no evolutionary purpose without something to consume or learn from them.
 
 
 They are necessary as they represent a way to take what has happened in the past and make educated guesses or predictions about the future. 
@@ -118,7 +118,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjYyMTY1OSw5OTc0NzQzMDQsLTY2ND
+eyJoaXN0b3J5IjpbMTQ0MTE3NTk1OSw5OTc0NzQzMDQsLTY2ND
 cwNjg5LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2
 LDI0MDg4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNj
 Y2NDQwNCwxOTE3OTUyNzQ0LDI0Mzk2MzYwMywtNDY0MDYyNTY4
