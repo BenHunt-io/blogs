@@ -36,7 +36,7 @@ If my physical identity isn't really the true me. Then, surely it's **what I do*
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many external influences that affect what you ultimately end up doing.
 
 ##### Time and Place
-Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is 100% dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968, and homo sapiens have inhabitated the earth
+Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is 100% dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. 
 
 
 
@@ -139,8 +139,10 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 
 [First software conference 1968](https://faculty.washington.edu/ajko/books/cooperative-software-development/history.html)
+
+[How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTI1NDg2MywtNDI2MTIxNzczLDEwNT
+eyJoaXN0b3J5IjpbMTY5MDkxMjg3MSwtNDI2MTIxNzczLDEwNT
 Y3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2
 OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NT
 MxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5
