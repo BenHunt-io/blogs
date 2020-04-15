@@ -36,7 +36,9 @@ If my physical identity isn't really the true me. Then, surely it's **what I do*
 Unfortunately there's a multitude of problems identifying yourself by your profession. That might be what you do, but it is still not who you are. There are too many external influences that affect what you ultimately end up doing.
 
 ##### Time and Place
-Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be doing what I'm doing now.
+Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be doing what I'm doing now. What I'm doing for at-least 8 hours a day is 100% dependent upon the era in which I'm born.
+
+
 
 It's a label which makes a rough approximation of your wants / desires / tendencies which is often flat out wrong.
 
@@ -136,11 +138,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4OTA0ODM3LC00MjYxMjE3NzMsMTA1Nj
-c4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5
-LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1Mz
-E1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMwNCwtNjY0NzA2ODks
-LTUwODc0NjI3MiwtMTE5NDcxMDU4MiwyNDA4ODA2ODYsMjQwOD
-gwNjg2LDE0MTQ0MzA5ODUsMTI4MTA5NjY2OSwxMDA2NjY0NDA0
-XX0=
+eyJoaXN0b3J5IjpbMTkwNDIzOTEzNywtNDI2MTIxNzczLDEwNT
+Y3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2
+OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NT
+MxNTgzOTgsMTg5OTQxMjY5OCw5OTc0NzQzMDQsLTY2NDcwNjg5
+LC01MDg3NDYyNzIsLTExOTQ3MTA1ODIsMjQwODgwNjg2LDI0MD
+g4MDY4NiwxNDE0NDMwOTg1LDEyODEwOTY2NjksMTAwNjY2NDQw
+NF19
 -->
