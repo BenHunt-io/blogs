@@ -21,7 +21,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
 |Smell | perception of an odor, distinguishability of odors, aversion to odors, general ability |
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
-|Touch | pain, fine touch, crude touch, passive tactile spatial acuity, balance  |
+|Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance  |
 
 
 
@@ -128,11 +128,11 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 [Hearing](https://en.wikipedia.org/wiki/Hearing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NTM3MjcsMTI2MTI3MDQzMywyMDYxMj
-E5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2OTgs
-OTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMTk0Nz
-EwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4NSwx
-MjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyNDM5Nj
-M2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDkyOF19
-
+eyJoaXN0b3J5IjpbLTE5NTEzNDU3NDcsMTI2MTI3MDQzMywyMD
+YxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2
+OTgsOTk3NDc0MzA0LC02NjQ3MDY4OSwtNTA4NzQ2MjcyLC0xMT
+k0NzEwNTgyLDI0MDg4MDY4NiwyNDA4ODA2ODYsMTQxNDQzMDk4
+NSwxMjgxMDk2NjY5LDEwMDY2NjQ0MDQsMTkxNzk1Mjc0NCwyND
+M5NjM2MDMsLTQ2NDA2MjU2OCwtOTA5NDkzNzgyLDk1MTY1MDky
+OF19
 -->
