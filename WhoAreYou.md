@@ -84,6 +84,10 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 
 ### Quantum Physics
 
+- Heisenburg uncertainity principle 1927
+- -
+- Werner's believe in consciousness as fundamental property
+- 
 
 ##### Random 
  This is analogous to that of machine learning, where in instead a set of memories, there is some set of data set that is fed 
@@ -153,11 +157,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MDQxNDA5LDE3Njc2MDQzNiwtMjA3OT
-Y4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYs
-MTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1ND
-YxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4
-LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MT
-I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
-XX0=
+eyJoaXN0b3J5IjpbLTEyMDcwNjE4OTMsMTc2NzYwNDM2LC0yMD
+c5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIwMDAsMjA4Njk2NjUx
+NiwxNzg2MjY4MTc0LDg2NTc0ODMyOCwyMDcwMTIzMTE2LDExNj
+U0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0
+NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMj
+YxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgz
+OThdfQ==
 -->
