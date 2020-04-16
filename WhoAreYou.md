@@ -47,6 +47,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Looking at era's, people aren't that fundamentally different in terms of our DNA, but vary drastically in behavior like racism depening on when they are born. 
 - Moldability 
 - Epigenetics
+- Vulnerable in early years.
 ### Compulsive Identity (Wants / Desires / Tendencies)
 - Thought experiments surrounding the volitional control of my actions.
 - Are my wants / desire given to me or do I manufacture them?
@@ -169,11 +170,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzA4NDcyNSwyNTYyMjE0OTcsMTQ4Nz
-M0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0MTYwOTc1
-LDcxODkzMjAwMCwyMDg2OTY2NTE2LDE3ODYyNjgxNzQsODY1Nz
-Q4MzI4LDIwNzAxMjMxMTYsMTE2NTQ2MTgxOSwxMjc4NjU1NzUy
-LC00MjYxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OT
-QxNjAyMCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0
-N119
+eyJoaXN0b3J5IjpbLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0OD
+czNDg0NDMsMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3NDE2MDk3
+NSw3MTg5MzIwMDAsMjA4Njk2NjUxNiwxNzg2MjY4MTc0LDg2NT
+c0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1
+MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNj
+k0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4
+NDddfQ==
 -->
