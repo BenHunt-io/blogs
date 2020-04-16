@@ -41,7 +41,10 @@ Unfortunately there's a multitude of problems identifying yourself by your profe
 Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is entirely, 100%, dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. In contrast, the start of the human lineage containing chimpanzees and gorillas began around 6-7 million years ago while modern humans emerged around 200,000 years ago. Given equivalent DNA, I simply would not be a software developer at any other point in time. It's simply not possible. I might've been a pyramid architect in 2500 B.C., but I sure as hell wouldn't be a software developer.
 
 ##### Nuture / Environment
--
+- Parental influences 
+- Dogma
+- You are who you surround yourself with
+- You 
 ### Compulsive Identity (Wants / Desires / Tendencies)
 - Thought experiments surrounding the volitional control of my actions.
 - Are my wants / desire given to me or do I manufacture them?
@@ -164,11 +167,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NTk0NTQsMjU2MjIxNDk3LDE0ODczND
-g0NDMsMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3NDE2MDk3NSw3
-MTg5MzIwMDAsMjA4Njk2NjUxNiwxNzg2MjY4MTc0LDg2NTc0OD
-MyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1Miwt
-NDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MT
-YwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDdd
-fQ==
+eyJoaXN0b3J5IjpbMzYzMzY5NzA2LDI1NjIyMTQ5NywxNDg3Mz
+Q4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQxNjA5NzUs
+NzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3ND
+gzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIs
+LTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5ND
+E2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3
+XX0=
 -->
