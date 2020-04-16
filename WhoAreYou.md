@@ -78,7 +78,9 @@ Michio defines consciousness as
 ##### Vedanta 
 
 ### Time
-
+- neccessary to form an ego 
+- Time is the entropy wave
+- past/present/future is an illusion, fabrications.
 Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
@@ -157,7 +159,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjcyNjQzNywxNzY3NjA0MzYsLTIwNz
+eyJoaXN0b3J5IjpbLTQxMjE0NDk5OCwxNzY3NjA0MzYsLTIwNz
 k2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2NTE2
 LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
 Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
