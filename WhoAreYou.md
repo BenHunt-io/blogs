@@ -82,6 +82,7 @@ Michio defines consciousness as
 - neccessary to form an ego 
 - Time is the entropy wave
 - past/present/future is an illusion, fabrications.
+- 
 Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
@@ -90,6 +91,7 @@ Time is the key insight into consciousness awareness. But what is it? A simple w
 - Heisenburg uncertainity principle 1927
 - Depenence upon an observer
 - Werner's believe in consciousness as fundamental property
+- Probabilites of finding an electron.
 - Vedanta
 
 ##### Random 
@@ -160,11 +162,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNz
-k2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2NTE2
-LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
-Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
-OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5LDEyNj
-EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
-OF19
+eyJoaXN0b3J5IjpbMjA2MTE5MTQ5NCwxNDg3MzQ4NDQzLDE3Nj
+c2MDQzNiwtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAw
+LDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MD
+EyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3
+MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mz
+k3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3
+NzBdfQ==
 -->
