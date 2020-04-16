@@ -82,7 +82,7 @@ Michio defines consciousness as
 - neccessary to form an ego 
 - Time is the entropy wave
 - past/present/future is an illusion, fabrications.
-- 
+- Planck time/lengths and role measuring time
 Time is the key insight into consciousness awareness. But what is it? A simple way to think about it is, time is change. For something to change, it has to have a past and future state. For the ice in your drink to melt, it first has to go from solid to liquid. When we measure time, we are measuring change.
 
 
@@ -162,11 +162,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTE5MTQ5NCwxNDg3MzQ4NDQzLDE3Nj
-c2MDQzNiwtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAw
-LDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MD
-EyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3
-MywxMDU2Nzg0NDQ4LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mz
-k3MTY0NjksMTI2MTI3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3
-NzBdfQ==
+eyJoaXN0b3J5IjpbMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2Nz
+YwNDM2LC0yMDc5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIwMDAs
+MjA4Njk2NjUxNiwxNzg2MjY4MTc0LDg2NTc0ODMyOCwyMDcwMT
+IzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzcz
+LDEwNTY3ODQ0NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOT
+cxNjQ2OSwxMjYxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3
+MF19
 -->
