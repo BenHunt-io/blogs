@@ -5,7 +5,7 @@ I'll volunteering to be the guinea pig in the following introspection. I've been
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details. I don't need to know where Europe is with respect to Africa to go from New York to Austin.
 
-We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. If you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. Assume these to be the same between myself and the entity or observer. We are examining my raw appearance.
+We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. So, lets imagine you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. Assume these to be the same between myself and the entity or observer. We are examining my raw appearance.
 
 ### Physical Identity
 
@@ -148,11 +148,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk2ODE5MTEsMjc0MTYwOTc1LDcxOD
-kzMjAwMCwyMDg2OTY2NTE2LDE3ODYyNjgxNzQsODY1NzQ4MzI4
-LDIwNzAxMjMxMTYsMTE2NTQ2MTgxOSwxMjc4NjU1NzUyLC00Mj
-YxMjE3NzMsMTA1Njc4NDQ0OCwtNDU1NzA1Mzg3LDE2OTQxNjAy
-MCwxNzM5NzE2NDY5LDEyNjEyNzA0MzMsMjA2MTIxOTg0NywxMD
-U1OTYwNzcwLDk1MzE1ODM5OCwxODk5NDEyNjk4LDk5NzQ3NDMw
-NF19
+eyJoaXN0b3J5IjpbLTk0MTY4NDQ3MiwtMjA3OTY4MTkxMSwyNz
+QxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3
+NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNz
+g2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUz
+ODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMD
+YxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2
+OThdfQ==
 -->
