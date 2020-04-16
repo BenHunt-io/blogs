@@ -25,7 +25,7 @@ Below is a taste of what comprises your umvelt,
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities like the perception of time). This is a short list. I couldn't possibly list out every permutation, as there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. My fingerprint is unique and it is such a minute attribute in the totality of what comprises my umvelt. But, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
+Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities like the perception of time). This is a short list. I couldn't possibly list out every permutation, as there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness.The uniqueness can be of my umvelt can really be grasped after considering the uniqueness of something as small in totallity as my fingerprint But, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
@@ -148,11 +148,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3ND
-E2MDk3NSw3MTg5MzIwMDAsMjA4Njk2NjUxNiwxNzg2MjY4MTc0
-LDg2NTc0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3OD
-Y1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4
-NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNj
-EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
-OF19
+eyJoaXN0b3J5IjpbLTE3MDAzNjgyODEsMTc2NzYwNDM2LC0yMD
+c5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIwMDAsMjA4Njk2NjUx
+NiwxNzg2MjY4MTc0LDg2NTc0ODMyOCwyMDcwMTIzMTE2LDExNj
+U0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0
+NDgsLTQ1NTcwNTM4NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMj
+YxMjcwNDMzLDIwNjEyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgz
+OThdfQ==
 -->
