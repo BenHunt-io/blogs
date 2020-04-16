@@ -17,7 +17,7 @@ You can deduce  a **subset** of what my DNA might be that had produced my notabl
 
 Below is a taste of what comprises your umvelt,
 
-|Senses (feedback loops)| Composition |
+|Senses (feedback loops)| Attribute|
 |--|--|
 |Sight| long/short sighted / depth perception / lateral masking / facial recognition / perception of color / light sensitivity / motion perception / resolution
 |Hearing | frequency range, vertical spatial locality, horizontal spatial, locality, mechanical to neural transduction loss  |
@@ -148,11 +148,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjcwNDg0MCwtMjA3OTY4MTkxMSwyNz
-QxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3
-NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNz
-g2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4LC00NTU3MDUz
-ODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MTI3MDQzMywyMD
-YxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4LDE4OTk0MTI2
-OThdfQ==
+eyJoaXN0b3J5IjpbMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3ND
+E2MDk3NSw3MTg5MzIwMDAsMjA4Njk2NjUxNiwxNzg2MjY4MTc0
+LDg2NTc0ODMyOCwyMDcwMTIzMTE2LDExNjU0NjE4MTksMTI3OD
+Y1NTc1MiwtNDI2MTIxNzczLDEwNTY3ODQ0NDgsLTQ1NTcwNTM4
+NywxNjk0MTYwMjAsMTczOTcxNjQ2OSwxMjYxMjcwNDMzLDIwNj
+EyMTk4NDcsMTA1NTk2MDc3MCw5NTMxNTgzOTgsMTg5OTQxMjY5
+OF19
 -->
