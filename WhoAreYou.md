@@ -72,6 +72,7 @@ Michio defines consciousness as
 
 > Consciousness is the process of creating a model of the world using multiple feedback loops in various parameters (e.g, in temperature, space, time, and in relation to others), in order to accomplish a goal (e.g., find mates, food shelter) - Michio Kaku
 
+- Insert equation of awareness here, and finish the gradient of awareness line.
 
 ![enter image description here](https://imgur.com/vG3d7FL.png)
  
@@ -159,7 +160,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjE0NDk5OCwxNzY3NjA0MzYsLTIwNz
+eyJoaXN0b3J5IjpbMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNz
 k2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2NTE2
 LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
 Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
