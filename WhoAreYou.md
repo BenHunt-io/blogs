@@ -47,7 +47,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Are my wants / desire given to me or do I manufacture them?
 - Compare the wants/desires/tendencies to a corporate structure with a CEO. 
 - Talk about the overwhelming role of your subconscious and draw out important parts of the brain.
-- Remove sensation 
+- Remove participation in these wants / desires / tendencies through meditation. You are still alive, you are still you, but what is you at that point? Talk about deprevation tanks.
 
 ### Conscious Identity
 Consciousness, the core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
@@ -153,11 +153,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTExNDA3MywxNzY3NjA0MzYsLTIwNz
-k2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2NTE2
-LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
-Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
-OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5LDEyNj
-EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
-OF19
+eyJoaXN0b3J5IjpbNjg2MDQxNDA5LDE3Njc2MDQzNiwtMjA3OT
+Y4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYs
+MTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1ND
+YxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4
+LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MT
+I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
+XX0=
 -->
