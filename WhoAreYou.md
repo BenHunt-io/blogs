@@ -29,7 +29,7 @@ Your umvelt, or subjective reality is built upon the permutation of these senses
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
-Okay. I get it. Don't judge a book by it's cover. 
+Okay. I get it. Don't judge a book by it's cover. It's not who they are.
 
 ### Societal Identity
 
@@ -148,11 +148,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzU2NDMyOCwxNzY3NjA0MzYsLTIwNz
-k2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2NTE2
-LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMxMTYsMTE2NT
-Q2MTgxOSwxMjc4NjU1NzUyLC00MjYxMjE3NzMsMTA1Njc4NDQ0
-OCwtNDU1NzA1Mzg3LDE2OTQxNjAyMCwxNzM5NzE2NDY5LDEyNj
-EyNzA0MzMsMjA2MTIxOTg0NywxMDU1OTYwNzcwLDk1MzE1ODM5
-OF19
+eyJoaXN0b3J5IjpbNzQ5MTM3Mjk4LDE3Njc2MDQzNiwtMjA3OT
+Y4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYs
+MTc4NjI2ODE3NCw4NjU3NDgzMjgsMjA3MDEyMzExNiwxMTY1ND
+YxODE5LDEyNzg2NTU3NTIsLTQyNjEyMTc3MywxMDU2Nzg0NDQ4
+LC00NTU3MDUzODcsMTY5NDE2MDIwLDE3Mzk3MTY0NjksMTI2MT
+I3MDQzMywyMDYxMjE5ODQ3LDEwNTU5NjA3NzAsOTUzMTU4Mzk4
+XX0=
 -->
