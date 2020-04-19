@@ -50,7 +50,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Vulnerable in early years.
 ### Behavioral Identity (Wants / Desires / Tendencies)
 
-My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place.
+My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. Regardless of when and where I was born, I'll have that urge to over indulge myself in food when the opportunity presents itself.
 
 
 I tend to be an outgoing person with the right crowd and more introverted with people that are as like minded as myself. I want to 
@@ -178,7 +178,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNzYzMzY0LC0xMTIyNjg4MDQ5LDE2Nj
+eyJoaXN0b3J5IjpbNzgzNTg3NTMzLC0xMTIyNjg4MDQ5LDE2Nj
 U1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4
 NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMj
 QzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTky
