@@ -191,8 +191,10 @@ Humans are incredibly good at thinking about the future and the past.
 [First software conference 1968](https://faculty.washington.edu/ajko/books/cooperative-software-development/history.html)
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
+
+[Usage of Vision in the Brain](https://www.rochester.edu/pr/Review/V74N4/0402_brainscience.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTM5Nzg0Nyw5NzAxMDU4MjEsLTIwNT
+eyJoaXN0b3J5IjpbMjEwNzYyNDEyMCw5NzAxMDU4MjEsLTIwNT
 czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
 NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
 0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
