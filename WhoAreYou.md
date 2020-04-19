@@ -156,6 +156,14 @@ But what is a thought and why does it have the unique ability to draw conclusion
 Humans are incredibly good at thinking about the future and the past.
 ##### References:
 
+Books:
+
+[Future of the Mind - Michio Kaku](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
+
+
+
+Internet:
+
 [What is Vedanta](https://vedanta.org/what-is-vedaasda)
 
  - It is inevitable that we will eventually, either in this or in future
@@ -193,12 +201,14 @@ Humans are incredibly good at thinking about the future and the past.
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 
 [Usage of Vision in the Brain](https://www.rochester.edu/pr/Review/V74N4/0402_brainscience.html)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzYyNDEyMCw5NzAxMDU4MjEsLTIwNT
-czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
-NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
-0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
-NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
-wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
-NjA5NzVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI4NDc2NzQsOTcwMTA1ODIxLC0yMD
+U3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3
+OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNi
+wtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzcz
+NjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OT
+csMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0
+MTYwOTc1XX0=
 -->
