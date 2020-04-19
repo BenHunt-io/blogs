@@ -49,6 +49,8 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Epigenetics
 - Vulnerable in early years.
 ### Compulsive Identity (Wants / Desires / Tendencies)
+
+
 - Thought experiments surrounding the volitional control of my actions.
 - Are my wants / desire given to me or do I manufacture them?
 - Compare the wants/desires/tendencies to a corporate structure with a CEO. 
@@ -172,11 +174,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OT
-k1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUz
-MTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMT
-EzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3NjA0
-MzYsLTIwNzk2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMD
-g2OTY2NTE2LDE3ODYyNjgxNzQsODY1NzQ4MzI4LDIwNzAxMjMx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTI1NTEzMzQ1OSwxMzE1NDc5NTksLTEzMz
+g0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTky
+NzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxND
+gzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4
+NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNz
+E4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4NjU3NDgz
+MjhdfQ==
 -->
