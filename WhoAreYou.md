@@ -54,11 +54,6 @@ My behavioral identity, is the behavioral traits and attributes I harbor agnosti
 
 For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
-
-
-On a more abstract note, I want meaningful work, work that I can be passionate about. I want 
-
-
  As an example, one of the tendencies I harbor is the urge to over indulge myself in food when the opportunity presents itself. This urge is independent of where and when I was born.
 
 
@@ -189,11 +184,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTczODc1MTMsLTExMjI2ODgwNDksMT
-Y2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUz
-Mjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNy
-wyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1
-OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNi
-wtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5
-NjY1MTZdfQ==
+eyJoaXN0b3J5IjpbOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMT
+IyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkw
+MzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLD
+E1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUy
+MTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0My
+wxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0MTYwOTc1LDcxODkz
+MjAwMF19
 -->
