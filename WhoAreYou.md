@@ -52,7 +52,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting.  
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting. The urge is just too strong with all that good food at my disposal.   
 
 
  As an example, one of the tendencies I harbor is the urge to over indulge myself in food when the opportunity presents itself. This urge is independent of where and when I was born.
@@ -185,7 +185,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MTA5NjM3LC0xMTIyNjg4MDQ5LDE2Nj
+eyJoaXN0b3J5IjpbODQ2MjExNjk5LC0xMTIyNjg4MDQ5LDE2Nj
 U1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4
 NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMj
 QzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTky
