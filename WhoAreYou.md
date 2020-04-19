@@ -59,9 +59,11 @@ I didn't choose for that urge to be there. But, my tendency to be nice, surely t
 
 
 ##### Origin of wants / desires / tendencies 
+- Young king who inherits throne analogy -> subconscious mind.
 - 
 
-##### Meditation - removal of (behavioral identity, societal identity, & physical identity) -> You
+##### Meditation 
+- removal of (behavioral identity, societal identity, & physical identity) -> You
 
 
 
@@ -190,7 +192,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzE0NzQ1NSw5NzAxMDU4MjEsLTIwNT
+eyJoaXN0b3J5IjpbMTc1NTM5Nzg0Nyw5NzAxMDU4MjEsLTIwNT
 czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
 NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
 0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
