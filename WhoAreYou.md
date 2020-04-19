@@ -50,6 +50,9 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Vulnerable in early years.
 ### Behavioral Identity (Wants / Desires / Tendencies)
 
+My behavioral identity, is the behavioral traits and attributes I harbor agnostic of 
+
+
 I tend to be an outgoing person with the right crowd and more introverted with people that are as like minded as myself. I want to 
 
 - Thought experiments surrounding the volitional control of my actions.
@@ -175,11 +178,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMz
-E1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2
-OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMT
-EzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIy
-MTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMS
-wyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2
-ODE3NF19
+eyJoaXN0b3J5IjpbNTc0MTQyMzY5LC0xMTIyNjg4MDQ5LDE2Nj
+U1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4
+NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMj
+QzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTky
+MDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLT
+IwNzk2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2
+NTE2XX0=
 -->
