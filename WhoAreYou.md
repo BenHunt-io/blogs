@@ -158,57 +158,57 @@ Humans are incredibly good at thinking about the future and the past.
 
 Books:
 
-[Future of the Mind - Michio Kaku](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
+- [Future of the Mind - Michio Kaku](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
 [The secret lives of the brain (subconscious) - David Eagleman](https://en.wikipedia.org/wiki/Incognito:_The_Secret_Lives_of_the_Brain)
 
 
 Internet:
 
-[What is Vedanta](https://vedanta.org/what-is-vedaasda)
+- [What is Vedanta](https://vedanta.org/what-is-vedaasda)
 
- - It is inevitable that we will eventually, either in this or in future
+	 - It is inevitable that we will eventually, either in this or in future
    lives, discover that the greatest truth of our existence is our own
   - God is infinite existence, infinite consciousness, and infinite bliss.
-- Vedanta asserts that the goal of life is to realize and to manifest our own divinity
+	- Vedanta asserts that the goal of life is to realize and to manifest our own divinity
 
-[Vedanta - Oneness of existence](https://vedanta.org/what-is-vedanta/the-oneness-of-existence/)
+- [Vedanta - Oneness of existence](https://vedanta.org/what-is-vedanta/the-oneness-of-existence/)
 
-- All fear and all misery arise from our sense of separation from the great cosmic unity, the web of being that enfolds us.
-- The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
+	- All fear and all misery arise from our sense of separation from the great cosmic unity, the web of being that enfolds us.
+	- The Self that is within me, the Atman, is the same Self that is within you—no matter whether the “you” in question is a saint, a murderer, a cat, a fly, a tree, or that irritating driver at the four-way stop.
 
-[Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect)
+- [Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect)
 
-- The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
+	- The pendulum starts with almost the same initial condition. Over time the differences in the dynamics grow from almost unnoticeable to drastic ones.
 
-[Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
+- [Number of people alive](https://www.ncbi.nlm.nih.gov/pubmed/12288594)
 
-[Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
+- [Wait Buy Why - Wants/Desires](https://waitbutwhy.com/2018/04/picking-career.html)
 
-[Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
+- [Stanford - Pain and the Brain](https://www.youtube.com/watch?v=otUVzK4hToM)
 
-[Time management for kids](https://www.psychologytoday.com/us/blog/growing-friendships/201403/time-management-kids)
+- [Time management for kids](https://www.psychologytoday.com/us/blog/growing-friendships/201403/time-management-kids)
 
-[Time Perception](http://www.exactlywhatistime.com/psychology-of-time/time-perception/)
+- [Time Perception](http://www.exactlywhatistime.com/psychology-of-time/time-perception/)
 
- - The brain therefore **reorganizes** the information and presents it in a more easily understandable form. In the case of familiar information, very little time is needed for this process, but new information requires more processing and this extra processing tends to makes time feel elongated. This is part of the reason why a child’s summer seems to last forever, while an old person’s well-practiced routine seems to slip away faster and faster. The more familiar the task, the less new information the brain needs to process, and the more quickly time seems to pass.
+	 - The brain therefore **reorganizes** the information and presents it in a more easily understandable form. In the case of familiar information, very little time is needed for this process, but new information requires more processing and this extra processing tends to makes time feel elongated. This is part of the reason why a child’s summer seems to last forever, while an old person’s well-practiced routine seems to slip away faster and faster. The more familiar the task, the less new information the brain needs to process, and the more quickly time seems to pass.
 (This is because of the basal ganglia)
-- In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
+	- In evolutionary terms, the ability to perceive time on very small scales may be the difference between life and death for small, vulnerable animals.
 
-[Hearing](https://en.wikipedia.org/wiki/Hearing)
+- [Hearing](https://en.wikipedia.org/wiki/Hearing)
 
-[First software conference 1968](https://faculty.washington.edu/ajko/books/cooperative-software-development/history.html)
+- [First software conference 1968](https://faculty.washington.edu/ajko/books/cooperative-software-development/history.html)
 
-[How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
+- [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 
-[Usage of Vision in the Brain](https://www.rochester.edu/pr/Review/V74N4/0402_brainscience.html)
+- [Usage of Vision in the Brain](https://www.rochester.edu/pr/Review/V74N4/0402_brainscience.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTc4OTMxMiw5NzAxMDU4MjEsLTIwNT
-czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
-NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
-0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
-NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
-wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
-NjA5NzVdfQ==
+eyJoaXN0b3J5IjpbNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1Nz
+M4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1
+OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLT
+I2MjQ1OTI3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1
+NzcyLDE0ODM1MjExOTMsLTExMzU5MjA0ODgsMjU2MjIxNDk3LD
+E0ODczNDg0NDMsMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3NDE2
+MDk3NV19
 -->
