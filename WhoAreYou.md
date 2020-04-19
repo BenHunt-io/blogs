@@ -1,7 +1,7 @@
 # Who are you
 Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, **you?**
 
-I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into too much detail about myself as we are about to unravel the fabric of my own reality, but I'm 24, a software developer in Austin Texas and am trying to figure out what I want to do / should be doing with my life. In doing, so I believe this will help you find your true identity, what truly make you, you. I do want to preface this, in saying that I do not have a PhD in this subject and you must ultimately decide who you are, for yourself.
+I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into too much detail about myself as we are about to unravel the fabric of my own reality, but I'm 24, a software developer in Austin Texas and am trying to figure out what I want to do / should be doing with my life. In doing, so I believe this will help you find your true identity, what truly make you, you. I do want to preface this, in saying that I do not have a PhD in this subject and you must ultimately decide who you are for yourself.
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details. I don't need to know where Europe is with respect to Africa to go from New York to Austin.
 
@@ -184,11 +184,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM1NTIzMDIsOTcwMTA1ODIxLC0yMD
-U3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3
-OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNi
-wtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzcz
-NjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OT
-csMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0
-MTYwOTc1XX0=
+eyJoaXN0b3J5IjpbMTcyMTYxNTY5OCw5NzAxMDU4MjEsLTIwNT
+czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
+NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
+0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
+NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
+wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
+NjA5NzVdfQ==
 -->
