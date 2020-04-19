@@ -52,7 +52,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire 
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. 
 
 On a more abstract note, I want meaningful work, work that I can be passionate about. I want 
 
@@ -187,7 +187,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk0MDM2ODEsLTExMjI2ODgwNDksMT
+eyJoaXN0b3J5IjpbLTE1ODA1MzI5MjEsLTExMjI2ODgwNDksMT
 Y2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUz
 Mjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNy
 wyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1
