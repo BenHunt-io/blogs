@@ -159,7 +159,7 @@ Humans are incredibly good at thinking about the future and the past.
 Books:
 
 [Future of the Mind - Michio Kaku](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
-
+[The secret lives of the brain (subconscious) - David Eagleman](https://en.wikipedia.org/wiki/Incognito:_The_Secret_Lives_of_the_Brain)
 
 
 Internet:
@@ -204,11 +204,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI4NDc2NzQsOTcwMTA1ODIxLC0yMD
-U3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3
-OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNi
-wtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzcz
-NjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OT
-csMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0
-MTYwOTc1XX0=
+eyJoaXN0b3J5IjpbMTM3MTc4OTMxMiw5NzAxMDU4MjEsLTIwNT
+czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
+NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
+0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
+NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
+wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
+NjA5NzVdfQ==
 -->
