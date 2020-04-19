@@ -50,7 +50,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Vulnerable in early years.
 ### Behavioral Identity (Wants / Desires / Tendencies)
 
-My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the irresistible 
+My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.  
 
 
  As an example, one of the tendencies I harbor is the urge to over indulge myself in food when the opportunity presents itself. This urge is independent of where and when I was born.
@@ -183,11 +183,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM1MDY4MzgsLTExMjI2ODgwNDksMT
-Y2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUz
-Mjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNy
-wyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1
-OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNi
-wtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5
-NjY1MTZdfQ==
+eyJoaXN0b3J5IjpbLTg5MDczMjU3MCwtMTEyMjY4ODA0OSwxNj
+Y1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMy
+ODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1MzE3LD
+I0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTExMzU5
+MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2NzYwNDM2LC
+0yMDc5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIwMDAsMjA4Njk2
+NjUxNl19
 -->
