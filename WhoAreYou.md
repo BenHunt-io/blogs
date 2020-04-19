@@ -52,9 +52,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
-
- As an example, one of the tendencies I harbor is the urge to over indulge myself in food when the opportunity presents itself. This urge is independent of where and when I was born.
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :). My level of introversion or extroversion tend to vary depending upon the group of people I'm with. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
 
 
@@ -184,11 +182,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTMyMDgyNiw5NzAxMDU4MjEsLTIwNT
-czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
-NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
-0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
-NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
-wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
-NjA5NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzOTUxMzMwMzcsOTcwMTA1ODIxLC0yMD
+U3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3
+OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNi
+wtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzcz
+NjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OT
+csMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0
+MTYwOTc1XX0=
 -->
