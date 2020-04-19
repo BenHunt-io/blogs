@@ -52,7 +52,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely a trade of time for economic output.
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :) . I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
 On a more abstract note, I want meaningful work, work that I can be passionate about. I want 
 
@@ -187,11 +187,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDAyODk2NiwtMTEyMjY4ODA0OSwxNj
-Y1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMy
-ODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1MzE3LD
-I0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTExMzU5
-MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2NzYwNDM2LC
-0yMDc5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIwMDAsMjA4Njk2
-NjUxNl19
+eyJoaXN0b3J5IjpbMzk3MzYwOTM5LC0xMTIyNjg4MDQ5LDE2Nj
+U1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4
+NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMj
+QzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTky
+MDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLT
+IwNzk2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2
+NTE2XX0=
 -->
