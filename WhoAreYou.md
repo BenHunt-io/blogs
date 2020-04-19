@@ -52,7 +52,9 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting. The urge is just too strong with all that good food at my disposal. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. On a more abstract note, I want meaningful work, work that I can be passionate about. I want
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more a creative and independent I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I
+
+On a more abstract note, I want meaningful work, work that I can be passionate about. I want 
 
 
  As an example, one of the tendencies I harbor is the urge to over indulge myself in food when the opportunity presents itself. This urge is independent of where and when I was born.
@@ -185,11 +187,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQxMzI1NzEsLTExMjI2ODgwNDksMT
-Y2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUz
-Mjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNy
-wyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1
-OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNi
-wtMjA3OTY4MTkxMSwyNzQxNjA5NzUsNzE4OTMyMDAwLDIwODY5
-NjY1MTZdfQ==
+eyJoaXN0b3J5IjpbODY3NzgyMTUwLC0xMTIyNjg4MDQ5LDE2Nj
+U1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4
+NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMj
+QzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTky
+MDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLT
+IwNzk2ODE5MTEsMjc0MTYwOTc1LDcxODkzMjAwMCwyMDg2OTY2
+NTE2XX0=
 -->
