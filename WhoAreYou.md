@@ -50,10 +50,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Vulnerable in early years.
 ### Behavioral Identity (Wants / Desires / Tendencies)
 
-I tend to be an outgoing person with the right crowd and more introverted with people that are as like minded as myself. 
-
-
-
+I tend to be an outgoing person with the right crowd and more introverted with people that are as like minded as myself. I want to 
 
 - Thought experiments surrounding the volitional control of my actions.
 - Are my wants / desire given to me or do I manufacture them?
@@ -178,7 +175,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU0ODMwNjcsMTY2NTU3Njg1MSwxMz
+eyJoaXN0b3J5IjpbLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMz
 E1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2
 OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMT
 EzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIy
