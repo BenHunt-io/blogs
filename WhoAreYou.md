@@ -55,7 +55,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Talk about the overwhelming role of your subconscious and draw out important parts of the brain.
 - Remove participation in these wants / desires / tendencies through meditation. You are still alive, you are still you, but what is you at that point? Talk about deprevation tanks.
 
-![Anatomy of Brain](https://imgur.com/xXhoqSy.png)
+![Anatomy of Brain](https://imgur.com/qFZbzG2.png)
 
 ### Conscious Identity
 Consciousness, the core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
@@ -172,11 +172,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNT
-g0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjEx
-OTMsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMT
-c2NzYwNDM2LC0yMDc5NjgxOTExLDI3NDE2MDk3NSw3MTg5MzIw
-MDAsMjA4Njk2NjUxNiwxNzg2MjY4MTc0LDg2NTc0ODMyOCwyMD
-cwMTIzMTE2LDExNjU0NjE4MTksMTI3ODY1NTc1MiwtNDI2MTIx
-NzczXX0=
+eyJoaXN0b3J5IjpbOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNj
+I0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3
+MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxND
+g3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQxNjA5
+NzUsNzE4OTMyMDAwLDIwODY5NjY1MTYsMTc4NjI2ODE3NCw4Nj
+U3NDgzMjgsMjA3MDEyMzExNiwxMTY1NDYxODE5LDEyNzg2NTU3
+NTJdfQ==
 -->
