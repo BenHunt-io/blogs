@@ -55,7 +55,7 @@ My behavioral identity, is the behavioral traits and attributes I harbor agnosti
 For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :). My level of introversion or extroversion tend to vary depending upon the group of people I'm with. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
 All of these tendencies that I attribute to myself as being part of my identity, where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? 
-I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me, that I chose. 
+I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me, that is 100% me. Right?
 
 
 
@@ -183,11 +183,11 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ4MzkzNDMsOTcwMTA1ODIxLC0yMD
-U3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3
-OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNi
-wtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzcz
-NjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OT
-csMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2ODE5MTEsMjc0
-MTYwOTc1XX0=
+eyJoaXN0b3J5IjpbMTk4ODE4NTQ1NSw5NzAxMDU4MjEsLTIwNT
+czODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5
+NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC
+0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2
+NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5Ny
+wxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4MTkxMSwyNzQx
+NjA5NzVdfQ==
 -->
