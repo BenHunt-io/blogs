@@ -48,8 +48,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 - Moldability 
 - Epigenetics
 - Vulnerable in early years.
-### Compulsive Identity (Wants / Desires / Tendencies)
-
+### Behavioral Identity (Wants / Desires / Tendencies)
 
 - Thought experiments surrounding the volitional control of my actions.
 - Are my wants / desire given to me or do I manufacture them?
@@ -174,7 +173,7 @@ Humans are incredibly good at thinking about the future and the past.
 
 [How long have we been human](https://www.npr.org/sections/13.7/2012/09/11/160934187/for-how-long-have-we-been-human)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTEzMzQ1OSwxMzE1NDc5NTksLTEzMz
+eyJoaXN0b3J5IjpbMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMz
 g0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTky
 NzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxND
 gzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4
