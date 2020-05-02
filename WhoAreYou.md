@@ -103,7 +103,7 @@ The primary structure we gained was the,
 
 We tend to distinguish ourselves from animals because we love to be special, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom. We are much more alike than many prefer to think.
 
-The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes.
+The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with.
 
 We were able to plan and outsmart our foes using our rational thought, processing all of our past experiences.
 
@@ -249,7 +249,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDQwNDUyNSw4ODE0NjQ3NzIsLTE2Mz
+eyJoaXN0b3J5IjpbMTY2NjU2NzA2MSw4ODE0NjQ3NzIsLTE2Mz
 k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
 Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
 U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
