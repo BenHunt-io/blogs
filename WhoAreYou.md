@@ -81,7 +81,11 @@ Subconsciously, however, my reptilian brain is firing off millions of neurons at
 These are some of the first workers in the kingdom of the brain for which I'm completely and blatantly oblivious.
 
 #### Mammalian Brain
-As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection. Some of the new abilities we gained include,
+As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection. Some of the brain structures we gained include,
+
+- Hippocampus : The memory factory. Short term memories are turned into long term memories here.
+- 
+- 
 
 
 
@@ -237,11 +241,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
-U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
-NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
-wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
-ODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OT
-I3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0
-ODM1MjExOTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODYzNzU1MDEsLTg3NDIwNzM1MSwtMT
+Y4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUy
+Mzg4MTksLTE4NzE0NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMS
+wtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEz
+MTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMD
+Y5MTYsLTI2MjQ1OTI3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwx
+MTM3MzY1NzcyXX0=
 -->
