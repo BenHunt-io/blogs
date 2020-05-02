@@ -52,7 +52,7 @@ Time and place are by in large the biggest in influencing factors. If we just fo
 
 My behavioral identity, is the behavioral traits and attributes I harbor agnostic of time and place. These traits and attributes are seen in the form of wants, desires and tendencies. Further, theses wants, desires, and tendencies are realized through things like the desire for fame, the tendency to over react, and the want for material possessions.
 
-For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent thinker and non conforming thinker. I tend to be a nice person... to a degree :). My level of introversion or extroversion tend to vary depending upon the group of people I'm with. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
+For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent and non conforming thinker. I tend to be a nice person... to a degree :). My level of introversion or extroversion tend to vary depending upon the group of people I'm with. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. I desire to live a healthy and active lifestyle. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
 All of these tendencies that I attribute to myself as being part of my identity, where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? 
 I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me, that is 100% me. 
@@ -204,11 +204,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1Nz
-M4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1
-OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLT
-I2MjQ1OTI3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1
-NzcyLDE0ODM1MjExOTMsLTExMzU5MjA0ODgsMjU2MjIxNDk3LD
-E0ODczNDg0NDMsMTc2NzYwNDM2LC0yMDc5NjgxOTExLDI3NDE2
-MDk3NV19
+eyJoaXN0b3J5IjpbLTE0NzM1MjI1OTYsNTU5NjExODAzLDk3MD
+EwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2
+ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLT
+E3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1MzE3LDI0Mzcw
+MjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTExMzU5MjA0OD
+gsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2NzYwNDM2LC0yMDc5
+NjgxOTExXX0=
 -->
