@@ -95,7 +95,7 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 #### Neomammalian Brain (Human Brain)
 
-The latest, the cutting edge, the Neomammillian brain, or cerebral cortex. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
+Now we welcome in the young king, the latest development, the cutting edge, the Neomammillian brain, or cerebral cortex. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
 The primary structure we gained was the,
 
 - **Cerebral Cortex** : The highly convoluted and wrinkly outer layer of the brain - responsible for rational thoughts and planning.
@@ -249,11 +249,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MT
-Q2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4
-NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNj
-g3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIz
-ODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC
-0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMx
-NTQ3OTU5XX0=
+eyJoaXN0b3J5IjpbNTM5NTU3MDc4LDQzMTkzMzkyOCwtMTE0ND
+UwOTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1
+MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3ND
+IwNzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgy
+MDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjExODAzLD
+k3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1
+NTc2ODUxXX0=
 -->
