@@ -90,7 +90,6 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 
 This is where I believe my willingness to be nice appeared. 
 
-
 #### Neomammalian Brain (Human Brain)
 
 My brain emerged from the swamps, with basic physiological needs. 
@@ -242,11 +241,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk5NTQwMDIsNDY5ODQzODc0LC04Nz
-QyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMTY1ODU4
-MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMy
-w5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2
-NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMj
-g0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywy
-NDM3MDI3MzBdfQ==
+eyJoaXN0b3J5IjpbNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0Mj
+A3MzUxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIw
+NjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOT
+cwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1
+NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NC
+wtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQz
+NzAyNzMwXX0=
 -->
