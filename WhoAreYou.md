@@ -105,6 +105,8 @@ We tend to distinguish ourselves from animals because we love to be special, but
 
 The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with. Bears and other mammals aren't concerned with building tools because they are only concerned with what is right in front of them, from moment to moment. They have yet to develop an advanced neocortex.
 
+This is where I believe my abstract want for meaningful work developed. 
+
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
 
@@ -247,7 +249,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI2ODUwNjAsODgxNDY0NzcyLC0xNj
+eyJoaXN0b3J5IjpbLTExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNj
 M5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1
 OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLT
 c1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcx
