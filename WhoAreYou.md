@@ -90,7 +90,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 
 This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone or sleep in the wilderness by myself. Nature is a ruthless and unforgiving place. It was extraordinarily beneficial to have each others back. 
 
-
+Perhaps more importantly, my ability to create memories emerged here. 
 
 
 #### Neomammalian Brain (Human Brain)
@@ -244,11 +244,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1OTczNjQ3LC0xNjM5NTk3NjQ3LC0xND
-MxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0
-LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMT
-Y1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYx
-MTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwND
-ksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5
-OTUzMjg0XX0=
+eyJoaXN0b3J5IjpbMTU4ODU1NjAzOSwtMTYzOTU5NzY0NywtMT
+QzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3
+NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLT
+E2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2
+MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MD
+Q5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2
+OTk1MzI4NF19
 -->
