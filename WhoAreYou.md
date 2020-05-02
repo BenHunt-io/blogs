@@ -71,8 +71,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 #### Reptilian Brain ( ~ 500 million years ago)
 500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays enormous an enormous role in our behavior and decision making today. The reptilian brain was concerned with some of the following things:
-- test
-- -t
+- 
 
 
 My brain emerged from the swamps, with basic physiological needs. 
@@ -224,11 +223,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0MDk0NzEsLTE4NzE0NTA3NTksNT
-U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
-ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
-w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
-NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOT
-MsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2
-NzYwNDM2XX0=
+eyJoaXN0b3J5IjpbMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NT
+k2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4
+MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LD
+k2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3
+MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5My
+wtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3
+NjA0MzZdfQ==
 -->
