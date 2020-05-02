@@ -107,7 +107,7 @@ The neocortex is what allowed us to rise to the top of the food chain. Humans do
 
 This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. The framework that takes the state of your well being into account as well as your current and past experiences in efforts to  make predictions, (thoughts), about the future. Predictions that are best for your survival and reproduction. Huh, that's funny. Wasn't that the initial need, to survive and reproduce? It seems like we are still trying to fulfill this. 
 
-But what does meaningful work have to do with making predictions on how to best survive? In the absence of primal need to survive and rep
+But what does meaningful work have to do with making predictions on how to best survive? In the absence of the primal need to survive and reproduce we are left with gigantic optimizing function.
 
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
@@ -251,11 +251,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTM3MjIwNiwtMTcwNjE2MjQyMiw3Nj
-k0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3
-MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNT
-M2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2
-Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOS
-wtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3
-Mzg3NTEzXX0=
+eyJoaXN0b3J5IjpbMTE3NTcxMzA4LC0xNzA2MTYyNDIyLDc2OT
+Q3MjE3MCw0MzE5MzM5MjgsLTExNDQ1MDkwMTgsODgxNDY0Nzcy
+LC0xNjM5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1Mz
+Y1OTg1OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYy
+NzksLTc1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC
+0xODcxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTcz
+ODc1MTNdfQ==
 -->
