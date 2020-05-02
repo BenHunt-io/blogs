@@ -76,7 +76,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism. Rationally, we know that we can wait, we're not going to starve.
 
-Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I actually getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? Who made the decision to eat? Why do I have to say no to myself? Who am I even saying no to?
+Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea, because well in the past it was a fantastic idea. I get mad at myself for doing that, but who am I actually getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? Who made the decision to eat? Why do I have to say no to myself? Who am I even saying no to?
 
 These are some of the first workers in the kingdom of the brain for which I'm completely and blatantly oblivious of.
 
@@ -277,11 +277,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNzE4MzQsMzE0OTQwOTQsLTk0MjE5Mz
-YyMiwtMTAzNzMyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYxMzc2
-LC0xOTYyOTg3Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MCw0Mz
-E5MzM5MjgsLTExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3
-NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsND
-Y5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0
-MDE1M119
+eyJoaXN0b3J5IjpbNTgxNzMwODExLDkzMTcxODM0LDMxNDk0MD
+k0LC05NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwt
+MTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Nj
+k0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3
+MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNT
+M2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2
+Mjc5XX0=
 -->
