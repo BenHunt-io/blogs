@@ -103,7 +103,8 @@ The primary structure we gained was the,
 
 We tend to distinguish ourselves from animals because we love to be special, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom. We are much more alike than many prefer to think.
 
-The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with. Bears and other mammals aren't concerned with building tools because they are only concerned with what is right in front of them. They h
+The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with. Bears and other mammals aren't concerned with building tools because they are only concerned with what is right in front of them. They have yet to develop an advanced neocortex.
+
 
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
@@ -247,11 +248,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NzkwOTI5LDg4MTQ2NDc3MiwtMTYzOT
-U5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTky
-LDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NT
-Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
-MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
-0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
-NDkwMzU0XX0=
+eyJoaXN0b3J5IjpbLTE1NzIwNzAyNTUsODgxNDY0NzcyLC0xNj
+M5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1
+OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLT
+c1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcx
+NDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MT
+MsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEz
+Mzg0OTAzNTRdfQ==
 -->
