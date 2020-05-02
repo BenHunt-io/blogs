@@ -112,6 +112,8 @@ But what does meaningful work have to do with making predictions on how to best 
 
 I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I'm given and experiences I've had. Perhaps If I was given new information about the pleasures of living a simple nomadic life in a 3rd world country, my neocortex would adjust and produce wants, wants that would lead me to quit my job and live that life.
 
+If my physical, societal, and behavioral identity are served up to my conscious experience 
+
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
 
@@ -254,11 +256,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwtMT
-IzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0
-NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3Mi
-wtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2
-NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mj
-c5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwt
-MTg3MTQ1MDc1OV19
+eyJoaXN0b3J5IjpbLTE3MTQ2MDM1NjYsLTEwMzczMjg1MDksMT
+k0NTY1Mjg4OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcw
+NjE2MjQyMiw3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MD
+E4LDg4MTQ2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywx
+NzIzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3Mz
+UxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAs
+MTA3NTIzODgxOV19
 -->
