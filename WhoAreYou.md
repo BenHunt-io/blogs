@@ -80,7 +80,7 @@ Subconsciously, however, my reptilian brain is firing off millions of neurons at
 These are some of the first workers in the kingdom of the brain for which I'm completely and blatantly oblivious.
 
 #### Mammalian Brain
-As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still need to have a heartbeat and reproduce. We're simply building on top of the framework that has worked so well in the past through the process of natural selection.
+As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We're simply building on top of the framework that has worked so well in the past through the process of natural selection.
 
 
 
@@ -236,7 +236,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTAzMzg5NywtMTY4NzU4NjI3OSwtNz
+eyJoaXN0b3J5IjpbMTA2MTYzODQ3MiwtMTY4NzU4NjI3OSwtNz
 U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
 NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
 wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
