@@ -89,6 +89,10 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 - **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
 
 This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone or sleep in the wilderness by myself. Nature is a ruthless and unforgiving place. It was extraordinarily beneficial to have each others back. 
+
+
+
+
 #### Neomammalian Brain (Human Brain)
 
 My brain emerged from the swamps, with basic physiological needs. 
@@ -240,11 +244,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc5NDk5OTMsLTE2Mzk1OTc2NDcsLT
-E0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4
-NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC
-0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5
-NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4OD
-A0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5
-Njk5NTMyODRdfQ==
+eyJoaXN0b3J5IjpbOTE1OTczNjQ3LC0xNjM5NTk3NjQ3LC0xND
+MxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0
+LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMT
+Y1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYx
+MTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwND
+ksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5
+OTUzMjg0XX0=
 -->
