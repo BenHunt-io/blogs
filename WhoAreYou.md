@@ -70,7 +70,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
 #### Reptilian Brain ( ~ 500 Million Years Ago)
-500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following:
+500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following,
 - Heartbeat, Digestion, Hunting, Mating, Territoriality, Balance, Breathing and Metabolism
 
 That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism. Rationally, we know that we can wait, we're not going to starve.
@@ -80,7 +80,8 @@ Subconsciously, however, my reptilian brain is firing off millions of neurons at
 These are some of the first workers in the kingdom of the brain for which I'm completely and blatantly oblivious.
 
 #### Mammalian Brain
-As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection.
+As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection. Some of the new abilities we gained include,
+
 
 
 
@@ -235,11 +236,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjY3MDIxLC0xNjg3NTg2Mjc5LC03NT
-Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
-MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
-0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
-NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5Mj
-czLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4
-MzUyMTE5M119
+eyJoaXN0b3J5IjpbMTM3MDU1NTc2NywtMTY4NzU4NjI3OSwtNz
+U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
+NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
+wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
+ODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OT
+I3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0
+ODM1MjExOTNdfQ==
 -->
