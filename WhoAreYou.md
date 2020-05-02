@@ -98,7 +98,8 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 The latest, the cutting edge, the Neomammillian brain, or cerebral cortex. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
 The primary structure we gained was,
 
-- Cereberal Cortex - The 
+- **Cerebral Cortex** : The outer layer of the brain - responsible for rational thoughts and planning.
+- 
 
 
 We tend to distinguish ourselves from animals, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom.
@@ -249,7 +250,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczMzI1NzAsODgxNDY0NzcyLC0xNj
+eyJoaXN0b3J5IjpbLTE0MDMzNDAyNzcsODgxNDY0NzcyLC0xNj
 M5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1
 OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLT
 c1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcx
