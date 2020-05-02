@@ -59,7 +59,7 @@ All of these tendencies that I attribute to myself as being part of my identity,
 ##### Origin of wants / desires / tendencies 
 I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work because. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's a seamlessly interwoven into your subjective experience.
 
-There's a 
+An analogy that I love is about a young king who inherits the throne. 
 
  
 - Young king who inherits throne analogy -> subconscious mind.
@@ -207,7 +207,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTUzNzQ2OSwtMTg3MTQ1MDc1OSw1NT
+eyJoaXN0b3J5IjpbMTQ3MTg1OTk2NCwtMTg3MTQ1MDc1OSw1NT
 k2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4
 MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LD
 k2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3
