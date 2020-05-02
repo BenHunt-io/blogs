@@ -57,7 +57,7 @@ For myself, I tend to over indulge myself on grocery day, consuming half the gro
 All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me.. right?
 
 ##### Origin of wants / desires / tendencies 
-I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work because. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's a seamlessly interwoven into your subjective experience.
+I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be a nice person. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's a seamlessly interwoven into your subjective experience.
 
 An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life possible. 
 
@@ -232,11 +232,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMT
-g3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3
-NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC
-0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYy
-NDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3Nz
-IsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4
-NzM0ODQ0M119
+eyJoaXN0b3J5IjpbLTc1NDU0MDE1MywtMTY1ODU4MjA2MCwxMD
+c1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4
+MjEsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MS
+wxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5
+MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3Mz
+AsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1
+NjIyMTQ5N119
 -->
