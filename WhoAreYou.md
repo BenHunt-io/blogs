@@ -85,7 +85,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 
 - Hippocampus : The memory factory. Short term memories are turned into long term memories here.
 - Amygdala : Emotions. Fear, joy, sorrow.
-- Thalmus : The coordinator. 
+- Thalmus : The coordinator of the signals in the brain. The 
 
 
 
@@ -241,11 +241,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NjA5NTE4LC04NzQyMDczNTEsLTE2OD
-c1ODYyNzksLTc1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4
-ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLT
-IwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1
-NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OT
-E2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEz
-NzM2NTc3Ml19
+eyJoaXN0b3J5IjpbLTUxMTU5NDY1MCwtODc0MjA3MzUxLC0xNj
+g3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIz
+ODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC
+0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMx
+NTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNj
+kxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDEx
+MzczNjU3NzJdfQ==
 -->
