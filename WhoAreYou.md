@@ -95,9 +95,7 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 #### Neomammalian Brain (Human Brain)
 
-My brain emerged from the swamps, with basic physiological needs. 
-
-
+The latest in the evolutionary feats of the mind. It
  
 - Young king who inherits throne analogy -> subconscious mind.
 - 
@@ -244,11 +242,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1NTMyMTUsODgxNDY0NzcyLC0xNj
-M5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1
-OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLT
-c1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcx
-NDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MT
-MsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEz
-Mzg0OTAzNTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTc2MjQzMyw4ODE0NjQ3NzIsLTE2Mz
+k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
+Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
+U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
+NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
+wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
+ODQ5MDM1NF19
 -->
