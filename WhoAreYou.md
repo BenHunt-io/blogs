@@ -83,10 +83,10 @@ These are some of the first workers in the kingdom of the brain for which I'm co
 #### Mammalian Brain
 As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection. Some of the brain structures we gained include,
 
-- Hippocampus : The memory factory. Short term memories are turned into long term memories here.
-- Amygdala : Emotions. Fear, joy, sorrow.
-- Thalmus : The coordinator of the signals in the brain. The area that directs signals to be processed in different areas of the brain.
-- 
+- **Hippocampus** : The memory factory. Short term memories are turned into long term memories here.
+- **Amygdala** : Emotions. Fear, joy, sorrow.
+- **Thalmus** : The coordinator of the signals in the brain. The area that directs signals to be processed in different areas of the brain.
+- **Hypothalmus** : 
 
 
 
@@ -242,7 +242,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDU2NTU4MiwtODc0MjA3MzUxLC0xNj
+eyJoaXN0b3J5IjpbLTM3MjU0MTY4OCwtODc0MjA3MzUxLC0xNj
 g3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIz
 ODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC
 0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMx
