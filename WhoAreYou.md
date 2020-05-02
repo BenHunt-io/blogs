@@ -88,7 +88,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 - **Thalmus** : The coordinator of the signals. The area that directs signals to be processed in different areas of the brain.
 - **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
 
-This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than i
+This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone.
 #### Neomammalian Brain (Human Brain)
 
 My brain emerged from the swamps, with basic physiological needs. 
@@ -240,11 +240,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI5NTYxNDEsLTE0MzE5NDQ1MjcsMT
-cyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3NDIwNzM1
-MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgyMDYwLD
-EwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjExODAzLDk3MDEw
-NTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2OD
-UxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLTE3
-OTkwMDY5MTZdfQ==
+eyJoaXN0b3J5IjpbLTMyOTEwNTcyMSwtMTQzMTk0NDUyNywxNz
+IzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUx
+LC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMT
+A3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1
+ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NT
+EsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5
+OTAwNjkxNl19
 -->
