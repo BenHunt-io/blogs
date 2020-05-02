@@ -57,7 +57,7 @@ For myself, I tend to over indulge myself on grocery day, consuming half the gro
 All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me.. right?
 
 ##### Origin of wants / desires / tendencies 
-I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be nice. I chose to eat all my groceries because damn, that salsa was just too irresistible. I chose to want meaningful work. It's easy to fall down this path of *believing*.
+I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be nice. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work. I chose to be healthy. It's easy to fall down this path of *believing*.
 
 In a conversation between Michio Kaku and David Eagleman, 
 
@@ -207,7 +207,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjk2MjY5NCwtMTg3MTQ1MDc1OSw1NT
+eyJoaXN0b3J5IjpbMTA5NjA2MzUwNSwtMTg3MTQ1MDc1OSw1NT
 k2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4
 MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LD
 k2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3
