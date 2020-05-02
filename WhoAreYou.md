@@ -72,7 +72,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 #### Reptilian Brain ( ~ 500 Million Years Ago)
 500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. Emerging from the sea, there was a primal need to survive and reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following,
 
-![enter image description here](https://imgur.com/cbXBq2X.png)
+![enter image description here](https://imgur.com/ZLi9hUI.png)
 
 That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism. Rationally, we know that we can wait, we're not going to starve.
 
@@ -277,11 +277,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0OTQwOTQsLTk0MjE5MzYyMiwtMTAzNz
-MyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYxMzc2LC0xOTYyOTg3
-Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MCw0MzE5MzM5MjgsLT
-ExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMx
-OTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0LC
-04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMTY1
-ODU4MjA2MF19
+eyJoaXN0b3J5IjpbOTMxNzE4MzQsMzE0OTQwOTQsLTk0MjE5Mz
+YyMiwtMTAzNzMyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYxMzc2
+LC0xOTYyOTg3Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MCw0Mz
+E5MzM5MjgsLTExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3
+NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsND
+Y5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0
+MDE1M119
 -->
