@@ -109,7 +109,7 @@ This is where I believe my abstract want for meaningful work developed. It was b
 
 But what does meaningful work have to do with making predictions on how to best survive? In the absence of the primal need to survive and reproduce I'm left with gigantic optimizing function that is still trying to model the best future with me in it. My neocortex, or human behavior optimizing function, can't by design choose an action that isn't in the best interest of myself. The want for meaningful work, is simply the path of least resistance or most optimal path for me. It's the path with the least anxiety, depression, pain and one most passion and pleasure. 
 
-I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I have.
+I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I'm given.
 
 
 ##### Meditation 
@@ -254,11 +254,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTc1MDMwMywtMTcwNjE2MjQyMiw3Nj
-k0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3
-MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNT
-M2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2
-Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOS
-wtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3
-Mzg3NTEzXX0=
+eyJoaXN0b3J5IjpbLTE0MTA5NjI1MzAsLTE3MDYxNjI0MjIsNz
+Y5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0NjQ3
+NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLD
+UzNjU5ODU5Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4
+NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MT
+ksLTE4NzE0NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1
+NzM4NzUxM119
 -->
