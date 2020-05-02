@@ -77,8 +77,10 @@ That irresistible urge I face coming home with 3 bags full of tasty groceries, (
 
 Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I actually getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? Who made the decision to eat? Why do I have to say no to myself? Who am I even saying no to?
 
+These are some of the first workers
+
 #### Mammalian Brain
-As we evolved into cynodont's, some of the earliest 
+As we evolved into more social animals,  
 
 
 #### Neomammalian Brain (Human Brain)
@@ -232,11 +234,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMT
-Y1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYx
-MTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwND
-ksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5
-OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNT
-MxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0x
-MTM1OTIwNDg4XX0=
+eyJoaXN0b3J5IjpbLTYzNTU0MzM1OSwtMTY4NzU4NjI3OSwtNz
+U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
+NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
+wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
+ODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OT
+I3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0
+ODM1MjExOTNdfQ==
 -->
