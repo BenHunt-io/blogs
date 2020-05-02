@@ -65,7 +65,7 @@ Much like the young king, I inherited the functions and abilities of my brain. A
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
-My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. Below is a high level view of the brain, showing this outward expansion.
+My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. The brain has been compared to a museum, carrying with it remnants of past   Below is a high level view of the brain, showing this outward expansion.
 
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
@@ -218,7 +218,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM1OTg4NzIsLTE4NzE0NTA3NTksNT
+eyJoaXN0b3J5IjpbLTE2OTA2NTc4OTcsLTE4NzE0NTA3NTksNT
 U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
 ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
 w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
