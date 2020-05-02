@@ -69,7 +69,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
-My brain emerged from the swamps.
+My brain emerged from the swamps, with basic physiological needs. 
 
 
  
@@ -218,7 +218,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4NDg4ODQsLTE4NzE0NTA3NTksNT
+eyJoaXN0b3J5IjpbLTExNDM1OTg4NzIsLTE4NzE0NTA3NTksNT
 U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
 ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
 w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
