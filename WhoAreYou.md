@@ -88,7 +88,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 - **Thalmus** : The coordinator of the signals. The area that directs signals to be processed in different areas of the brain.
 - **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
 
-This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone or sleep in the wilderness by myself. The wilderness is a ruthless and unforgiving place. It was extraordinarily beneficial to have each others back. 
+This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone or sleep in the wilderness by myself. Nature is a ruthless and unforgiving place. It was extraordinarily beneficial to have each others back. 
 #### Neomammalian Brain (Human Brain)
 
 My brain emerged from the swamps, with basic physiological needs. 
@@ -240,11 +240,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTM3NTc3NSwtMTYzOTU5NzY0NywtMT
-QzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3
-NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLT
-E2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2
-MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MD
-Q5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2
-OTk1MzI4NF19
+eyJoaXN0b3J5IjpbLTIwMjc5NDk5OTMsLTE2Mzk1OTc2NDcsLT
+E0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4
+NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC
+0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5
+NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4OD
+A0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5
+Njk5NTMyODRdfQ==
 -->
