@@ -70,7 +70,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
 #### Reptilian Brain ( ~ 500 Million Years Ago)
-500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following,
+500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. Emerging from the sea, there was a primal need to survive and a need to reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following,
 
 - Heartbeat, Digestion, Hunting, Mating, Territoriality, Balance, Breathing and Metabolism
 
@@ -244,11 +244,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xND
-MxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0
-LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMT
-Y1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYx
-MTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwND
-ksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5
-OTUzMjg0XX0=
+eyJoaXN0b3J5IjpbMjIzMTMzNjA3LDg4MTQ2NDc3MiwtMTYzOT
+U5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTky
+LDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NT
+Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
+MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
+0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
+NDkwMzU0XX0=
 -->
