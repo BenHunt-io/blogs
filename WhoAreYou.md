@@ -65,9 +65,9 @@ Much like the young king, I inherited the functions and abilities of my brain. A
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
-My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. 
+My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. Below is a high level view of the brain, showing this outward expansion.
 
-
+![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
 
  
@@ -87,7 +87,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 - Talk about the overwhelming role of your subconscious and draw out important parts of the brain.
 - Remove participation in these wants / desires / tendencies through meditation. You are still alive, you are still you, but what is you at that point? Talk about deprevation tanks.
 
-![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
+
 
 ### Conscious Identity
 Consciousness, the core you. The you after everything else dissolves away. No sights, smells, sounds, tastes, or physical sensations. No thoughts or even the perception of time. No ego or sense of identity remains. Without these components, we are left with something that is indistinguishable from one another, gender and life agnostic, a universal constant. We are left with consciousness. A state of pure existence and being.
@@ -216,11 +216,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODI1Mzc0LC0xODcxNDUwNzU5LDU1OT
-YxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgw
-NDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOT
-Y5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDcz
-NTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC
-0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2
-MDQzNl19
+eyJoaXN0b3J5IjpbMTE5NTIyOTU4NSwtMTg3MTQ1MDc1OSw1NT
+k2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4
+MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LD
+k2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3
+MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5My
+wtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3
+NjA0MzZdfQ==
 -->
