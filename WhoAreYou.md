@@ -70,6 +70,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
 #### Reptilian Brain ( ~ 500 million years ago)
+500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to have 
 My brain emerged from the swamps, with basic physiological needs. 
 
 
@@ -219,11 +220,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTk1ODIxLC0xODcxNDUwNzU5LDU1OT
-YxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgw
-NDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOT
-Y5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDcz
-NTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC
-0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2
-MDQzNl19
+eyJoaXN0b3J5IjpbLTE2NjcyMzUxNDUsLTE4NzE0NTA3NTksNT
+U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
+ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
+w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
+NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOT
+MsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2
+NzYwNDM2XX0=
 -->
