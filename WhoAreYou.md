@@ -105,7 +105,7 @@ We tend to distinguish ourselves from animals because we love to be special, but
 
 The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with. Bears and other mammals aren't concerned with building tools because they are only concerned with what is right in front of them, from moment to moment. They have yet to develop an advanced neocortex.
 
-This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. 
+This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. The framework that takes the state of your well being into account as well as your current and past experiences and analyzes them to make a 
 
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
@@ -249,11 +249,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM2NjA1MTYsLTExNDQ1MDkwMTgsOD
-gxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMz
-ODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLT
-E2ODc1ODYyNzksLTc1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1
-MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4Mj
-EsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwx
-MzE1NDc5NTldfQ==
+eyJoaXN0b3J5IjpbNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MT
+Q2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4
+NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNj
+g3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIz
+ODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC
+0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMx
+NTQ3OTU5XX0=
 -->
