@@ -63,6 +63,7 @@ An analogy that I love is about a young king who inherits the throne. The young 
 
 Much like the young king, I inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain. 
 
+How could I possibly take credit for something I didn't author? For something I inherited?
 brain is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. 
 
 
@@ -214,11 +215,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjU0NjYyNywtMTg3MTQ1MDc1OSw1NT
-k2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4
-MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LD
-k2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3
-MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5My
-wtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3
-NjA0MzZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDEwOTM1MzUsLTE4NzE0NTA3NTksNT
+U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
+ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
+w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
+NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOT
+MsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2
+NzYwNDM2XX0=
 -->
