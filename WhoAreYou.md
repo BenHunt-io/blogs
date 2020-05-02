@@ -97,11 +97,9 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 The latest, the cutting edge, the Neomammillian brain, or cerebral cortex. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
 
+We tend to distinguish ourselves from animals, but it is only this
 
-part of the brain that we give so much credit to in distinguishing humans from the rest of living things.
  
-- Young king who inherits throne analogy -> subconscious mind.
-- 
 
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
@@ -245,11 +243,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MzQyOTUyLDg4MTQ2NDc3MiwtMTYzOT
-U5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTky
-LDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NT
-Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
-MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
-0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
-NDkwMzU0XX0=
+eyJoaXN0b3J5IjpbLTIwNDcxOTEwNDcsODgxNDY0NzcyLC0xNj
+M5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMzODg2Miw1MzY1OTg1
+OTIsNDY5ODQzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLT
+c1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcx
+NDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MT
+MsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEz
+Mzg0OTAzNTRdfQ==
 -->
