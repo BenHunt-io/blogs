@@ -61,7 +61,7 @@ I, (we), tend to give ourselves full credit for these behavioral traits as if we
 
 An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running without a hiccup. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life even remotely possible. 
 
-Much like the young king, I inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain among an seemingly infinite number of feedback loops that composed my umvelt.
+Much like the young king, I, (we), inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain among an seemingly infinite number of feedback loops that composed my umvelt.
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
@@ -232,11 +232,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDMyMjAzLC03NTQ1NDAxNTMsLTE2NT
-g1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4
-MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LD
-E2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1
-MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMT
-csMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEz
-NTkyMDQ4OF19
+eyJoaXN0b3J5IjpbLTYwNTcyMTE0MCwtNzU0NTQwMTUzLC0xNj
+U4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjEx
+ODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OS
+wxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5
+NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1Mz
+E3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTEx
+MzU5MjA0ODhdfQ==
 -->
