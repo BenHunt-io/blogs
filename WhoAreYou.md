@@ -145,6 +145,25 @@ You believe to exist by virtue of your ego, a perception of self, that you've co
 
 **Thoughts** are necessary in conjunction with memories in building a sense of self. The generation of them are believed to reside in the dorsolateral prefrontal cortex, an area of the brain responsible for memory, planning and abstract thinking. Thoughts are small or large predictions about the future. Memories serve no evolutionary purpose without something to consume or learn from them.
 
+
+
+
+
+
+
+
+-
+-
+-
+
+ 
+  
+   
+    
+     
+
+
+
 ##### Consciousness in the animal kingdom
 Are animals conscious? Is my dog conscious? Yes. And he's the same amount conscious as you. He's just simply not as aware as you. The animal kingdom has a gradient of awareness. To illustrate, I'm going to borrow an idea from "The Future of the Mind" by Michio Kaku. Michio Kaku is a theoretical physicist and author known for his work in String Field theory.
 
@@ -256,11 +275,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ2MDM1NjYsLTEwMzczMjg1MDksMT
-k0NTY1Mjg4OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcw
-NjE2MjQyMiw3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MD
-E4LDg4MTQ2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywx
-NzIzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0Mzg3NCwtODc0MjA3Mz
-UxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNTMsLTE2NTg1ODIwNjAs
-MTA3NTIzODgxOV19
+eyJoaXN0b3J5IjpbNDg3MTU5NzczLC0xMDM3MzI4NTA5LDE5ND
+U2NTI4ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYx
+NjI0MjIsNzY5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOC
+w4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1MjcsMTcy
+MzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3NDIwNzM1MS
+wtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgyMDYwLDEw
+NzUyMzg4MTldfQ==
 -->
