@@ -75,7 +75,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism. Rationally, we know that we can wait, we're not going to starve.
 
-Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I actually getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? 
+Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I actually getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? Who made the decision to eat?
 
 #### Mammalian Brain
 As we evolved into cynodont's, some of the earliest 
@@ -232,7 +232,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTQ0Nzg5LC03NTQ1NDAxNTMsLTE2NT
+eyJoaXN0b3J5IjpbMjU5ODI2MTExLC03NTQ1NDAxNTMsLTE2NT
 g1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1NTk2MTE4
 MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LD
 E2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1
