@@ -77,7 +77,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 As we evolved into cynodont's, some of the earliest 
 
 
-### Neomammalian Brain (Human Brain)
+#### Neomammalian Brain (Human Brain)
 
 My brain emerged from the swamps, with basic physiological needs. 
 
@@ -228,11 +228,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5Njc4NTExLDEwNzUyMzg4MTksLTE4Nz
-E0NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUx
-MywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMT
-MzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1
-OTI3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLD
-E0ODM1MjExOTMsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODcz
-NDg0NDNdfQ==
+eyJoaXN0b3J5IjpbMTU2MjI1NDAxNiwxMDc1MjM4ODE5LC0xOD
+cxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1
+MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLT
+EzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0
+NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3Mi
+wxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3
+MzQ4NDQzXX0=
 -->
