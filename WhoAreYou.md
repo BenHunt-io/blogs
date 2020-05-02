@@ -69,7 +69,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
-#### Reptilian Brain ( ~ 500 million years ago)
+#### Reptilian Brain ( ~ 500 Million Years Ago)
 500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays enormous an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following:
 - Heartbeat, Digestion, Hunting, Mating, Balance, Breathing and Metabolism
 
@@ -228,7 +228,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4Njk5MDIzLDEwNzUyMzg4MTksLTE4Nz
+eyJoaXN0b3J5IjpbNjY5Njc4NTExLDEwNzUyMzg4MTksLTE4Nz
 E0NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUx
 MywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMT
 MzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1
