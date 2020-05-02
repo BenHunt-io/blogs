@@ -54,8 +54,7 @@ My behavioral identity, is the behavioral traits and attributes I harbor agnosti
 
 For myself, I tend to over indulge myself on grocery day, consuming half the groceries for the week in one sitting (seriously). The urge is just too strong with all that good food at my disposal! I tend to be a more independent and non conforming thinker. I tend to be a nice person... to a degree :). My level of introversion or extroversion tend to vary depending upon the group of people I'm with. I desire to live a healthy and active life style, where I can do the things I want for as long as I can. On a more abstract note, I want to do meaningful work, work that I can be passionate about. Work that isn't merely an exchange of time for economic output.
 
-All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? 
-I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me, that is 100% me. 
+All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me.. right?
 
 
 ##### Origin of wants / desires / tendencies 
@@ -204,11 +203,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTcxMzczMyw1NTk2MTE4MDMsOTcwMT
-A1ODIxLC0yMDU3Mzg3NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4
-NTEsMTMxNTQ3OTU5LC0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMT
-c5OTAwNjkxNiwtMjYyNDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAy
-NzMwLDExMzczNjU3NzIsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OC
-wyNTYyMjE0OTcsMTQ4NzM0ODQ0MywxNzY3NjA0MzYsLTIwNzk2
-ODE5MTFdfQ==
+eyJoaXN0b3J5IjpbODU1MDIxMTQxLDU1OTYxMTgwMyw5NzAxMD
+U4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1
+MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNz
+k5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3
+MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LD
+I1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4
+MTkxMV19
 -->
