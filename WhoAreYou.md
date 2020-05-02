@@ -109,7 +109,7 @@ This is where I believe my abstract want for meaningful work developed. It was b
 
 But what does meaningful work have to do with making predictions on how to best survive? In the absence of the primal need to survive and reproduce I'm left with gigantic optimizing function that is still trying to model the best future with me in it. My neocortex, or human behavior optimizing function, can't by design choose an action that isn't in the best interest of myself. The want for meaningful work, is simply the path of least resistance or most optimal path for me. It's the path with the least anxiety, depression, pain and one most passion and pleasure. There's trade-offs, but it is the best decision.
 
-I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I'm given. Perhaps If I was given new information about the pleasures of living a simple nomadic life in a 3rd world country, my neocortex would adjust and produce thoughts that rather than chasing meaningful work, I should be simply experiencing life in another country.
+I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I'm given and experiences I've had. Perhaps If I was given new information about the pleasures of living a simple nomadic life in a 3rd world country, my neocortex would adjust and produce thoughts that rather than chasing meaningful work, I should be simply experiencing life in another country.
 
 
 ##### Meditation 
@@ -254,11 +254,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLT
-E3MDYxNjI0MjIsNzY5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUw
-OTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1Mj
-csMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3NDIw
-NzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgyMD
-YwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjExODAzLDk3
-MDEwNTgyMV19
+eyJoaXN0b3J5IjpbMTUxNjc3NTY3NiwtMTIzOTY2MTM3NiwtMT
+k2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0NzIxNzAsNDMxOTMz
+OTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3MiwtMTYzOTU5NzY0Ny
+wtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTkyLDQ2OTg0
+Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NTQ1NDAxNT
+MsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1MDc1OSw1
+NTk2MTE4MDNdfQ==
 -->
