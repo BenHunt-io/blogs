@@ -84,7 +84,7 @@ These are some of the first workers in the kingdom of the brain for which I'm co
 As we evolved into more social animals, the need to fit in, identify foes and friends, perceive emotion and sympathy became increasingly important. It's important to note that we weren't replacing these new needs with the old ones. We still needed to have a heartbeat and reproduce. We were simply building on top of the framework that has worked so well in the past through the process of natural selection. Some of the brain structures we gained include,
 
 - **Hippocampus** : The memory factory. Short term memories are turned into long term memories here.
-- **Amygdala** : Emotions. Fear, joy, sorrow, you name it.
+- **Amygdala** : Emotions. Fear, joy, sorrow.
 - **Thalmus** : The coordinator of the signals in the brain. The area that directs signals to be processed in different areas of the brain.
 - **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
 
@@ -242,7 +242,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwOTQ3NjcxLC04NzQyMDczNTEsLTE2OD
+eyJoaXN0b3J5IjpbNDY5ODQzODc0LC04NzQyMDczNTEsLTE2OD
 c1ODYyNzksLTc1NDU0MDE1MywtMTY1ODU4MjA2MCwxMDc1MjM4
 ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMyw5NzAxMDU4MjEsLT
 IwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1MSwxMzE1
