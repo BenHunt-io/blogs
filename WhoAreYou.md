@@ -80,7 +80,7 @@ Subconsciously, however, my reptilian brain is firing off millions of neurons at
 These are some of the first workers in the kingdom of the brain for which I'm completely and blatantly oblivious.
 
 #### Mammalian Brain
-As we evolved into more social animals, the need to fit in, identify foes and strategically  
+As we evolved into more social animals, the need to fit in, identify foes and friends, and ability perceive emotion and sympathy became increasingly important. 
 
 
 #### Neomammalian Brain (Human Brain)
@@ -234,11 +234,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzQ3NjA3OCwtMTY4NzU4NjI3OSwtNz
-U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
-NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
-wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
-ODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OT
-I3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0
-ODM1MjExOTNdfQ==
+eyJoaXN0b3J5IjpbNTc3NjA1NTM1LC0xNjg3NTg2Mjc5LC03NT
+Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
+MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
+0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
+NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYyNDU5Mj
+czLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3NzIsMTQ4
+MzUyMTE5M119
 -->
