@@ -61,7 +61,7 @@ I, (we), tend to give ourselves full credit for these behavioral traits as if we
 
 An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life possible. 
 
-Much like the young king, I inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain. 
+Much like the young king, I inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain among an seemingly infinite number of feedback loops that composed my umvelt.
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
@@ -218,7 +218,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI2NTMyMDAsLTE4NzE0NTA3NTksNT
+eyJoaXN0b3J5IjpbLTE1OTYxMzk0OTQsLTE4NzE0NTA3NTksNT
 U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
 ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
 w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
