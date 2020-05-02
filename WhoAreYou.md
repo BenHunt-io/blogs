@@ -75,7 +75,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 
 That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism. Rationally, we know that we can wait, we're not going to starve.
 
-Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I getting mad at? Weren't I the one who chose to eat them? 
+Subconsciously, however, my reptilian brain is firing off millions of neurons at a million miles per hour convincing or simply overpowering my rational decision making that eating all of this in one sitting is a good idea. I get mad at myself for doing that, but who am I getting mad at? How is it, that you can even be mad at yourself? Isn't this a paradox? Weren't I the one who chose to eat them? 
 
 #### Mammalian Brain
 As we evolved into cynodont's, some of the earliest 
@@ -232,11 +232,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDA1NDQ0MSwtNzU0NTQwMTUzLC0xNj
-U4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjEx
-ODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OS
-wxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5
-NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1Mz
-E3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTEx
-MzU5MjA0ODhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDQ0NTk0MTIsLTc1NDU0MDE1MywtMT
+Y1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYx
+MTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwND
+ksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5
+OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNT
+MxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0x
+MTM1OTIwNDg4XX0=
 -->
