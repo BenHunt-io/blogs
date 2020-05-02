@@ -57,6 +57,8 @@ For myself, I tend to over indulge myself on grocery day, consuming half the gro
 All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me.. right?
 
 
+
+
 ##### Origin of wants / desires / tendencies 
 - Young king who inherits throne analogy -> subconscious mind.
 - 
@@ -203,11 +205,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MDIxMTQxLDU1OTYxMTgwMyw5NzAxMD
-U4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2NTU3Njg1
-MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOTY5OTUzMjg0LC0xNz
-k5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDczNTMxNywyNDM3MDI3
-MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC0xMTM1OTIwNDg4LD
-I1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2MDQzNiwtMjA3OTY4
-MTkxMV19
+eyJoaXN0b3J5IjpbLTE4NzE0NTA3NTksNTU5NjExODAzLDk3MD
+EwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1NTc2
+ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NCw5Njk5NTMyODQsLT
+E3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0NzM1MzE3LDI0Mzcw
+MjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOTMsLTExMzU5MjA0OD
+gsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2NzYwNDM2LC0yMDc5
+NjgxOTExXX0=
 -->
