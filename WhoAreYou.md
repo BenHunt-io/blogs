@@ -95,7 +95,7 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 #### Neomammalian Brain (Human Brain)
 
-The latest, the cutting edge, the Neomammillian brain. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. 
+The latest, the cutting edge, the Neomammillian brain. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
 
 part of the brain that we give so much credit to in distinguishing humans from the rest of living things.
  
@@ -244,7 +244,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTEyMTU4Niw4ODE0NjQ3NzIsLTE2Mz
+eyJoaXN0b3J5IjpbMTg5NjIwOTA1OCw4ODE0NjQ3NzIsLTE2Mz
 k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
 Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
 U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
