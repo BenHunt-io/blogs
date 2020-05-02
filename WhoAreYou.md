@@ -105,7 +105,10 @@ We tend to distinguish ourselves from animals because we love to be special, but
 
 The neocortex is what allowed us to rise to the top of the food chain. Humans don't have much tools at our disposal to physically defend ourselves, but we are damn resourceful. For instance, if I was stuck in a cage with a bear, I'd be mauled to death in minutes. Given the space of nature, I'd be able to devise a plan to trap the bear or simply construct a tool to kill the bear with. Bears and other mammals aren't concerned with building tools because they are only concerned with what is right in front of them, from moment to moment. They have yet to develop an advanced neocortex.
 
-This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. The framework that takes the state of your well being into account as well as your current and past experiences in efforts to  make predictions about the future. Predictions that are best for your survival and reproduction. Huh, that's funny. Wasn't that the initial need?
+This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. The framework that takes the state of your well being into account as well as your current and past experiences in efforts to  make predictions, (thoughts), about the future. Predictions that are best for your survival and reproduction. Huh, that's funny. Wasn't that the initial need? It seems like we are still trying to fulfill this. 
+
+
+
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
 
@@ -248,11 +251,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NTc4MzkwLDQzMTkzMzkyOCwtMTE0ND
-UwOTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1
-MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3ND
-IwNzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgy
-MDYwLDEwNzUyMzg4MTksLTE4NzE0NTA3NTksNTU5NjExODAzLD
-k3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4ODA0OSwxNjY1
-NTc2ODUxXX0=
+eyJoaXN0b3J5IjpbMTMyODIxODY3Niw0MzE5MzM5MjgsLTExND
+Q1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMxOTQ0
+NTI3LDE3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0LC04Nz
+QyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1MywtMTY1ODU4
+MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LDU1OTYxMTgwMy
+w5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgwNDksMTY2
+NTU3Njg1MV19
 -->
