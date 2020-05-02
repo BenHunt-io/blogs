@@ -95,7 +95,7 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 #### Neomammalian Brain (Human Brain)
 
-The latest in the evolutionary feats of the mind. It
+The latest in the evolutionary feats of the mind. The part of the brain that we give so much credit to in distinguishing humans from the rest of living things.
  
 - Young king who inherits throne analogy -> subconscious mind.
 - 
@@ -242,7 +242,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc2MjQzMyw4ODE0NjQ3NzIsLTE2Mz
+eyJoaXN0b3J5IjpbMTA4ODUyMDYxMSw4ODE0NjQ3NzIsLTE2Mz
 k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
 Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
 U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
