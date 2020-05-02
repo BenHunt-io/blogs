@@ -73,7 +73,7 @@ My brain, like yours, is the culmination of millions of years of evolution, slow
 500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. There was a need to survive and a need to reproduce, which obviously still plays enormous an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following:
 - Heartbeat, Digestion, Hunting, Mating, Balance, Breathing and Metabolism
 
-That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. I 
+That irresistible urge I face coming home with 3 bags full of tasty groceries, (and HEB salsa), has been planted in me from that primal need to survive. That primal need to meet the requirements of my metabolism.
 
 #### Mammalian Brain
 As we evolved into cynodont's, some of the earliest 
@@ -230,11 +230,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDEzMDQ3LDEwNzUyMzg4MTksLTE4Nz
-E0NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUx
-MywtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMT
-MzODQ5MDM1NCw5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1
-OTI3MywxNTg0NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLD
-E0ODM1MjExOTMsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODcz
-NDg0NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDYxNDgyMTksMTA3NTIzODgxOSwtMT
+g3MTQ1MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3
+NTEzLC0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC
+0xMzM4NDkwMzU0LDk2OTk1MzI4NCwtMTc5OTAwNjkxNiwtMjYy
+NDU5MjczLDE1ODQ3MzUzMTcsMjQzNzAyNzMwLDExMzczNjU3Nz
+IsMTQ4MzUyMTE5MywtMTEzNTkyMDQ4OCwyNTYyMjE0OTcsMTQ4
+NzM0ODQ0M119
 -->
