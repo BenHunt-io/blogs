@@ -65,7 +65,7 @@ Much like the young king, I inherited the functions and abilities of my brain. A
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
-My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. The brain has been compared to a museum, carrying with it remnants of the past. Below is a high level view of the brain, showing this outward expansion. Being the most complex known object in
+My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. The brain has been compared to a museum, carrying with it remnants of the past. Below is a high level view of the brain, showing this outward expansion. Being the most complex object in the known universe, I find this proves to be a useful framework for understanding how our behaviors emerged and evolved over time.
 
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
 
@@ -218,11 +218,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NDI3NzQwLC0xODcxNDUwNzU5LDU1OT
-YxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2ODgw
-NDksMTY2NTU3Njg1MSwxMzE1NDc5NTksLTEzMzg0OTAzNTQsOT
-Y5OTUzMjg0LC0xNzk5MDA2OTE2LC0yNjI0NTkyNzMsMTU4NDcz
-NTMxNywyNDM3MDI3MzAsMTEzNzM2NTc3MiwxNDgzNTIxMTkzLC
-0xMTM1OTIwNDg4LDI1NjIyMTQ5NywxNDg3MzQ4NDQzLDE3Njc2
-MDQzNl19
+eyJoaXN0b3J5IjpbLTE2MTI2NTMyMDAsLTE4NzE0NTA3NTksNT
+U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
+ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
+w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
+NzM1MzE3LDI0MzcwMjczMCwxMTM3MzY1NzcyLDE0ODM1MjExOT
+MsLTExMzU5MjA0ODgsMjU2MjIxNDk3LDE0ODczNDg0NDMsMTc2
+NzYwNDM2XX0=
 -->
