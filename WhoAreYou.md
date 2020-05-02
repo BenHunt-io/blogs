@@ -85,7 +85,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 
 - **Hippocampus** : The memory factory. Short term memories are turned into long term memories here.
 - **Amygdala** : Emotions. Fear, joy, sorrow.
-- **Thalmus** : The coordinator of the signals in the brain. The area that directs signals to be processed in different areas of the brain.
+- **Thalmus** : The coordinator of the signals. The area that directs signals to be processed in different areas of the brain.
 - **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
 
 This is where I believe my willingness to be nice appeared. 
@@ -241,7 +241,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTY1MTQzNyw1MzY1OTg1OTIsNDY5OD
+eyJoaXN0b3J5IjpbLTE4ODcwNDQ2NSw1MzY1OTg1OTIsNDY5OD
 QzODc0LC04NzQyMDczNTEsLTE2ODc1ODYyNzksLTc1NDU0MDE1
 MywtMTY1ODU4MjA2MCwxMDc1MjM4ODE5LC0xODcxNDUwNzU5LD
 U1OTYxMTgwMyw5NzAxMDU4MjEsLTIwNTczODc1MTMsLTExMjI2
