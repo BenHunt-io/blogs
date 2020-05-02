@@ -99,7 +99,7 @@ The latest, the cutting edge, the Neomammillian brain, or cerebral cortex. The p
 The primary structure we gained was,
 
 - **Cerebral Cortex** : The highly convoluted and wrinkly outer layer of the brain - responsible for rational thoughts and planning.
-	- **Neocortex (meaning new bark)** : The latest and outermost layer of the Cerebral cortex.
+	- **Neocortex (meaning new bark)** : The latest and outermost layer of the Cerebral cortex. - Higher level cognitive behavior.
 
 
 We tend to distinguish ourselves from animals, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom.
@@ -250,11 +250,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDk3MDUwMiw4ODE0NjQ3NzIsLTE2Mz
-k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
-Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
-U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
-NTA3NTksNTU5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMy
-wtMTEyMjY4ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMz
-ODQ5MDM1NF19
+eyJoaXN0b3J5IjpbOTYyOTQ2NjcyLDg4MTQ2NDc3MiwtMTYzOT
+U5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4NTky
+LDQ2OTg0Mzg3NCwtODc0MjA3MzUxLC0xNjg3NTg2Mjc5LC03NT
+Q1NDAxNTMsLTE2NTg1ODIwNjAsMTA3NTIzODgxOSwtMTg3MTQ1
+MDc1OSw1NTk2MTE4MDMsOTcwMTA1ODIxLC0yMDU3Mzg3NTEzLC
+0xMTIyNjg4MDQ5LDE2NjU1NzY4NTEsMTMxNTQ3OTU5LC0xMzM4
+NDkwMzU0XX0=
 -->
