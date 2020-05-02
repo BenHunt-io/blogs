@@ -103,7 +103,7 @@ The primary structure we gained was the,
 
 We tend to distinguish ourselves from animals because we love to be special, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom. We are much more alike than many prefer to think.
 
-The neocortex is what allowed us to rise to the top of the food chain. We were able to plan using our past experiences via the hippocampus
+The neocortex is what allowed us to rise to the top of the food chain. We were able to plan and outsmart our foes using our rational thought, processing 
 
 ##### Meditation 
 - removal of (behavioral identity, societal identity, & physical identity) -> You
@@ -247,7 +247,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjkxNDAwMSw4ODE0NjQ3NzIsLTE2Mz
+eyJoaXN0b3J5IjpbLTc4MzA3OTQ1Myw4ODE0NjQ3NzIsLTE2Mz
 k1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5
 Miw0Njk4NDM4NzQsLTg3NDIwNzM1MSwtMTY4NzU4NjI3OSwtNz
 U0NTQwMTUzLC0xNjU4NTgyMDYwLDEwNzUyMzg4MTksLTE4NzE0
