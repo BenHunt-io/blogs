@@ -61,7 +61,7 @@ I, (we), tend to give ourselves full credit for these behavioral traits as if we
 
 An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life possible.
 
-Much like young king, we inherited the functions of our brain. 
+Much like young king, I inherited the functions of my brain. 
 
 
 
@@ -211,7 +211,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAwOTI1MzYsLTE4NzE0NTA3NTksNT
+eyJoaXN0b3J5IjpbLTE0NDc2NDQ1NDcsLTE4NzE0NTA3NTksNT
 U5NjExODAzLDk3MDEwNTgyMSwtMjA1NzM4NzUxMywtMTEyMjY4
 ODA0OSwxNjY1NTc2ODUxLDEzMTU0Nzk1OSwtMTMzODQ5MDM1NC
 w5Njk5NTMyODQsLTE3OTkwMDY5MTYsLTI2MjQ1OTI3MywxNTg0
