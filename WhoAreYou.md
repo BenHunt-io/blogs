@@ -95,11 +95,11 @@ Perhaps more importantly, my ability to create memories emerged here. As I began
 
 #### Neomammalian Brain (Human Brain)
 
-Now we welcome in the young king, the latest development, the cutting edge, the Neomammillian brain, or cerebral cortex. The part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
+Now we welcome in the young king, the latest development, the cutting edge, the Neomammillian brain, or simply the cerebral cortex. This is the part of the brain we attribute to being the most "human". This is the most recent formation in the brain. Unlike the vast majority of the brain, this part of the brain doesn't process sensory information. Rather, it is responsible for rational thoughts and planning, or modeling the future.
 The primary structure we gained was the,
 
 - **Cerebral Cortex** : The highly convoluted and wrinkly outer layer of the brain - responsible for rational thoughts and planning.
-	- **Neocortex (meaning new bark)** : The latest and outermost layer of the cerebral cortex. - Higher level cognitive behavior.
+	- **Neocortex (meaning new bark)** : The latest and outermost layer of the cerebral cortex. - responsible for hlevel cognitive behavior.
 
 We tend to distinguish ourselves from animals because we love to be special, but it is only this, the latest formation in the brain that distinguishes us. Like I mentioned, the brain is a museum and we harbor much the same components as our relatives in the animal kingdom. We are much more alike than many prefer to think.
 
@@ -249,7 +249,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NTU3MDc4LDQzMTkzMzkyOCwtMTE0ND
+eyJoaXN0b3J5IjpbMTQ4MjczNjUxLDQzMTkzMzkyOCwtMTE0ND
 UwOTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLTE0MzE5NDQ1
 MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4NzQsLTg3ND
 IwNzM1MSwtMTY4NzU4NjI3OSwtNzU0NTQwMTUzLC0xNjU4NTgy
