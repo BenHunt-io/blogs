@@ -29,7 +29,7 @@ Your umvelt, or subjective reality is built upon the permutation of these senses
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard, monitor, webcam, and microphone don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
-Think about cochlear implants, a device that processes and transmits sound waves from the outside world and stimulates the auditory nerve of the patient enabling the ability to hear. This new capability is simply added to their **umvelt**. This capability is another feedback look or multiple that the patients can utilize to have a wider and more robust model of the world. Does the cochlear implant change the person? I mean, the implant didn't magically kill the old person and birth a new one that could hear. It's the same person, except now they can hear the beauty of music.
+Think about cochlear implants, a device that processes and transmits sound waves from the outside world and stimulates the auditory nerve of the patient enabling the ability to hear. This capability is another feedback look or multiple that the patients can utilize to have a wider and more robust model of the world. Does the cochlear implant change the person? I mean, the implant didn't magically kill the old person and birth a new one that could hear. It's the same person, except now they can hear music, their children's voices, and their annoying family member that they were blessed previously not to hear. This new capability is simply added to their **umvelt**.
 
 Okay. I get it. Don't judge a book by it's cover. I'm not just that 6'4" white guy on the street.
 
@@ -279,7 +279,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMxMjUxMDYsLTIwNzQ2OTk3MTYsLT
+eyJoaXN0b3J5IjpbLTE3OTQ0Nzc3NTIsLTIwNzQ2OTk3MTYsLT
 cxOTMyNDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgz
 NCwzMTQ5NDA5NCwtOTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5ND
 U2NTI4ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYx
