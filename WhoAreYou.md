@@ -29,7 +29,7 @@ Your umvelt, or subjective reality is built upon the permutation of these senses
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard, monitor, webcam, and microphone don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. 
 
-Think about cochlear implants, the device that dramatically upgrades the hearing capabilities of deaf people. The device processes and transmits sound waves from the outside world and stimulates the auditory nerve of the patient enabling the ability to hear. This new capability is simply added to their ,
+Think about cochlear implants, the device that dramatically upgrades the hearing capabilities of deaf people. The device processes and transmits sound waves from the outside world and stimulates the auditory nerve of the patient enabling the ability to hear. This new capability is simply added to their **umvelt**. The patients now have a wider and more robust model of the world. Does a cochlear implant change the patient?
 
 You are interacting with the computer through the peripheral components.
 
@@ -281,11 +281,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MDExNjQxLC0yMDc0Njk5NzE2LC03MT
-kzMjQwNTYsLTk0MjE5MzYyMiw1ODE3MzA4MTEsOTMxNzE4MzQs
-MzE0OTQwOTQsLTk0MjE5MzYyMiwtMTAzNzMyODUwOSwxOTQ1Nj
-UyODg5LC0xMjM5NjYxMzc2LC0xOTYyOTg3Mjc0LC0xNzA2MTYy
-NDIyLDc2OTQ3MjE3MCw0MzE5MzM5MjgsLTExNDQ1MDkwMTgsOD
-gxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMxOTQ0NTI3LDE3MjMz
-ODg2Ml19
+eyJoaXN0b3J5IjpbLTIyODY1NjkyOCwtMjA3NDY5OTcxNiwtNz
+E5MzI0MDU2LC05NDIxOTM2MjIsNTgxNzMwODExLDkzMTcxODM0
+LDMxNDk0MDk0LC05NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NT
+Y1Mjg4OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2
+MjQyMiw3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LD
+g4MTQ2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIz
+Mzg4NjJdfQ==
 -->
