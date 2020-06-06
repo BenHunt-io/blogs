@@ -1,5 +1,5 @@
 # Who are you
-Are you skinny, fat, black, white, or none of the above? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, **you?**
+Are you the color of your skin? Are you a hometown hero? Are you a farmer in a rural village? Are you a serial entrepreneur? Are you what your parents fantasize you to be? Are you a spooky lump of self aware atoms? What makes you, **you?**
 
 I'll volunteering to be the guinea pig in the following introspection. I've been thinking deeply about this lately, in attempts to get at the core of who I am. I won't delve into too much detail about myself as we are about to unravel the fabric of my own reality, but I'm 24, a software developer in Austin Texas and am trying to figure out what I want to do / should be doing with my life. In doing, so I believe this will help you find your true identity, what truly make you, you. I do want to preface this in saying that I do not have a PhD in this subject and you must ultimately decide who you are for yourself.
 
@@ -277,11 +277,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjE5MzYyMiw1ODE3MzA4MTEsOTMxNz
-E4MzQsMzE0OTQwOTQsLTk0MjE5MzYyMiwtMTAzNzMyODUwOSwx
-OTQ1NjUyODg5LC0xMjM5NjYxMzc2LC0xOTYyOTg3Mjc0LC0xNz
-A2MTYyNDIyLDc2OTQ3MjE3MCw0MzE5MzM5MjgsLTExNDQ1MDkw
-MTgsODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMxOTQ0NTI3LD
-E3MjMzODg2Miw1MzY1OTg1OTIsNDY5ODQzODc0LC04NzQyMDcz
-NTFdfQ==
+eyJoaXN0b3J5IjpbMTYwMTQwNjMyNiwtOTQyMTkzNjIyLDU4MT
+czMDgxMSw5MzE3MTgzNCwzMTQ5NDA5NCwtOTQyMTkzNjIyLC0x
+MDM3MzI4NTA5LDE5NDU2NTI4ODksLTEyMzk2NjEzNzYsLTE5Nj
+I5ODcyNzQsLTE3MDYxNjI0MjIsNzY5NDcyMTcwLDQzMTkzMzky
+OCwtMTE0NDUwOTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLT
+E0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4
+NzRdfQ==
 -->
