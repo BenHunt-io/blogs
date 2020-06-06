@@ -69,9 +69,11 @@ Much like the young king, I inherited the functions and abilities of my brain. A
 
 How could I possibly take credit for something I didn't author? For something I inherited? 
 
-My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. The brain has been compared to a museum, carrying with it remnants of the past. Below is a high level view of the brain, showing this outward expansion. Being the most complex object in the known universe, I find this proves to be a useful framework for understanding the origins of our behaviors.
+My brain, like yours, is the culmination of millions of years of evolution, slowly evolving outward forming new structures and functions. The brain has been compared to a museum, carrying with it remnants of the past. Below is a high level view of the brain, showing this outward expansion. Being the most complex object in the known universe, I find this proves to be a simplified and useful framework for understanding the origins of our behaviors.
 
 ![Anatomy of Brain](https://imgur.com/LEIa6TD.png)
+
+
 
 #### Reptilian Brain ( ~ 500 Million Years Ago)
 500 million years ago, there wasn't a need for to have meaningful work. There wasn't a need to be nice. Emerging from the sea, there was a primal need to survive and reproduce, which obviously still plays an enormous role in our behavior and decision making today. These basic reproduction and survival needs were comprised of some the following,
@@ -281,11 +283,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ4NTg2NDIsMTc1MzI3MjUyMSwxNz
-UzMjcyNTIxLC0yMDc0Njk5NzE2LC03MTkzMjQwNTYsLTk0MjE5
-MzYyMiw1ODE3MzA4MTEsOTMxNzE4MzQsMzE0OTQwOTQsLTk0Mj
-E5MzYyMiwtMTAzNzMyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYx
-Mzc2LC0xOTYyOTg3Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MC
-w0MzE5MzM5MjgsLTExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5
-NTk3NjQ3XX0=
+eyJoaXN0b3J5IjpbLTQxNjIwNzEzMywtMTE3NDg1ODY0MiwxNz
+UzMjcyNTIxLDE3NTMyNzI1MjEsLTIwNzQ2OTk3MTYsLTcxOTMy
+NDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgzNCwzMT
+Q5NDA5NCwtOTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5NDU2NTI4
+ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYxNjI0Mj
+IsNzY5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0
+NjQ3NzJdfQ==
 -->
