@@ -92,7 +92,7 @@ As we evolved into more social animals, the need to fit in, identify foes and fr
 - **Hippocampus** : The memory factory. Short term memories are turned into long term memories here.
 - **Amygdala** : Emotions. Fear, joy, sorrow.
 - **Thalmus** : The coordinator of the signals. The area that directs signals to be processed in different areas of the brain.
-- **Hypothalmus** :  Regulates body temperature, circadian rhythm (which be be a bitch), and aspects of reproduction.
+- **Hypothalmus** :  Regulates body temperature, circadian rhythm (which can be a b*tch), and aspects of reproduction.
 
 This is where I believe my willingness to be nice originated. Somewhere in my evolutionary history as a mammal, it was beneficial for a social animal to be nice to others within the pact. Groups produce much greater results than individuals alone. I sure as hell wouldn't want to go on a hunt alone or sleep in the wilderness by myself. Nature is a ruthless and unforgiving place. It was extraordinarily beneficial to have each others back. 
 
@@ -283,11 +283,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTc4NDgxLC0xMTc0ODU4NjQyLDE3NT
-MyNzI1MjEsMTc1MzI3MjUyMSwtMjA3NDY5OTcxNiwtNzE5MzI0
-MDU2LC05NDIxOTM2MjIsNTgxNzMwODExLDkzMTcxODM0LDMxND
-k0MDk0LC05NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4
-OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMi
-w3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2
-NDc3Ml19
+eyJoaXN0b3J5IjpbLTI1NTk3MTcxMywtMTE3NDg1ODY0MiwxNz
+UzMjcyNTIxLDE3NTMyNzI1MjEsLTIwNzQ2OTk3MTYsLTcxOTMy
+NDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgzNCwzMT
+Q5NDA5NCwtOTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5NDU2NTI4
+ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYxNjI0Mj
+IsNzY5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0
+NjQ3NzJdfQ==
 -->
