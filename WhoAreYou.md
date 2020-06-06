@@ -27,7 +27,7 @@ Below is a taste of what comprises your umvelt,
 
 Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities like the perception of time). This is a short list. I couldn't possibly list out every permutation, as there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. The uniqueness of my umvelt can really be grasped after considering the uniqueness of something as small in totality as my fingerprint. However, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
 
-So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. In otherwards  This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
+So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard, webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
 Okay. I get it. Don't judge a book by it's cover. I'm not just that 6'4" white guy on the street.
 
@@ -277,11 +277,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUwODUyMjEsLTcxOTMyNDA1NiwtOT
-QyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgzNCwzMTQ5NDA5NCwt
-OTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5NDU2NTI4ODksLTEyMz
-k2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYxNjI0MjIsNzY5NDcy
-MTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0NjQ3NzIsLT
-E2Mzk1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5
-ODU5Ml19
+eyJoaXN0b3J5IjpbLTE2Mzk5NjE0MCwtNzE5MzI0MDU2LC05ND
+IxOTM2MjIsNTgxNzMwODExLDkzMTcxODM0LDMxNDk0MDk0LC05
+NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwtMTIzOT
+Y2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0NzIx
+NzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3MiwtMT
+YzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIzMzg4NjIsNTM2NTk4
+NTkyXX0=
 -->
