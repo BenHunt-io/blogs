@@ -41,6 +41,8 @@ If my physical identity isn't really the true me. Then, surely it's **what I do*
 
 Unfortunately there's a multitude of problems identifying yourself by your profession. This might be what I do, but it is still not who I am.  There are too many external influences that affect what I ultimately end up doing.
 
+It's important to recc
+
 ##### Time and Place
 Time and place are by in large the biggest in influencing factors. If we just for a second assume that I wasn't born a millennial in the technological revolution, I would not at all be coding. What I'm doing for at-least 8 hours a day is entirely, 100%, dependent upon the era in which I'm born. My occupation has been around for less than 100 years. The first software conference was in 1968. In contrast, the start of the human lineage containing chimpanzees and gorillas began around 6-7 million years ago while modern humans emerged around 200,000 years ago. Given equivalent DNA, I simply would not be a software developer at any other point in time. It's simply not possible. I might've been a pyramid architect in 2500 B.C., but I sure as hell wouldn't be a software developer.
 
@@ -281,11 +283,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzI3MjUyMSwtMjA3NDY5OTcxNiwtNz
-E5MzI0MDU2LC05NDIxOTM2MjIsNTgxNzMwODExLDkzMTcxODM0
-LDMxNDk0MDk0LC05NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NT
-Y1Mjg4OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2
-MjQyMiw3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0NTA5MDE4LD
-g4MTQ2NDc3MiwtMTYzOTU5NzY0NywtMTQzMTk0NDUyNywxNzIz
-Mzg4NjJdfQ==
+eyJoaXN0b3J5IjpbLTgyNTMzNzI2MCwxNzUzMjcyNTIxLC0yMD
+c0Njk5NzE2LC03MTkzMjQwNTYsLTk0MjE5MzYyMiw1ODE3MzA4
+MTEsOTMxNzE4MzQsMzE0OTQwOTQsLTk0MjE5MzYyMiwtMTAzNz
+MyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYxMzc2LC0xOTYyOTg3
+Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MCw0MzE5MzM5MjgsLT
+ExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMx
+OTQ0NTI3XX0=
 -->
