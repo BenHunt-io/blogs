@@ -63,7 +63,7 @@ All of these tendencies that I attribute to myself as being part of my identity,
 ##### Origin of wants / desires / tendencies 
 I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be a nice person. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's seamlessly interwoven into your subjective experience.
 
-An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running without a hiccup. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life even remotely possible. 
+An analogy that I love to use to illustrating this illusion is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running without a hiccup. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life even remotely possible. 
 
 Much like the young king, I inherited the functions and abilities of my brain. At the time I was born, I was instantaneously able to perceive and build a model of the world through my 5 senses. I was able to have a heart beat, regulate temperature, and respond to pain among an seemingly infinite number of feedback loops that composed my umvelt.
 
@@ -281,11 +281,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwODIxMzg0LDE3NTMyNzI1MjEsMTc1Mz
-I3MjUyMSwtMjA3NDY5OTcxNiwtNzE5MzI0MDU2LC05NDIxOTM2
-MjIsNTgxNzMwODExLDkzMTcxODM0LDMxNDk0MDk0LC05NDIxOT
-M2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwtMTIzOTY2MTM3
-NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0NzIxNzAsND
-MxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3MiwtMTYzOTU5
-NzY0N119
+eyJoaXN0b3J5IjpbLTExNzQ4NTg2NDIsMTc1MzI3MjUyMSwxNz
+UzMjcyNTIxLC0yMDc0Njk5NzE2LC03MTkzMjQwNTYsLTk0MjE5
+MzYyMiw1ODE3MzA4MTEsOTMxNzE4MzQsMzE0OTQwOTQsLTk0Mj
+E5MzYyMiwtMTAzNzMyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYx
+Mzc2LC0xOTYyOTg3Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MC
+w0MzE5MzM5MjgsLTExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5
+NTk3NjQ3XX0=
 -->
