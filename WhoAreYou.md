@@ -25,7 +25,7 @@ Below is a taste of what comprises your umvelt,
 |Taste | sweetness, sourness, saltiness, punginency, astringency, metallicness |
 |Touch | pain tolerance, pleasure, fine touch, crude touch, passive tactile spatial acuity, balance, temperature |
 
-Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities like the perception of time). This is a short list. I couldn't possibly list out every permutation, as there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness.The uniqueness can be of my umvelt can really be grasped after considering the uniqueness of something as small in totality as my fingerprint. However, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
+Your umvelt, or subjective reality is built upon the permutation of these senses (plus other mental capacities like the perception of time). This is a short list. I couldn't possibly list out every permutation, as there are gradients to each attribute. For instance, there are thousands if not more levels to sweetness. The uniqueness can be of my umvelt can really be grasped after considering the uniqueness of something as small in totality as my fingerprint. However, just because I interact uniquely with the world does not mean that defines who I am, it's just merely what I've been given by my DNA to use as my unique set of tools to interact with the world. 
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard and webcam don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
@@ -277,11 +277,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTMyNDA1NiwtOTQyMTkzNjIyLDU4MT
-czMDgxMSw5MzE3MTgzNCwzMTQ5NDA5NCwtOTQyMTkzNjIyLC0x
-MDM3MzI4NTA5LDE5NDU2NTI4ODksLTEyMzk2NjEzNzYsLTE5Nj
-I5ODcyNzQsLTE3MDYxNjI0MjIsNzY5NDcyMTcwLDQzMTkzMzky
-OCwtMTE0NDUwOTAxOCw4ODE0NjQ3NzIsLTE2Mzk1OTc2NDcsLT
-E0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5ODU5Miw0Njk4NDM4
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMjQ2MDUwNjAsLTcxOTMyNDA1NiwtOT
+QyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgzNCwzMTQ5NDA5NCwt
+OTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5NDU2NTI4ODksLTEyMz
+k2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYxNjI0MjIsNzY5NDcy
+MTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0NjQ3NzIsLT
+E2Mzk1OTc2NDcsLTE0MzE5NDQ1MjcsMTcyMzM4ODYyLDUzNjU5
+ODU5Ml19
 -->
