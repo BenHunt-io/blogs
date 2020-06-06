@@ -114,7 +114,7 @@ The neocortex is what allowed us to rise to the top of the food chain. Humans do
 
 This is where I believe my abstract want for meaningful work developed. It was built on top of this neocortex framework. The framework that takes the state of your well being into account as well as your current and past experiences in efforts to  make predictions, (thoughts), about the future. Predictions that are best for your survival and reproduction. Huh, that's funny. Wasn't that the initial need, to survive and reproduce? It seems like we are still trying to fulfill this. 
 
-But what does meaningful work have to do with making predictions on how to best survive? In the absence of the primal need to survive and reproduce I'm left with gigantic optimizing function that is still trying to model the best future with me in it. My neocortex, or human behavior optimizing function, can't by design choose an action that isn't in the best interest of myself. The want for meaningful work, is simply the path of least resistance or most optimal path for me. It's the path with the least anxiety, depression, pain and one most passion and pleasure. There's trade-offs, but it is the best decision.
+But what does meaningful work have to do with making predictions on how to best survive? In the absence of the primal need to survive and reproduce I'm left with an enormous optimizing function that is still trying to model the best future with me in it. My neocortex, or human behavior optimizing function, can't by design choose an action that isn't in the best interest of myself. The want for meaningful work, is simply the path of least resistance or most optimal path for me. It's the path with the least anxiety, depression, pain and one most passion and pleasure. There's trade-offs, but it is the best decision.
 
 I want to stress that this might not the real optimal path for myself. This is the best guess I can make for the information I'm given and experiences I've had. Perhaps If I was given new information about the pleasures of living a simple nomadic life in a 3rd world country, my neocortex would adjust and produce wants, wants that would lead me to quit my job and live that life.
 
@@ -283,11 +283,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTk3MTcxMywtMTE3NDg1ODY0MiwxNz
-UzMjcyNTIxLDE3NTMyNzI1MjEsLTIwNzQ2OTk3MTYsLTcxOTMy
-NDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgzNCwzMT
-Q5NDA5NCwtOTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5NDU2NTI4
-ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYxNjI0Mj
-IsNzY5NDcyMTcwLDQzMTkzMzkyOCwtMTE0NDUwOTAxOCw4ODE0
-NjQ3NzJdfQ==
+eyJoaXN0b3J5IjpbLTk4MzA5MTg5MCwtMjU1OTcxNzEzLC0xMT
+c0ODU4NjQyLDE3NTMyNzI1MjEsMTc1MzI3MjUyMSwtMjA3NDY5
+OTcxNiwtNzE5MzI0MDU2LC05NDIxOTM2MjIsNTgxNzMwODExLD
+kzMTcxODM0LDMxNDk0MDk0LC05NDIxOTM2MjIsLTEwMzczMjg1
+MDksMTk0NTY1Mjg4OSwtMTIzOTY2MTM3NiwtMTk2Mjk4NzI3NC
+wtMTcwNjE2MjQyMiw3Njk0NzIxNzAsNDMxOTMzOTI4LC0xMTQ0
+NTA5MDE4XX0=
 -->
