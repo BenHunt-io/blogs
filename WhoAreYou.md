@@ -61,7 +61,7 @@ For myself, I tend to over indulge myself on grocery day, consuming half the gro
 All of these tendencies that I attribute to myself as being part of my identity, but where are they coming from? I might've chosen to act upon the urge to eat half my groceries in a day, but where did the urge that provoked my over indulgence come from? I didn't choose for that urge to be there. But, my tendency to be nice, surely that was me.. right?
 
 ##### Origin of wants / desires / tendencies 
-I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be a nice person. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's a seamlessly interwoven into your subjective experience.
+I, (we), tend to give ourselves full credit for these behavioral traits as if we authored them, ourselves. I chose to be a nice person. I chose to eat all my groceries the same day I bought them because damn, that salsa was just too irresistible. I chose to want meaningful work. I chose to be healthy. It's easy to fall down this path of *believing*, after all it's seamlessly interwoven into your subjective experience.
 
 An analogy that I love is about a young king who inherits the throne. The young kind is quick to assume credit for everything in the kingdom but is blissfully unaware of the thousands of staff, soldiers, peasants and other workers who maintain it, keeping the system running without a hiccup. Further, he is unaware of the millions of humans prior to his generation that slowly evolved the technologies and agricultural practices to make his life even remotely possible. 
 
@@ -281,11 +281,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzI3MjUyMSwxNzUzMjcyNTIxLC0yMD
-c0Njk5NzE2LC03MTkzMjQwNTYsLTk0MjE5MzYyMiw1ODE3MzA4
-MTEsOTMxNzE4MzQsMzE0OTQwOTQsLTk0MjE5MzYyMiwtMTAzNz
-MyODUwOSwxOTQ1NjUyODg5LC0xMjM5NjYxMzc2LC0xOTYyOTg3
-Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3MjE3MCw0MzE5MzM5MjgsLT
-ExNDQ1MDkwMTgsODgxNDY0NzcyLC0xNjM5NTk3NjQ3LC0xNDMx
-OTQ0NTI3XX0=
+eyJoaXN0b3J5IjpbNjIwODIxMzg0LDE3NTMyNzI1MjEsMTc1Mz
+I3MjUyMSwtMjA3NDY5OTcxNiwtNzE5MzI0MDU2LC05NDIxOTM2
+MjIsNTgxNzMwODExLDkzMTcxODM0LDMxNDk0MDk0LC05NDIxOT
+M2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwtMTIzOTY2MTM3
+NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0NzIxNzAsND
+MxOTMzOTI4LC0xMTQ0NTA5MDE4LDg4MTQ2NDc3MiwtMTYzOTU5
+NzY0N119
 -->
