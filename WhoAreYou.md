@@ -29,6 +29,7 @@ Your umvelt, or subjective reality is built upon the permutation of these senses
 
 So, the observer on the sidewalk that sees me can draw a conclusion about **what** I interact in the world with, but not **who** is interacting with it. This one of the greatest facades that we live with on day to day basis. The physical manifestation of a person is merely the person's interface into the world. For example, the keyboard, monitor, webcam, and microphone don't describe the computer, they are purely peripheral components for interacting with the computer. You can swap them out and upgrade them as long as the components send signals the computer can understand. You are interacting with the computer through the peripheral components.
 
+(
 Think about cochlear implants, a device that processes and transmits sound waves from the outside world and stimulates the auditory nerve of the patient enabling the ability to hear. This capability is yet just another feedback loop that the patients can utilize to have a wider and more robust model of the world. Does the cochlear implant change the person, does it change **who** they are? I mean, the implant didn't magically kill the old person and birth a new one that could hear. It's the same person, except now they can hear music, their children's voices, and their annoying family member that they were blessed previously not to hear. This new hearing capability is simply added to their list of feedback loops that compose their **umvelt**.
 
 ![enter image description here](https://imgur.com/csyFsqS.jpg)
@@ -283,11 +284,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3ODI5OTkyLC05ODMwOTE4OTAsLTI1NT
-k3MTcxMywtMTE3NDg1ODY0MiwxNzUzMjcyNTIxLDE3NTMyNzI1
-MjEsLTIwNzQ2OTk3MTYsLTcxOTMyNDA1NiwtOTQyMTkzNjIyLD
-U4MTczMDgxMSw5MzE3MTgzNCwzMTQ5NDA5NCwtOTQyMTkzNjIy
-LC0xMDM3MzI4NTA5LDE5NDU2NTI4ODksLTEyMzk2NjEzNzYsLT
-E5NjI5ODcyNzQsLTE3MDYxNjI0MjIsNzY5NDcyMTcwLDQzMTkz
-MzkyOF19
+eyJoaXN0b3J5IjpbLTE5OTgyMDI3MCw4Nzc4Mjk5OTIsLTk4Mz
+A5MTg5MCwtMjU1OTcxNzEzLC0xMTc0ODU4NjQyLDE3NTMyNzI1
+MjEsMTc1MzI3MjUyMSwtMjA3NDY5OTcxNiwtNzE5MzI0MDU2LC
+05NDIxOTM2MjIsNTgxNzMwODExLDkzMTcxODM0LDMxNDk0MDk0
+LC05NDIxOTM2MjIsLTEwMzczMjg1MDksMTk0NTY1Mjg4OSwtMT
+IzOTY2MTM3NiwtMTk2Mjk4NzI3NCwtMTcwNjE2MjQyMiw3Njk0
+NzIxNzBdfQ==
 -->
