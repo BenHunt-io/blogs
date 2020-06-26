@@ -5,7 +5,9 @@ I'll volunteering to be the guinea pig in the following introspection. I've been
 
 Fortunately (because our existence would be otherwise be boring if it were unfortunate), there are many many facets in examining who you are. If you aren't careful, you'll end up with analysis paralysis and know less about yourself than you when you began your search. This is analogous to using google maps. Imagine you were starting in New York and your destination was Austin Texas, you wouldn't start out from the extremely low level details of the street view and try to navigate to your destination with just left and right turns. You would get lost. You need to start from the country view, then the state view, then the city and so on. You cut out the unnecessary details. I don't need to know where Europe is with respect to Africa to go from New York to Austin.
 
-We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe. So, lets imagine you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. Assume these to be the same between myself and the entity or observer. We are examining my raw appearance.
+We'll be examining my identity in a similar fashion, slowly unraveling layer by layer till we get to the destination, the core. We'll be removing unnecessary dependencies along the way, much like ignoring the spatial relationship of Africa to Europe.
+
+So, lets imagine you were to run into me on the street, who would I *appear* to be? I mean, if I were butt ass naked and there was no signs of culture associated with my physical appearance. Diet and physical fitness are irrelevant in this example. Assume these to be the same between myself and the entity or observer. We are examining my raw appearance.
 
 ### Physical Identity
 
@@ -285,11 +287,11 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5OTM2MDA1LDg3NzgyOTk5MiwtOTgzMD
-kxODkwLC0yNTU5NzE3MTMsLTExNzQ4NTg2NDIsMTc1MzI3MjUy
-MSwxNzUzMjcyNTIxLC0yMDc0Njk5NzE2LC03MTkzMjQwNTYsLT
-k0MjE5MzYyMiw1ODE3MzA4MTEsOTMxNzE4MzQsMzE0OTQwOTQs
-LTk0MjE5MzYyMiwtMTAzNzMyODUwOSwxOTQ1NjUyODg5LC0xMj
-M5NjYxMzc2LC0xOTYyOTg3Mjc0LC0xNzA2MTYyNDIyLDc2OTQ3
-MjE3MF19
+eyJoaXN0b3J5IjpbMTMzMzY0MTYwNSw1NTk5MzYwMDUsODc3OD
+I5OTkyLC05ODMwOTE4OTAsLTI1NTk3MTcxMywtMTE3NDg1ODY0
+MiwxNzUzMjcyNTIxLDE3NTMyNzI1MjEsLTIwNzQ2OTk3MTYsLT
+cxOTMyNDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgz
+NCwzMTQ5NDA5NCwtOTQyMTkzNjIyLC0xMDM3MzI4NTA5LDE5ND
+U2NTI4ODksLTEyMzk2NjEzNzYsLTE5NjI5ODcyNzQsLTE3MDYx
+NjI0MjJdfQ==
 -->
