@@ -13,7 +13,7 @@ So, lets imagine you were to run into me on the street, who would I *appear* to 
 
 ![enter image description here](https://imgur.com/OGvx4oY.png)
 
-Well, upon first encounter, my natural appearance would resemble a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the galactic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
+Well, upon first encounter, my natural appearance would resemble a 6'4" white male with brown eyes and brown hair at around 200lb. But what **is** it that you are encountering when you first meet someone? I didn't choose to be 6"4. I didn't choose to be white with brown eyes. Can you really draw any conclusions about a person's identity, who they are, from their raw natural appearance? My raw natural appearance was decided before I was born. It was decided when I won the cosmic lottery, at conception. It had been coded in my DNA, the genetic instructions for building me, including my physical raw appearance as I mature.
 
 You can deduce  a **subset** of what my DNA might be that had produced my notable physical traits. You can deduce that the I interact with the world in a uniquely different subjective reality than your own. For instance, no two people stand the same height. No two people have the vision. No two people have the same hearing capabilities. We often judge people as if they are interfacing with the world in the same way as you. In this way, we can only be empathetic to a degree, we cannot truly step in their shoes. My model of the world is not the same as yours nor is yours is the same as anybody else. My unique model of the world is built through my interface with it, via my body, that is the permutation of all the feedback loops produced from my senses. This subjective reality, this model of the world I build is known as your **umvelt**
 
@@ -287,7 +287,7 @@ Internet:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzY0MTYwNSw1NTk5MzYwMDUsODc3OD
+eyJoaXN0b3J5IjpbMTU1NzYwMTcyNyw1NTk5MzYwMDUsODc3OD
 I5OTkyLC05ODMwOTE4OTAsLTI1NTk3MTcxMywtMTE3NDg1ODY0
 MiwxNzUzMjcyNTIxLDE3NTMyNzI1MjEsLTIwNzQ2OTk3MTYsLT
 cxOTMyNDA1NiwtOTQyMTkzNjIyLDU4MTczMDgxMSw5MzE3MTgz
